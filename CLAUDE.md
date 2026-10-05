@@ -100,6 +100,7 @@ Wenn kein Sticker sinnvoll ist:
 
 - englische Story-Copy kleinschreiben
 - maximal ein Emoji pro Textelement
+- niemals das Teufelsemoji (😈 oder 👿) verwenden
 - kurze, gesprochene Sätze
 - Ellipsen sparsam als natürlicher Übergang
 - keine Marketingbegriffe und keine erklärenden Metaphern
