@@ -129,6 +129,15 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - **Text:** `my hand went straight to my boob... 😏`
 - **Fragen-Sticker:** `would yours go straight under the thong? 🐱`
 
+### LEN-005 — Nah an der Kamera, weißes Top (DM-CTA)
+
+- **Bild:** `IMG_8513_1.HEIC`
+- **Platzierung:** oben links auf dem hellen Vorhang neben dem Kopf, zwei Textzeilen untereinander
+- **Text:** `do you like the angle? 😜`
+- **Zweite Textzeile (CTA):** `whoever messages me first gets a little something 😘`
+- **Sticker:** keiner
+- **Chatter-Hinweis:** Die erste Person, die nach der Story schreibt, bekommt eine kleine Belohnung (Auswahl durch das Chat-Team).
+
 ## Nicht als Endfassung geführt
 
 - ersetzte Bilder, wenn der Nutzer ausdrücklich ein anderes Bild bevorzugt hat

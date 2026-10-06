@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated": "2026-10-04",
+  "updated": "2026-10-06",
   "language": "en",
   "notes": "Final/current versions reconstructed from the project conversation. Rejected drafts are intentionally excluded.",
   "stories": [
@@ -172,6 +172,17 @@
       "format": "text_and_question",
       "text": "my hand went straight to my boob... 😏",
       "question": "would yours go straight under the thong? 🐱",
+      "status": "final"
+    },
+    {
+      "id": "LEN-005",
+      "model": "Leni",
+      "source_image": "IMG_8513_1.HEIC",
+      "placement": "top left on the light curtain next to her head, two stacked text lines",
+      "format": "text_only",
+      "text": "do you like the angle? 😜",
+      "cta_text": "whoever messages me first gets a little something 😘",
+      "chatter_note": "First fan to message after the story receives a small reward; chat team picks it.",
       "status": "final"
     }
   ]

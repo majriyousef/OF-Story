@@ -41,6 +41,7 @@ Arbeite ausschließlich mit nachweislich volljährigen Personen und für erwachs
 - Vom Nutzer bereits akzeptierte Satzteile bleiben erhalten. Bei `analysiere nochmal` wird nicht automatisch umgeschrieben; nur bei einem belegbaren Qualitätsgewinn ändern.
 - Wenn die bestehende Version nach erneuter Prüfung die beste bleibt, ausdrücklich sagen, dass nichts geändert wird.
 - Keine Behauptung, zu „1000 %“ sicher zu sein. Stattdessen die überprüften Gründe knapp nennen.
+- DM-CTAs müssen für das Chat-Team ohne Zusatzanweisung einlösbar sein. Keine unbestimmten Versprechen wie ein „secret“; lieber einfacher Anreiz wie `whoever messages me first gets a little something` und einen Chatter-Hinweis im Archiv festhalten.
 
 ## Stimmen der Creatorinnen
 
@@ -112,5 +113,6 @@ Wenn kein Sticker sinnvoll ist:
 - bestätigte Arbeitsregeln aus Feedback: `references/jonathan-feedback.md`
 - ältere rekonstruierte Stilbeispiele: `references/recovered-story-examples.md`
 - verbindliches André-Feedback zur Variation: `references/andre-feedback.md`
+- verbindliches CTA-Feedback für DM-Storys: `references/cta-feedback.md`
 - aktuelle Storyfassungen: `stories/final-stories.md`
 - strukturierte Daten: `data/stories.json`

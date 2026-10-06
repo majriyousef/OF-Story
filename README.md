@@ -52,6 +52,7 @@ Claude muss zuerst das Bild prüfen und darf keine nicht sichtbaren Details erfi
 ├── data/stories.json          # strukturierte Story-Daten
 ├── references/
 │   ├── andre-feedback.md
+│   ├── cta-feedback.md
 │   ├── jonathan-feedback.md
 │   └── recovered-story-examples.md
 ├── scripts/
