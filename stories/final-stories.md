@@ -134,9 +134,9 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - **Bild:** `IMG_8513_1.HEIC`
 - **Platzierung:** oben links auf dem hellen Vorhang neben dem Kopf, zwei Textzeilen untereinander
 - **Text:** `do you like the angle? 😜`
-- **Zweite Textzeile (CTA):** `whoever messages me first gets a little something 😘`
+- **Zweite Textzeile (CTA):** `whoever messages me first gets an even closer look 😘`
 - **Sticker:** keiner
-- **Chatter-Hinweis:** Die erste Person, die nach der Story schreibt, bekommt eine kleine Belohnung (Auswahl durch das Chat-Team).
+- **Chatter-Hinweis:** Die erste Person, die nach der Story schreibt, bekommt ein noch näheres Bild aus diesem Set.
 
 ## Nicht als Endfassung geführt
 

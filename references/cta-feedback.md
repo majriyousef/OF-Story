@@ -9,7 +9,8 @@ Anlass: Leni-Story `leaning in this close because i've got a secret... i'm only 
 ## Verbindliche Konsequenz
 
 - DM-CTAs dürfen keine Inhalte versprechen, die das Chat-Team nicht ohne Zusatzanweisung einlösen kann (z. B. ein unbestimmtes „secret“).
-- Bevorzugt: eine einfache, natürliche Frage oder Beobachtung plus klarer Anreiz zum Schreiben, z. B. `whoever messages me first gets a little something`.
+- Bevorzugt: eine einfache, natürliche Frage oder Beobachtung plus klarer Anreiz zum Schreiben, z. B. `whoever messages me first gets an even closer look`.
+- Der Anreiz muss konkret und bildbezogen sein. Zu vage Formulierungen wie `a little something` wurden abgelehnt.
 - Mystery-Aufhänger wirken schnell konstruiert („weird“) und werden vermieden.
 - Bei jeder DM-Story im Archiv einen kurzen Chatter-Hinweis festhalten: Was bekommt der Fan, der schreibt?
 - DM-CTA-Formulierungen über mehrere Storys variieren (`dm me`, `send me`, `say hi in my messages`, `whoever messages me first` …), nicht dreimal hintereinander `dm me`.
