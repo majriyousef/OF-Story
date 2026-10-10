@@ -99,6 +99,14 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - **Text:** `now imagine me in doggy... boobs bouncing while you pull the red lace aside 😏`
 - **Fragen-Sticker:** `tell me... what would you do to me? 😉`
 
+### SAR-005 — Strümpfe POV auf dem Bett
+
+- **Bild:** `IMG_0147.HEIC`
+- **Platzierung:** Question-Sticker oben links auf dem hellen Holzschrank
+- **Question-Sticker:** `rip these stockings off me... or take me with them on? 😏`
+- **Normaler Text:** keiner
+- **Freigabe:** André („Yes“); ersetzt die verworfene Frage `my stockings end right here... so where do your hands start?` (zu hohe Antwort-Hürde, nicht relatable)
+
 ## Leni
 
 ### LEN-001 — Werkbank

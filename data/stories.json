@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated": "2026-10-06",
+  "updated": "2026-10-11",
   "language": "en",
   "notes": "Final/current versions reconstructed from the project conversation. Rejected drafts are intentionally excluded.",
   "stories": [
@@ -132,6 +132,15 @@
       "format": "text_and_question",
       "text": "now imagine me in doggy... boobs bouncing while you pull the red lace aside 😏",
       "question": "tell me... what would you do to me? 😉",
+      "status": "final"
+    },
+    {
+      "id": "SAR-005",
+      "model": "Sarah",
+      "source_image": "IMG_0147.HEIC",
+      "placement": "question sticker top left on the light wooden wardrobe",
+      "format": "question_only",
+      "question": "rip these stockings off me... or take me with them on? 😏",
       "status": "final"
     },
     {

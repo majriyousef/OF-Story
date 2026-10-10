@@ -34,6 +34,8 @@ Prüfe in `stories/final-stories.md` und `data/stories.json` die jüngsten passe
 - konkrete Fantasie, ausdrücklich als Vorstellung formuliert
 - Herausforderung an den Betrachter
 - Entscheidung zwischen zwei klaren Optionen
+- einfache, direkte Ankündigung (`who wants to see ...?`)
+- nahbare Alltagssituation plus niedrigschwelliger Gesprächseinstieg (`anyone up for a chat?`)
 
 ## Wiederholungssperren
 
