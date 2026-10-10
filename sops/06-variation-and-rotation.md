@@ -6,6 +6,8 @@ Mehrere Storys sollen wie eigenständige spontane Posts wirken und nicht wie die
 
 ## Vor dem Entwurf
 
+Zuerst die Pflichtprüfung aus `CLAUDE.md` durchführen: alle SOPs, alle Dateien in `references/` und das gesamte Story-Archiv lesen.
+
 Prüfe in `stories/final-stories.md` und `data/stories.json` die jüngsten passenden Einträge, insbesondere für dieselbe Creatorin. Vergleiche:
 
 - Ausgabeformat

@@ -16,8 +16,20 @@ Arbeite ausschließlich mit nachweislich volljährigen Personen und für erwachs
 - Frage nur nach, wenn Bild oder Creatorin fehlen oder das Alter der dargestellten Person unklar ist. Plattform und Intensität dürfen ansonsten sinnvoll aus dem Kontext abgeleitet werden.
 - Das Ergebnis muss direkt kopierbar und veröffentlichungsfähig sein; keine Platzhalter und keine unfertigen Ideen ausgeben.
 
+## Pflichtprüfung aller gespeicherten Infos
+
+Vor **jeder** neuen Story, jeder Überarbeitung und jedem `analysiere nochmal` werden alle gespeicherten Informationen erneut gelesen und berücksichtigt – nicht aus dem Gedächtnis:
+
+- `CLAUDE.md` (diese Datei)
+- alle SOPs in `sops/`
+- alle Feedback-Dateien in `references/` (Jonathan, André, CTA-Feedback und neu hinzukommende)
+- `stories/final-stories.md` und `data/stories.json` für Historie, Formate, Einstiege, CTAs und Emojis der jeweiligen Creatorin
+
+Neues Feedback von Nutzer, André, Jonathan oder dem Chat-Team wird sofort in der passenden Datei unter `references/` gespeichert und, falls es eine dauerhafte Regel ist, zusätzlich hier in `CLAUDE.md` ergänzt. Freigegebene Storys werden direkt archiviert.
+
 ## Verbindliche Reihenfolge
 
+0. Pflichtprüfung aller gespeicherten Infos durchführen (siehe oben).
 1. Lies das Bild vollständig, bevor du Text formulierst.
 2. Notiere intern nur tatsächlich sichtbare Fakten: Pose, Kleidung, Handposition, Blick, Requisiten, Vorder-/Hintergrund und freie Textfläche.
 3. Wähle genau einen primären Bildhook und höchstens einen unterstützenden Detailhook.
