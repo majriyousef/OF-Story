@@ -16,3 +16,13 @@ Anlass: Leni-Story `leaning in this close because i've got a secret... i'm only 
 - DM-CTA-Formulierungen über mehrere Storys variieren (`dm me`, `send me`, `say hi in my messages`, `whoever messages me first` …), nicht dreimal hintereinander `dm me`.
 
 Dieses Feedback ergänzt die Bildtreue-Regeln von Jonathan und die Variationsregeln von André.
+
+## André-Feedback — Reply-Hürde
+
+> denkst du dass Leute Antworten auf "so where do your hands start? 👀" / dass es triggert oder reltable ist?
+
+Anlass: Sarah-Story mit POV-Strumpfbild (verworfen).
+
+- Fragen, die eine ausformulierte Fantasie verlangen, haben eine zu hohe Antwort-Hürde. Bevorzugt werden Fragen, die man mit einem Wort, Ja/Nein oder einem Emoji beantworten kann.
+- Die Frage muss zur Perspektive des Bildes passen. Bei POV-Bildern aus Sicht der Creatorin ist der Fan nicht im Bild; „your hands“ wirkt dann konstruiert.
+- Vor jedem Sticker testweise als Fan antworten (SOP 05): Würde ich das wirklich tippen?
