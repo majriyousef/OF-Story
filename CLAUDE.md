@@ -22,7 +22,8 @@ Vor **jeder** neuen Story, jeder Überarbeitung und jedem `analysiere nochmal` w
 
 - `CLAUDE.md` (diese Datei)
 - alle SOPs in `sops/`
-- alle Feedback-Dateien in `references/` (Jonathan, André, CTA-Feedback und neu hinzukommende)
+- alle Feedback-Dateien in `references/` (Jonathan, André, CTA-Feedback, Lessons Learned und neu hinzukommende)
+- vor jeder Ausgabe die Selbstkontrolle aus `references/lessons-learned.md` durchgehen
 - `stories/final-stories.md` und `data/stories.json` für Historie, Formate, Einstiege, CTAs und Emojis der jeweiligen Creatorin
 
 Neues Feedback von Nutzer, André, Jonathan oder dem Chat-Team wird sofort in der passenden Datei unter `references/` gespeichert und, falls es eine dauerhafte Regel ist, zusätzlich hier in `CLAUDE.md` ergänzt. Freigegebene Storys werden direkt archiviert.
@@ -126,5 +127,6 @@ Wenn kein Sticker sinnvoll ist:
 - ältere rekonstruierte Stilbeispiele: `references/recovered-story-examples.md`
 - verbindliches André-Feedback zur Variation: `references/andre-feedback.md`
 - verbindliches CTA-Feedback für DM-Storys: `references/cta-feedback.md`
+- wiederkehrende Fehler und Selbstkontrolle: `references/lessons-learned.md`
 - aktuelle Storyfassungen: `stories/final-stories.md`
 - strukturierte Daten: `data/stories.json`

@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated": "2026-10-11",
+  "updated": "2026-10-13",
   "language": "en",
   "notes": "Final/current versions reconstructed from the project conversation. Rejected drafts are intentionally excluded.",
   "stories": [
@@ -92,6 +92,16 @@
       "format": "text_and_question",
       "text": "my drink isn’t the only thing resting on the table right now 🤭",
       "question": "would you rather hold them for me?",
+      "status": "final"
+    },
+    {
+      "id": "LIN-005",
+      "model": "Lina",
+      "source_image": "IMG_0900.HEIC",
+      "placement": "question sticker top right on the light wall next to her head",
+      "format": "question_only",
+      "question": "trying on my new red set... keep it on or take it off? ❤️",
+      "chatter_note": "Fans answering 'off' receive a picture from this set without the bra.",
       "status": "final"
     },
     {

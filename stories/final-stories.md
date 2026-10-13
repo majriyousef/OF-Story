@@ -69,6 +69,14 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - **Text:** `my drink isn’t the only thing resting on the table right now 🤭`
 - **Fragen-Sticker:** `would you rather hold them for me?`
 
+### LIN-005 — Rotes Set, Spiegel-Anprobe
+
+- **Bild:** `IMG_0900.HEIC`
+- **Platzierung:** Question-Sticker oben rechts auf der hellen Wand neben dem Kopf
+- **Question-Sticker:** `trying on my new red set... keep it on or take it off? ❤️`
+- **Normaler Text:** keiner
+- **Chatter-Hinweis:** Wer „off“ antwortet, bekommt ein Bild aus diesem Set ohne BH.
+
 ## Sarah
 
 ### SAR-001 — Butterfly von hinten

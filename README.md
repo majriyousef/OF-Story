@@ -54,6 +54,7 @@ Claude muss zuerst das Bild prüfen und darf keine nicht sichtbaren Details erfi
 │   ├── andre-feedback.md
 │   ├── cta-feedback.md
 │   ├── jonathan-feedback.md
+│   ├── lessons-learned.md
 │   └── recovered-story-examples.md
 ├── scripts/
 │   └── validate-catalog.ps1
