@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated": "2026-10-13",
+  "updated": "2026-10-17",
   "language": "en",
   "notes": "Final/current versions reconstructed from the project conversation. Rejected drafts are intentionally excluded.",
   "stories": [
@@ -52,6 +52,17 @@
       "format": "text_and_question",
       "text": "i’m already down on my knees... now imagine me riding you like this 😏",
       "question": "could you handle that?",
+      "status": "final"
+    },
+    {
+      "id": "JEN-006",
+      "model": "Jenny",
+      "source_image": "MISSING-jenny-blue-lace-closeup",
+      "placement": "top right on the light wall next to her head",
+      "format": "text_and_question",
+      "text": "innocent face... don't let it fool you 🙈",
+      "question": "want me to prove it? 😏",
+      "chatter_note": "On 'yes', send a naughtier picture or video of Jenny as the 'proof'.",
       "status": "final"
     },
     {

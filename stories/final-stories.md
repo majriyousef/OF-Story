@@ -39,6 +39,15 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - **Text:** `i’m already down on my knees... now imagine me riding you like this 😏`
 - **Fragen-Sticker:** `could you handle that?`
 
+### JEN-006 — Close-up, hellblauer Spitzen-BH
+
+- **Bild:** Original-Dateiname fehlt (Close-up, hellblaue Spitze, Schmetterlings-Tattoo am Hals)
+- **Platzierung:** oben rechts auf der hellen Wand neben dem Kopf
+- **Text:** `innocent face... don't let it fool you 🙈`
+- **Fragen-Sticker:** `want me to prove it? 😏`
+- **Chatter-Hinweis:** Auf „yes“ folgt ein frecheres Bild oder Video von Jenny als „Beweis“.
+- **Freigabe:** Nutzer („Top“)
+
 ## Lina
 
 ### LIN-001 — Brüste auf dem Tisch, Kaffee

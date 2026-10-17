@@ -31,6 +31,7 @@ Vor jedem Entwurf zuerst die vom Nutzer akzeptierten Muster anwenden, nicht neu 
 - `will you watch me? 👀` – persönliche Bitte statt Kontrollfrage
 - `can't keep my hands to myself tonight... wanna chat? 💦` – indirekt-nasty plus simple Chat-Einladung
 - `trying on my new red set... keep it on or take it off? ❤️` – echte Mini-Situation plus Ein-Wort-Entscheidung
+- `innocent face... don't let it fool you 🙈` + `want me to prove it? 😏` – logischer Kontrast plus persönliches Angebot (Nutzer: „Top“)
 - `did you even notice my belly piercing... or were you too distracted? 👀` – ertappt-Gefühl, relatable
 
 Guter Ansatz (Nutzer): `innocent face...` als Kontrast-Einstieg bei Jenny.
@@ -52,8 +53,13 @@ Abgelehnt, weil Denkfrage oder abstrakt: `which one's the real me?`, `where do y
 
 ## 6. Selbstkontrolle vor der Ausgabe
 
+Niemals langweilig, generisch oder bot-artig. Floskeln wie `dirty mind`, `wanna know what i'm thinking about?`, `ready for the other side?` sind verboten. Jeder Satz muss logisch aus dem vorherigen folgen und nur zu diesem Bild passen.
+
+
 1. Würde ich als Fan in einer Sekunde antworten?
 2. Erkennt man den Hook ohne Zoom?
 3. Passt die Situation zu Licht, Ort und Kleidung?
 4. Wiederholt die Pointe eine Archiv-Story dieser Creatorin?
 5. Klingt jeder Satz wie gesprochenes Englisch?
+6. Folgt der Sticker logisch aus dem Text, ohne Bruch?
+7. Könnte die Story unter jedem beliebigen Bild stehen? Dann verwerfen.
