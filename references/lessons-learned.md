@@ -33,6 +33,10 @@ Vor jedem Entwurf zuerst die vom Nutzer akzeptierten Muster anwenden, nicht neu 
 - `trying on my new red set... keep it on or take it off? ❤️` – echte Mini-Situation plus Ein-Wort-Entscheidung
 - `did you even notice my belly piercing... or were you too distracted? 👀` – ertappt-Gefühl, relatable
 
+Guter Ansatz (Nutzer): `innocent face...` als Kontrast-Einstieg bei Jenny.
+
+Abgelehnt als generisch ohne Bildbezug: `missed you today` / `did you miss me too?`.
+
 Abgelehnt, weil Denkfrage oder abstrakt: `which one's the real me?`, `where do your hands start?`, `how long do you give it?`, `you watching?`, `want a front row seat?`, `wanna keep me up a little longer?`.
 
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
