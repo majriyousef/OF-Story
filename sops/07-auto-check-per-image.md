@@ -41,6 +41,9 @@ Unsichere Details (z. B. Licht oder Bräunungsstreifen?) werden vergrößert. Bl
 
 ## 5. Selbstkontrolle vor dem Senden
 
+**Strenger Modus:** Text und Sticker werden getrennt geprüft. Jede Frage muss mit einem konkreten Grund bejaht werden, nicht pauschal. Im Zweifel gilt die Antwort als Nein → neu bauen.
+
+
 Alle Fragen aus `references/lessons-learned.md` Abschnitt 6 **und** die Prüffragen nach André aus `references/andre-feedback.md` mit Ja/Nein beantworten. Bei einem Nein: neu bauen, nicht senden.
 
 ## 5a. Batch-Check (Pflicht, sobald mehrere Storys in einer Session/Runde entstehen)

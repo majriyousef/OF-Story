@@ -14,6 +14,12 @@ Diese Datei sammelt Fehler, die mehrere Feedbackrunden gekostet haben. Vor jeder
 - Keine Logikbrüche: „still in my red lingerie“ nach einem langen Tag ergibt keinen Sinn.
 - Keine erfundenen Zusätze, die holprig wirken („first try-on“). Natürliche Formulierung: „trying on my new red set“.
 
+## 2a. Text genauso streng prüfen wie den Sticker
+
+- Ein Text, der nur das Outfit beschreibt (`pearls and pink lace today`), ist ein Katalogeintrag, keine Story. Er braucht eine Mini-Situation **und** einen persönlichen Bezug zum Fan.
+- Besser: `wore pearls and pink lace just for you today 🎀` → der Sticker (`with or without the bra?`) wird dadurch zu *seiner* Entscheidung.
+- Fehlerursache: Ich habe nach Sticker-Feedback nur den Sticker optimiert und den Text nicht erneut geprüft. Ab jetzt nach **jeder** Änderung Text und Sticker getrennt gegen alle Kriterien prüfen.
+
 ## 3. Interaktion: einfach, persönlich, triggernd
 
 - Antwort muss in einer Sekunde möglich sein: ein Wort, Ja/Nein, Zahl oder Emoji (André).
@@ -68,3 +74,6 @@ Niemals langweilig, generisch oder bot-artig. Floskeln wie `dirty mind`, `wanna 
 5. Klingt jeder Satz wie gesprochenes Englisch?
 6. Folgt der Sticker logisch aus dem Text, ohne Bruch?
 7. Könnte die Story unter jedem beliebigen Bild stehen? Dann verwerfen.
+8. Ist der Text nur eine Beschreibung des Sichtbaren? Dann Mini-Situation + persönlichen Bezug ergänzen.
+9. Habe ich nach einer Änderung **beide** Teile (Text und Sticker) erneut geprüft?
+10. Bei „lass dich nicht beeinflussen“: unabhängig bewerten – auch akzeptierte Teile auf echte Schwächen prüfen, statt nur zu bestätigen.
