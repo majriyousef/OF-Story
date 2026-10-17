@@ -43,6 +43,17 @@ Unsichere Details (z. B. Licht oder Bräunungsstreifen?) werden vergrößert. Bl
 
 Alle Fragen aus `references/lessons-learned.md` Abschnitt 6 **und** die Prüffragen nach André aus `references/andre-feedback.md` mit Ja/Nein beantworten. Bei einem Nein: neu bauen, nicht senden.
 
+## 5a. Batch-Check (Pflicht, sobald mehrere Storys in einer Session/Runde entstehen)
+
+Nicht nur jede Story einzeln prüfen, sondern alle Storys der aktuellen Runde und der letzten Tage zusammen:
+
+- **Format:** höchstens 3 von 6 als `Text + Fragesticker`. Question-Sticker allein, reiner Text und Text + Sticker mischen (André: „nicht immer Text plus Fragen-Sticker im ähnlichen Style“).
+- **Platzierung:** nicht alle an derselben Stelle, sofern das Bild eine andere freie Fläche erlaubt.
+- **Sticker-Einstieg:** nicht mehrfach `want/wanna/do you want` hintereinander; keine fast identischen Sticker über Creatorinnen hinweg.
+- **Emoji:** dasselbe Emoji (z. B. 😏) nicht mehrfach im Batch.
+
+Fehler-Beispiel (17.10.2026): 5/5 Text + Sticker, 5/5 oben rechts, 4× want/wanna, 4× 😏 – vom Nutzer beanstandet.
+
 ## 6. Nach Freigabe
 
 Freigegebene Story sofort archivieren (`stories/final-stories.md`, `data/stories.json`, Chatter-Hinweis). Neues Feedback sofort in `references/` speichern.
