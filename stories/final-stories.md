@@ -138,6 +138,7 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - **Bild:** `IMG_8517.HEIC`
 - **Platzierung:** Question-Sticker oben links auf der weißen Wand
 - **Question-Sticker:** `there’s a zipper right between my boobs... what would you do with it? 😛`
+- **Set-Hinweis:** schwarzer Leder-BH mit Reißverschluss + Riemchen-Slip (Käfig-Look); gepostet am 26.09.2026. Reißverschluss-Hook für dieses Set verbraucht.
 - **Normaler Text:** keiner
 
 ### LEN-003 — Hand verdeckt Brust auf der Couch
