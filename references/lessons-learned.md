@@ -46,6 +46,9 @@ Abgelehnt, weil Denkfrage oder abstrakt: `which one's the real me?`, `where do y
 - Lina, Jenny und Sarah hatten im Archiv fast nur Text + Sticker → bevorzugt andere Formate wählen.
 - Einstiege und CTAs über Creatorinnen hinweg nicht kurz hintereinander doppeln (`do you want to see`, `dm me`, `uncovered`).
 
+- Ausnahme (Nutzer-Feedback zu Leni, Leder-Set): Ein bereits genutztes Detail ist erlaubt, wenn es der stärkste sichtbare Hook ist und die Pointe sich klar unterscheidet. Nicht auf schwächere Details ausweichen, nur um Wiederholung zu vermeiden. Bestätigt: `just one zipper between me and you 😏` + `want me to open it?` (obwohl LEN-002 denselben Reißverschluss nutzte).
+- Abgelehnt beim selben Bild: Riemchen-/Mühe-Varianten (`take forever to get off`, `a whole workout`, `a nightmare to get into`, Zahlen wie `20 minutes`).
+
 ## 5. Chatter-Einlösbarkeit
 
 - Jeder Anreiz muss ohne Zusatzanweisung einlösbar sein (kein „secret“, kein „a little something“).
