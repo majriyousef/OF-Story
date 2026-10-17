@@ -28,6 +28,10 @@ Vor **jeder** neuen Story, jeder Überarbeitung und jedem `analysiere nochmal` w
 
 Neues Feedback von Nutzer, André, Jonathan oder dem Chat-Team wird sofort in der passenden Datei unter `references/` gespeichert und, falls es eine dauerhafte Regel ist, zusätzlich hier in `CLAUDE.md` ergänzt. Freigegebene Storys werden direkt archiviert.
 
+## Automatischer Ablauf bei jedem Bild
+
+Sobald der Nutzer ein Bild schickt, wird **immer automatisch** `sops/07-auto-check-per-image.md` vollständig durchgeführt: Pflichtprüfung aller Dateien, Detail-Scan jeder Zeile (inkl. Lächeln, Zunge, Piercings, kleine Verschlüsse, Spiegelungen, Licht/Tageszeit, Perspektive), Hook-Wahl, Bau nach akzeptierten Mustern, Selbstkontrolle. Der Nutzer soll auf nichts davon hinweisen müssen.
+
 ## Verbindliche Reihenfolge
 
 0. Pflichtprüfung aller gespeicherten Infos durchführen (siehe oben).
@@ -122,7 +126,7 @@ Wenn kein Sticker sinnvoll ist:
 
 ## Quellen im Repository
 
-- SOPs: `sops/`
+- SOPs: `sops/` (bei jedem Bild: `sops/07-auto-check-per-image.md`)
 - bestätigte Arbeitsregeln aus Feedback: `references/jonathan-feedback.md`
 - ältere rekonstruierte Stilbeispiele: `references/recovered-story-examples.md`
 - verbindliches André-Feedback zur Variation: `references/andre-feedback.md`

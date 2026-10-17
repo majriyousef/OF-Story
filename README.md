@@ -5,7 +5,7 @@ Lokales Claude-Code-Repository für bildbezogene OF-/Social-Story-Copy.
 Das Repository enthält:
 
 - verbindliche Arbeitsregeln in [`CLAUDE.md`](CLAUDE.md)
-- sechs SOPs für Analyse, Copy, Review, Feedback, Publishing und Variation
+- sieben SOPs für Analyse, Copy, Review, Feedback, Publishing und Variation
 - die jeweils letzte Story-Version pro bearbeitetem Bild
 - ältere, aus dem Jonathan-Feedback rekonstruierte Referenzstorys
 - ein strukturiertes Story-Archiv in `data/stories.json`
@@ -64,7 +64,8 @@ Claude muss zuerst das Bild prüfen und darf keine nicht sichtbaren Details erfi
 │   ├── 03-quality-review.md
 │   ├── 04-feedback-loop.md
 │   ├── 05-publishing.md
-│   └── 06-variation-and-rotation.md
+│   ├── 06-variation-and-rotation.md
+│   └── 07-auto-check-per-image.md
 ├── stories/
 │   └── final-stories.md
 └── templates/
