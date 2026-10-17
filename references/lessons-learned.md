@@ -23,6 +23,18 @@ Diese Datei sammelt Fehler, die mehrere Feedbackrunden gekostet haben. Vor jeder
 - Imperative („rate my legs“) sind keine Fragen und triggern schwächer.
 - Konstruierte Wortspiele, die erklärt werden müssen, sind zu kompliziert.
 
+## 3a. Stilvorlage aus freigegebenen Storys nutzen
+
+Vor jedem Entwurf zuerst die vom Nutzer akzeptierten Muster anwenden, nicht neu erfinden:
+
+- `do you want to see what my hands are hiding? 👅` – direktes, persönliches Angebot zum Sichtbaren
+- `will you watch me? 👀` – persönliche Bitte statt Kontrollfrage
+- `can't keep my hands to myself tonight... wanna chat? 💦` – indirekt-nasty plus simple Chat-Einladung
+- `trying on my new red set... keep it on or take it off? ❤️` – echte Mini-Situation plus Ein-Wort-Entscheidung
+- `did you even notice my belly piercing... or were you too distracted? 👀` – ertappt-Gefühl, relatable
+
+Abgelehnt, weil Denkfrage oder abstrakt: `which one's the real me?`, `where do your hands start?`, `how long do you give it?`, `you watching?`, `want a front row seat?`, `wanna keep me up a little longer?`.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
