@@ -35,13 +35,13 @@ Unsichere Details (z. B. Licht oder Bräunungsstreifen?) werden vergrößert. Bl
 
 - Stilvorlage aus `references/lessons-learned.md` (Abschnitt 3a) anwenden, nicht neu erfinden.
 - Kurze, menschliche Aussage zum Hook + persönliches, direktes Angebot oder simple Frage.
-- André-Kriterien: Antwort in einer Sekunde, relatable, triggert auch ohne Vorstimmung, keine Denkfrage, keine Fantasie zum Ausformulieren.
+- André-Kriterien aus `references/andre-feedback.md` (Prüffragen nach André) vollständig anwenden: Antwort in einer Sekunde, relatable, triggert auch ohne Vorstimmung, keine Denkfrage, keine Fantasie zum Ausformulieren.
 - Persönlich (`you`), nicht die Masse. Intensität passend zur Creatorin bzw. Nutzerwunsch (nasty/pervers erlaubt).
 - Situation muss zu Licht, Ort und Kleidung passen.
 
 ## 5. Selbstkontrolle vor dem Senden
 
-Alle Fragen aus `references/lessons-learned.md` Abschnitt 6 mit Ja/Nein beantworten. Bei einem Nein: neu bauen, nicht senden.
+Alle Fragen aus `references/lessons-learned.md` Abschnitt 6 **und** die Prüffragen nach André aus `references/andre-feedback.md` mit Ja/Nein beantworten. Bei einem Nein: neu bauen, nicht senden.
 
 ## 6. Nach Freigabe
 
