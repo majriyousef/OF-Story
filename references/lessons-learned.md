@@ -38,6 +38,8 @@ Guter Ansatz (Nutzer): `innocent face...` als Kontrast-Einstieg bei Jenny.
 
 Abgelehnt als generisch ohne Bildbezug: `missed you today` / `did you miss me too?`.
 
+Abgelehnt als erzwungene Slang-Anspielung (Fan muss Wortspiel erst entschlüsseln): `pearls on my bra straps... but still no pearl necklace` + `wanna give me one?`.
+
 Abgelehnt, weil Denkfrage oder abstrakt: `which one's the real me?`, `where do your hands start?`, `how long do you give it?`, `you watching?`, `want a front row seat?`, `wanna keep me up a little longer?`.
 
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
