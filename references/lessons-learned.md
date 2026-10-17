@@ -20,6 +20,11 @@ Diese Datei sammelt Fehler, die mehrere Feedbackrunden gekostet haben. Vor jeder
 - Besser: `wore pearls and pink lace just for you today 🎀` → der Sticker (`with or without the bra?`) wird dadurch zu *seiner* Entscheidung.
 - Fehlerursache: Ich habe nach Sticker-Feedback nur den Sticker optimiert und den Text nicht erneut geprüft. Ab jetzt nach **jeder** Änderung Text und Sticker getrennt gegen alle Kriterien prüfen.
 
+## 2b. Pronomen bei mehreren Dingen im Text
+
+- Nennt der Text mehr als ein Ding (z. B. `bra` + `pearl straps`), darf der Sticker kein `it`/`them` verwenden – sonst kann der Fan es falsch beziehen („ohne Perlen?“).
+- Lösung: Im Sticker das gemeinte Ding beim Namen nennen und es im Text weglassen, damit nichts doppelt steht. Beispiel: Text `obsessed with these pearl straps 🎀` + Sticker `with or without the bra? 🫣`.
+
 ## 3. Interaktion: einfach, persönlich, triggernd
 
 - Antwort muss in einer Sekunde möglich sein: ein Wort, Ja/Nein, Zahl oder Emoji (André).
@@ -76,4 +81,5 @@ Niemals langweilig, generisch oder bot-artig. Floskeln wie `dirty mind`, `wanna 
 7. Könnte die Story unter jedem beliebigen Bild stehen? Dann verwerfen.
 8. Ist der Text nur eine Beschreibung des Sichtbaren? Dann Mini-Situation + persönlichen Bezug ergänzen.
 9. Habe ich nach einer Änderung **beide** Teile (Text und Sticker) erneut geprüft?
-10. Bei „lass dich nicht beeinflussen“: unabhängig bewerten – auch akzeptierte Teile auf echte Schwächen prüfen, statt nur zu bestätigen.
+10. Nennt der Text mehrere Dinge und der Sticker nutzt `it`/`them`? Dann Bezugswort ausschreiben.
+11. Bei „lass dich nicht beeinflussen“: unabhängig bewerten – auch akzeptierte Teile auf echte Schwächen prüfen, statt nur zu bestätigen.
