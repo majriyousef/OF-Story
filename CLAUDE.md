@@ -30,6 +30,8 @@ Neues Feedback von Nutzer, André, Jonathan oder dem Chat-Team wird sofort in de
 
 ## Automatischer Ablauf bei jedem Bild
 
+Zuerst den Projekt-Skill `.claude/skills/story-erstellen/SKILL.md` laden und vollständig ausführen.
+
 Sobald der Nutzer ein Bild schickt, wird **immer automatisch** `sops/07-auto-check-per-image.md` vollständig durchgeführt: Pflichtprüfung aller Dateien, Detail-Scan jeder Zeile (inkl. Lächeln, Zunge, Piercings, kleine Verschlüsse, Spiegelungen, Licht/Tageszeit, Perspektive), Hook-Wahl, Bau nach akzeptierten Mustern, Selbstkontrolle. Der Nutzer soll auf nichts davon hinweisen müssen.
 
 ## Verbindliche Reihenfolge

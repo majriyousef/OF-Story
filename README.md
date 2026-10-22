@@ -45,9 +45,8 @@ Claude muss zuerst das Bild prüfen und darf keine nicht sichtbaren Details erfi
 ```text
 .
 ├── CLAUDE.md
-├── .claude/commands/
-│   ├── new-story.md
-│   └── review-story.md
+├── .claude/skills/
+│   └── story-erstellen/SKILL.md   # Pflicht-Skill bei jedem Bild
 ├── assets/inbox/              # private Bilder; nicht versioniert
 ├── data/stories.json          # strukturierte Story-Daten
 ├── references/
