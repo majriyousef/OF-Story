@@ -53,6 +53,14 @@ Abgelehnt als erzwungene Slang-Anspielung (Fan muss Wortspiel erst entschlüssel
 
 Abgelehnt, weil Denkfrage oder abstrakt: `which one's the real me?`, `where do your hands start?`, `how long do you give it?`, `you watching?`, `want a front row seat?`, `wanna keep me up a little longer?`.
 
+## 3b. Anti-AI-Check (Jonathan, 22.10.2026)
+
+- Würde eine echte Creatorin das genau so in ihre Story tippen? Wenn es nach „Copywriter“ klingt → umschreiben.
+- Verbotene Schablonen: `X on, Y on... time to ...`, `innocent face... don't let it fool you`, `time to have some fun`, perfekte Parallelismen.
+- Lässiger Texting-Ton erlaubt: `u`, `rn`, `wanna`, Kleinschreibung, Fragmente.
+- Indirekter CTA als eigene Form (`but it looks even better on the floor`).
+- Mitmachen statt Zuschauen (`wanna join me?` statt `will you watch me?`).
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
@@ -82,4 +90,5 @@ Niemals langweilig, generisch oder bot-artig. Floskeln wie `dirty mind`, `wanna 
 8. Ist der Text nur eine Beschreibung des Sichtbaren? Dann Mini-Situation + persönlichen Bezug ergänzen.
 9. Habe ich nach einer Änderung **beide** Teile (Text und Sticker) erneut geprüft?
 10. Nennt der Text mehrere Dinge und der Sticker nutzt `it`/`them`? Dann Bezugswort ausschreiben.
-11. Bei „lass dich nicht beeinflussen“: unabhängig bewerten – auch akzeptierte Teile auf echte Schwächen prüfen, statt nur zu bestätigen.
+11. Anti-AI: Klingt es nach Schablone oder Copywriter? Dann neu formulieren.
+12. Bei „lass dich nicht beeinflussen“: unabhängig bewerten – auch akzeptierte Teile auf echte Schwächen prüfen, statt nur zu bestätigen.

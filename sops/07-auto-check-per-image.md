@@ -39,6 +39,13 @@ Unsichere Details (z. B. Licht oder Bräunungsstreifen?) werden vergrößert. Bl
 - Persönlich (`you`), nicht die Masse. Intensität passend zur Creatorin bzw. Nutzerwunsch (nasty/pervers erlaubt).
 - Situation muss zu Licht, Ort und Kleidung passen.
 
+## 4a. Non-plus-ultra-Verfahren (Pflicht)
+
+1. **Intern mindestens 5 unterschiedliche Kandidaten** bauen – verschiedene Hooks (Outfit-Farbe/Kontrast, Detail, Gesicht/Ausdruck, Situation, Ort) und verschiedene Formen (Text + Sticker, nur Sticker, nur Text mit indirektem CTA).
+2. Jeden Kandidaten gegen alle Kriterien bewerten (je 0–2 Punkte): sofort sichtbarer Hook · Antwort in 1 Sekunde / indirekter CTA wirkt sofort · Trigger · relatable · menschlich/kein AI-Ton · Logik Text→Sticker · Pronomen eindeutig · Bild-spezifisch · Batch-Variation · Chatter-einlösbar.
+3. Nur den Kandidaten mit der höchsten Punktzahl ausgeben. Liegt er unter 18/20 → neue Kandidaten bauen, nicht senden.
+4. Vor dem Senden laut lesen: Klingt es wie eine echte Creatorin, die gerade tippt?
+
 ## 5. Selbstkontrolle vor dem Senden
 
 **Strenger Modus:** Text und Sticker werden getrennt geprüft. Jede Frage muss mit einem konkreten Grund bejaht werden, nicht pauschal. Im Zweifel gilt die Antwort als Nein → neu bauen.
