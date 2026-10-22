@@ -41,7 +41,7 @@ Vor jedem Entwurf zuerst die vom Nutzer akzeptierten Muster anwenden, nicht neu 
 - `do you want to see what my hands are hiding? 👅` – direktes, persönliches Angebot zum Sichtbaren
 - `wanna join me?` – Mitmachen statt Zuschauen (Jonathan, ersetzt `will you watch me?`)
 - `should i unzip it for u?` – lässiger Texting-Ton (Jonathan)
-- `baby blue lace is cute and all... but it looks even better on the floor 🩵` – Kontrastfarbe + indirekter CTA (nach Jonathans Vorschlag)
+- `baby blue lace is cute and all... but i look even better without it 🩵` + `want proof? 👀` – Kontrastfarbe + Behauptung + Beweis-Angebot (Nutzer bestätigt)
 - `can't keep my hands to myself tonight... wanna chat? 💦` – indirekt-nasty plus simple Chat-Einladung
 - `trying on my new red set... keep it on or take it off? ❤️` – echte Mini-Situation plus Ein-Wort-Entscheidung
 - `did you even notice my belly piercing... or were you too distracted? 👀` – ertappt-Gefühl, relatable
@@ -61,6 +61,12 @@ Abgelehnt, weil Denkfrage oder abstrakt: `which one's the real me?`, `where do y
 - Lässiger Texting-Ton erlaubt: `u`, `rn`, `wanna`, Kleinschreibung, Fragmente.
 - Indirekter CTA als eigene Form (`but it looks even better on the floor`).
 - Mitmachen statt Zuschauen (`wanna join me?` statt `will you watch me?`).
+
+## 3c. Indirekter CTA braucht trotzdem einen Grund zu schreiben
+
+- Abgelehnt (Nutzer): `...but it looks even better on the floor` – abgenutzter Anmachspruch, eigentlich aus Männer-Perspektive („on my floor“), Fan muss übersetzen, und ohne Frage fehlt der Anlass zu antworten.
+- Regel: Reiner Text nur, wenn der Satz allein eine sofortige Reaktion auslöst. Sonst Behauptung im Text + kurze Frage, die direkt daran anknüpft (`want proof?`).
+- Bekannte Sprüche/Redewendungen nie als Pointe – sie wirken generisch.
 
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
@@ -92,4 +98,6 @@ Niemals langweilig, generisch oder bot-artig. Floskeln wie `dirty mind`, `wanna 
 9. Habe ich nach einer Änderung **beide** Teile (Text und Sticker) erneut geprüft?
 10. Nennt der Text mehrere Dinge und der Sticker nutzt `it`/`them`? Dann Bezugswort ausschreiben.
 11. Anti-AI: Klingt es nach Schablone oder Copywriter? Dann neu formulieren.
-12. Bei „lass dich nicht beeinflussen“: unabhängig bewerten – auch akzeptierte Teile auf echte Schwächen prüfen, statt nur zu bestätigen.
+12. Hat der Fan einen klaren Grund zu schreiben? Reiner Text ohne Anlass → Frage ergänzen.
+13. Ist die Pointe ein bekannter Spruch? Dann verwerfen.
+14. Bei „lass dich nicht beeinflussen“: unabhängig bewerten – auch akzeptierte Teile auf echte Schwächen prüfen, statt nur zu bestätigen.

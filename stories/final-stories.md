@@ -43,10 +43,10 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 
 - **Bild:** Original-Dateiname fehlt (Close-up, hellblaue Spitze, Schmetterlings-Tattoo am Hals)
 - **Platzierung:** oben rechts auf der hellen Wand neben dem Kopf
-- **Text:** `innocent face... don't let it fool you 🙈`
-- **Fragen-Sticker:** `want me to prove it? 😏`
-- **Chatter-Hinweis:** Auf „yes“ folgt ein frecheres Bild oder Video von Jenny als „Beweis“.
-- **Freigabe:** Nutzer („Top“)
+- **Text:** `baby blue lace is cute and all... but i look even better without it 🩵`
+- **Fragen-Sticker:** `want proof? 👀`
+- **Chatter-Hinweis:** Auf „yes“ folgt ein Bild aus dem Set ohne die hellblaue Spitze als „Beweis“.
+- **Ersetzt:** `innocent face... don't let it fool you` + `want me to prove it?` (Jonathan: AI/Bot-Ton) und `...but it looks even better on the floor` (abgenutzter Spruch, kein Antwort-Anlass)
 
 ## Lina
 
