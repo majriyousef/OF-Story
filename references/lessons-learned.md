@@ -39,13 +39,14 @@ Diese Datei sammelt Fehler, die mehrere Feedbackrunden gekostet haben. Vor jeder
 Vor jedem Entwurf zuerst die vom Nutzer akzeptierten Muster anwenden, nicht neu erfinden:
 
 - `do you want to see what my hands are hiding? 👅` – direktes, persönliches Angebot zum Sichtbaren
-- `will you watch me? 👀` – persönliche Bitte statt Kontrollfrage
+- `wanna join me?` – Mitmachen statt Zuschauen (Jonathan, ersetzt `will you watch me?`)
+- `should i unzip it for u?` – lässiger Texting-Ton (Jonathan)
+- `baby blue lace is cute and all... but it looks even better on the floor 🩵` – Kontrastfarbe + indirekter CTA (nach Jonathans Vorschlag)
 - `can't keep my hands to myself tonight... wanna chat? 💦` – indirekt-nasty plus simple Chat-Einladung
 - `trying on my new red set... keep it on or take it off? ❤️` – echte Mini-Situation plus Ein-Wort-Entscheidung
-- `innocent face... don't let it fool you 🙈` + `want me to prove it? 😏` – logischer Kontrast plus persönliches Angebot (Nutzer: „Top“)
 - `did you even notice my belly piercing... or were you too distracted? 👀` – ertappt-Gefühl, relatable
 
-Guter Ansatz (Nutzer): `innocent face...` als Kontrast-Einstieg bei Jenny.
+Überholt durch Jonathan (22.10.2026): `innocent face... don't let it fool you` und `will you watch me?` gelten als AI/Bot-Ton und sind keine Vorlage mehr.
 
 Abgelehnt als generisch ohne Bildbezug: `missed you today` / `did you miss me too?`.
 
