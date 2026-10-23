@@ -122,6 +122,12 @@ Abgelehnt (Nutzer): `pretending to work rn` (beschreibt nur, keine Spannung), `s
 Lehre: Bild per Werkzeug zoomen; Details wie Frontverschluss und „sie schaut nicht auf den Laptop“ gehören in die Story.
 Selbst verworfen bei Feedback-Abgleich: `laptop's open but i'm clearly not working... wanna open my bra instead?` – (1) gleiche Pointe „BH kommt ab“ wie Leonies letzte Perlen-Story (`with or without the bra?`), (2) `open... open` ist ein Parallelismus = Bot-Signal nach Jonathan.
 
+## 3l. Nackte Frage wirkt botartig – Mini-Story davor (23.10.2026)
+
+- Nutzer: „Vielleicht eine minimal kleine Story einfügen, damit das nicht so botartig wirkt.“
+- Regel (alle Models): Ein Question-Sticker beginnt mit einem winzigen, menschlichen Situations-Fragment aus dem Bild (2–5 Wörter, z. B. `curled up in my chair...`, `still wet from the shower`, `forgot to take my boots off...`), dann folgt die Frage. Keine nackte Frage ohne Situation.
+- Das Fragment beschreibt, was sie gerade *tut*, nicht was sie *trägt* (kein Katalog).
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
@@ -158,4 +164,5 @@ Niemals langweilig, generisch oder bot-artig. Floskeln wie `dirty mind`, `wanna 
 15. Ist ein Wort zu explizit (`fuck me`)? Krass über die Szene, nicht über Vokabular.
 16. Ist „yes“ die heiße Antwort und die Handlung jetzt noch möglich? Keine verpasste Chance, keine Frage, auf die man widersprechen muss.
 17. Steht „thinking about u / missing u“ drin? → raus, Storys gehen an alle.
-18. Bei „lass dich nicht beeinflussen“: unabhängig bewerten – auch akzeptierte Teile auf echte Schwächen prüfen, statt nur zu bestätigen.
+18. Beginnt der Sticker mit einer kleinen menschlichen Situation (was sie gerade tut)? Sonst wirkt er botartig.
+19. Bei „lass dich nicht beeinflussen“: unabhängig bewerten – auch akzeptierte Teile auf echte Schwächen prüfen, statt nur zu bestätigen.

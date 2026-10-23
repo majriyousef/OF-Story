@@ -79,6 +79,7 @@ Den Sieger aktiv angreifen:
 7. **Szenen-Logik:** Rollen korrekt? Wer ist sie, wer ist er? Keine dritte Person?
 8. **Generik-Test:** Könnte die Story mit einem ausgetauschten Wort unter jedem Bild stehen? → verwerfen.
 9. **Verlaufs-Test:** gleiche Mechanik/Logik-Kette/Einstieg/Emoji wie in den letzten 3 Storys derselben Creatorin?
+9a. **Mini-Story-Test:** Beginnt der Sticker (oder Text) mit einem winzigen menschlichen Fragment, was sie gerade *tut* (`curled up in my chair...`)? Nackte Fragen wirken botartig.
 10. **Batch-Test** (falls mehrere Storys in der Runde): Format max. 3/6 Text + Sticker, keine doppelten Einstiege/Emojis.
 
 ## 8. Persona-Review (Pflicht vor dem Senden)
@@ -91,6 +92,13 @@ Für jede Persona **einen Satz Kritik** formulieren, als würde sie die Story zu
 - **Fan:** Würde ich das in 1 Sekunde beantworten – und will ich es?
 
 Findet eine Persona **irgendeinen** Kritikpunkt → beheben und Schritt 6–8 wiederholen. Gesendet wird erst, wenn keine Persona etwas findet.
+
+## 8a. Sende-Sperre (absolut)
+
+- Solange **irgendeine** Schwachstelle aus Schritt 7 oder 8 offen ist, wird **nichts** gesendet – auch keine „vorläufige“ Version.
+- Prüfen → verbessern → erneut komplett prüfen, so oft wie nötig.
+- Bei Batch-Ausgaben (mehrere Storys) jede Story einzeln **und** den Batch gemeinsam (Format, Emojis, Einstiege) prüfen, bevor er rausgeht.
+- Im Zweifel ist die Antwort „nicht senden“.
 
 ## 9. Ausgabe
 
