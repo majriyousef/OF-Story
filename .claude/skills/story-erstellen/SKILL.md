@@ -17,11 +17,23 @@ Dieser Skill ist bei **jedem** Bild und jeder Überarbeitung vollständig auszuf
 - `references/cta-feedback.md`
 - Archiv der Creatorin in `stories/final-stories.md`
 
+## 1a. Verlauf der Creatorin prüfen (vor jedem Entwurf)
+
+- `stories/mechanism-log.md` öffnen und die **letzten 3 Storys derselben Creatorin** lesen: Mechanik, Format, Einstieg, Emoji.
+- Verglichen wird **innerhalb der Creatorin** (z. B. Leni mit Lenis letzten Storys), nicht zwischen den Models.
+- Daraus festlegen: Welche Mechaniken, Formate, Einstiege und Emojis sind für diese Story **gesperrt**?
+
 ## 2. Bild komplett scannen
 
 Gesicht (Lächeln, Zunge, Blick), Haare, Hände, Kleidung (Farbe/Kontrast, Muster, Transparenz), kleine Details vergrößern (Reißverschluss, Verschluss, Ringe, Schleifen, Perlen, Riemchen), Schmuck/Piercings, Tattoos, Spiegelungen, Perspektive, Licht/Tageszeit, Ort. Unsicheres nicht verwenden. Creatorin mit Gesicht abgleichen.
 
-## 3. Mindestens 5 Kandidaten intern
+## 3. Mechanik zuerst, dann Worte
+
+1. Aus dem Mechanik-Katalog (`stories/mechanism-log.md`) nur Mechaniken wählen, die bei dieser Creatorin in den letzten 3 Storys **nicht** vorkamen. REVEAL nur, wenn nichts anderes passt.
+2. Für **mindestens 3 verschiedene Mechaniken** je mindestens 2 Formulierungen bauen (≥ 6 Kandidaten).
+3. Nie dieselbe Logik-Kette wie zuletzt („ich bin nackt → soll ich mich umdrehen → willst du sehen“).
+
+## 3b. Mindestens 5 Kandidaten intern (zusätzlich zu 3.)
 
 Verschiedene Hooks **und** verschiedene Formen: Text + Sticker, nur Question-Sticker, nur Text mit indirektem CTA (`...but it looks even better on the floor`).
 
@@ -56,13 +68,18 @@ Den Sieger-Kandidaten aktiv angreifen, als wäre ich Jonathan, André und der Nu
 8. **Feedback-Abgleich:** Würde André („sofort, triggert, relatable, keine Denkfrage“), Jonathan („kein AI-Ton, Mitmachen, indirekt erlaubt, `u`“) oder der Nutzer („nicht generisch, persönlich, Bildbezug“) an irgendeiner Stelle meckern? Wenn ja → beheben.
 9. **Batch-Duplikate:** Gleiche Einstiege (`with or without`, `wanna`), gleiche Emojis, gleiche Platzierung, gleiches Format?
 
-Erst wenn alle 9 Punkte ohne Befund sind, wird ausgegeben. In der Antwort kurz nennen, welche Schwachstellen geprüft und ausgeschlossen wurden.
+10. **Verlaufs-Test:** Gleiche Mechanik, Logik-Kette, Einstieg oder Emoji wie in den letzten 3 Storys **derselben Creatorin**? → verwerfen.
+11. **Erstversuch-Test:** Würde der Nutzer bei dieser Version „analysiere nochmal“ sagen müssen? Wenn ich selbst noch eine Schwachstelle vermute → nicht senden, weiter verbessern.
+
+Erst wenn alle 11 Punkte ohne Befund sind, wird ausgegeben. In der Antwort kurz nennen, welche Schwachstellen geprüft und ausgeschlossen wurden.
 
 ## 5. Ausgabe
 
 Nur der beste Kandidat im Format aus `CLAUDE.md` – **ohne Platzierung**, nur `Text:` und/oder `Question-Sticker:` –, mit knapper Begründung und Chatter-Hinweis. Bei `analysiere nochmal` / „lass dich nicht beeinflussen“: unabhängig prüfen – Text **und** Sticker getrennt – und nur bei belegbarem Gewinn ändern, sonst ausdrücklich „keine Änderung“.
 
 ## 6. Nach jeder Rückmeldung
+
+- `stories/mechanism-log.md` aktualisieren (Story, Mechanik, Format), auch für verworfene Versionen mit Vermerk.
 
 - Feedback sofort mit Originalwortlaut in `references/` speichern, abgelehnte Formulierungen als Negativbeispiel in `lessons-learned.md`.
 - Freigaben sofort archivieren (`stories/final-stories.md`, `data/stories.json`, Chatter-Hinweis).

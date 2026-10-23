@@ -76,6 +76,14 @@ Abgelehnt, weil Denkfrage oder abstrakt: `which one's the real me?`, `where do y
 - Regel: Reiner Text nur, wenn der Satz allein eine sofortige Reaktion auslöst. Sonst Behauptung im Text + kurze Frage, die direkt daran anknüpft (`want proof?`).
 - Bekannte Sprüche/Redewendungen nie als Pointe – sie wirken generisch.
 
+## 3e. Warum der erste Versuch nicht sitzt (Ursachen, 23.10.2026)
+
+1. Variation wurde zwischen den Models im Batch geprüft statt im **Verlauf derselben Creatorin**.
+2. Immer dieselbe Logik-Kette (REVEAL: „nackt → umdrehen → willst du sehen“) mit neuen Worten statt einer neuen Mechanik.
+3. Erst Worte gesucht, dann geprüft – statt erst Mechanik aus dem Katalog wählen.
+4. Selbstbewertung zu großzügig; Schwachstellen erst nach Nachfrage gesucht.
+Gegenmaßnahmen: `stories/mechanism-log.md`, Skill-Schritte 1a, 3, 4a.10–11.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
