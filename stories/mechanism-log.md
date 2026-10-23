@@ -24,12 +24,15 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 - Die Mechanik darf sich innerhalb der letzten **3 Storys derselben Creatorin** nicht wiederholen.
 - REVEAL ist seit 17.10.2026 überstrapaziert („nackt, soll ich mich umdrehen, willst du sehen…“). REVEAL nur noch, wenn keine andere Mechanik zum Bild passt.
 - Erst Mechanik wählen, dann Hook und Worte.
+- **Aber:** Rotation entscheidet nur zwischen gleich starken Ideen. Nie eine schwache Ersatzidee nehmen, nur weil die stärkste Mechanik gesperrt ist (Lessons 3f).
 
 ## Verlauf (neueste zuerst)
 
 ### Leni
 | Story | Mechanik | Format |
 |---|---|---|
+| Garage nackt 2 – `garage is all mine rn... wanna come by?` (verworfen, Nutzer: Müll) | JOIN | Q-Sticker |
+| Garage nackt – `my mechanic just went on break` + `wanna fill in for him?` (Fantasie gut) | ROLEPLAY | Text + Sticker |
 | Garage nackt, Rückansicht – `u walked in on me... want me to turn around?` (verworfen, Nutzer) | REVEAL | Q-Sticker |
 | Leder-Set – `just one zipper between me and you... should i unzip it for u?` | REVEAL | Q-Sticker |
 | Werkstatt, pinker BH – `did you even notice my belly piercing... or were you too distracted?` | CAUGHT | Q-Sticker |

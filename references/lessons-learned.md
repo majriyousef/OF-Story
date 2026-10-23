@@ -84,6 +84,14 @@ Abgelehnt, weil Denkfrage oder abstrakt: `which one's the real me?`, `where do y
 4. Selbstbewertung zu großzügig; Schwachstellen erst nach Nachfrage gesucht.
 Gegenmaßnahmen: `stories/mechanism-log.md`, Skill-Schritte 1a, 3, 4a.10–11.
 
+## 3f. Variation darf nie die Qualität senken (23.10.2026)
+
+- Abgelehnt (Nutzer: „langweilig, absolut Müll“): `garage is all mine rn... wanna come by? 🔧` – generische Einladung, könnte mit ausgetauschtem Ort unter jedem Bild stehen, keine Fantasie, kein Bilddetail.
+- Bestätigt (Nutzer: „Fantasie ist gut“): `my mechanic just went on break 🙈` + `wanna fill in for him? 🔧` – konkrete Fantasie-Szene aus dem Bild.
+- Ursache: Ich habe die stärkste Idee verworfen, nur um die Mechanik-Rotation zu erfüllen, und dafür eine schwache Ersatzidee genommen.
+- Regel: Zuerst die **stärkste** Idee für das Bild finden. Rotation entscheidet nur zwischen gleich starken Ideen. Gibt es bei einer erlaubten Mechanik keine gleich starke Idee, ist das ein Grund, den Nutzer zu fragen oder die stärkste Idee mit klar anderer Pointe zu nehmen – nie eine schwache Ersatzidee.
+- Fantasie-Szenen (konkrete Rolle für den Fan, aus dem Bild abgeleitet) funktionieren besonders gut.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
