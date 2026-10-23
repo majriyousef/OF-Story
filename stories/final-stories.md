@@ -48,6 +48,15 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - **Chatter-Hinweis:** Auf „yes“ folgt ein Bild aus dem Set ohne die hellblaue Spitze als „Beweis“.
 - **Ersetzt:** `innocent face... don't let it fool you` + `want me to prove it?` (Jonathan: AI/Bot-Ton) und `...but it looks even better on the floor` (abgenutzter Spruch, kein Antwort-Anlass)
 
+### JEN-007 — Rote Spitze und schwarze Overknees
+
+- **Bild:** Original-Dateiname fehlt (rote Spitze, schwarze Overknee-Stiefel, rote Samtdecke)
+- **Platzierung:** Question-Sticker oben links auf der hellen Wand über dem Kopf
+- **Question-Sticker:** `forgot to take my boots off... on or off when i get naked? 👢`
+- **Normaler Text:** keiner
+- **Chatter-Hinweis:** „on“ → Bild nackt in Stiefeln; „off“ → Bild komplett nackt.
+- **Freigabe:** Nutzer („ja so ist gut“)
+
 ## Lina
 
 ### LIN-001 — Brüste auf dem Tisch, Kaffee

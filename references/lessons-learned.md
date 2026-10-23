@@ -44,6 +44,7 @@ Vor jedem Entwurf zuerst die vom Nutzer akzeptierten Muster anwenden, nicht neu 
 - `baby blue lace is cute and all... but i look even better without it 🩵` + `want proof? 👀` – Kontrastfarbe + Behauptung + Beweis-Angebot (Nutzer bestätigt)
 - `can't keep my hands to myself tonight... wanna chat? 💦` – indirekt-nasty plus simple Chat-Einladung
 - `trying on my new red set... keep it on or take it off? ❤️` – echte Mini-Situation plus Ein-Wort-Entscheidung
+- `forgot to take my boots off... on or off when i get naked? 👢` – echte Mini-Situation + Entweder-oder, bei dem **jede** Antwort heiß ist (Nutzer: „ja so ist gut“)
 - `did you even notice my belly piercing... or were you too distracted? 👀` – ertappt-Gefühl, relatable
 
 Überholt durch Jonathan (22.10.2026): `innocent face... don't let it fool you` und `will you watch me?` gelten als AI/Bot-Ton und sind keine Vorlage mehr.
@@ -61,6 +62,13 @@ Abgelehnt, weil Denkfrage oder abstrakt: `which one's the real me?`, `where do y
 - Lässiger Texting-Ton erlaubt: `u`, `rn`, `wanna`, Kleinschreibung, Fragmente.
 - Indirekter CTA als eigene Form (`but it looks even better on the floor`).
 - Mitmachen statt Zuschauen (`wanna join me?` statt `will you watch me?`).
+
+## 3d. Entweder-oder: jede Option muss triggern
+
+- Abgelehnt: `keep them on or take everything off?` – bei `keep them on` passiert nichts, Trigger nur in einer Option.
+- Abgelehnt: `everything else can come off... but the boots stay on, deal?` – bekanntes Erotik-Muster mit ausgetauschtem Wort.
+- Abgelehnt: `the boots are staying on... u in?` – versteckte Denkschritte (während was? wofür?) und für Jenny zu dominant.
+- Regel: Das Heiße (z. B. `when i get naked`) steht fest im Satz; der Fan entscheidet nur noch ein Detail.
 
 ## 3c. Indirekter CTA braucht trotzdem einen Grund zu schreiben
 

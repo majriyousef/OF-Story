@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated": "2026-10-22",
+  "updated": "2026-10-23",
   "language": "en",
   "notes": "Final/current versions reconstructed from the project conversation. Rejected drafts are intentionally excluded.",
   "stories": [
@@ -63,6 +63,16 @@
       "text": "baby blue lace is cute and all... but i look even better without it 🩵",
       "question": "want proof? 👀",
       "chatter_note": "On 'yes', send a picture from the set without the light blue lace as the 'proof'.",
+      "status": "final"
+    },
+    {
+      "id": "JEN-007",
+      "model": "Jenny",
+      "source_image": "MISSING-jenny-red-lace-black-boots",
+      "placement": "question sticker top left on the light wall above her head",
+      "format": "question_only",
+      "question": "forgot to take my boots off... on or off when i get naked? 👢",
+      "chatter_note": "'on' -> picture naked in boots; 'off' -> fully naked picture.",
       "status": "final"
     },
     {

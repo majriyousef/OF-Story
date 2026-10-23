@@ -40,6 +40,24 @@ Verschiedene Hooks **und** verschiedene Formen: Text + Sticker, nur Question-Sti
 
 Unter 18 → neue Kandidaten, nicht senden.
 
+**Ehrlich bewerten:** Keine geschönten Punkte. Jeder Punkt braucht einen konkreten Grund. Im Zweifel 1 statt 2.
+
+## 4a. Schwachstellen-Jagd (Pflicht vor jeder Ausgabe)
+
+Den Sieger-Kandidaten aktiv angreifen, als wäre ich Jonathan, André und der Nutzer gleichzeitig:
+
+1. **Jedes Wort einzeln:** Ist jedes Wort nötig, gesprochen, eindeutig? Gibt es ein vageres Wort, das konkreter sein könnte?
+2. **Jede Antwortoption einzeln (bei Entweder-oder):** Führt **jede** mögliche Antwort zu einem Trigger? Gibt es eine Option, bei der „nichts passiert“ (z. B. `keep them on` ohne dass der Rest auszieht)? → umbauen, bis jede Antwort heiß ist.
+3. **Versteckte Denkschritte:** Muss der Fan etwas hineindenken, das nicht dasteht (`staying on – während was?`, `u in – wofür?`)? → ausschreiben.
+4. **Trigger ausgesprochen oder nur angedeutet?** Wenn nur angedeutet und der Schritt nicht sofort klar ist → aussprechen (`when i get naked`).
+5. **Schablonen-/Spruch-Test:** Ist das ein bekanntes Muster mit ausgetauschtem Wort (`everything else comes off but the heels stay on`)? → verwerfen.
+6. **Stimme:** Passt der Ton zur Creatorin (Jenny verspielt, nicht dominant; Sarah offensiv; Lina warm-selbstironisch; Leni direkt-neugierig)?
+7. **Situation/Logik:** Passt die Mini-Situation zu Licht, Ort, Kleidung? Ergibt „forgot/lazy/trying on“ mit dem sichtbaren Outfit Sinn?
+8. **Feedback-Abgleich:** Würde André („sofort, triggert, relatable, keine Denkfrage“), Jonathan („kein AI-Ton, Mitmachen, indirekt erlaubt, `u`“) oder der Nutzer („nicht generisch, persönlich, Bildbezug“) an irgendeiner Stelle meckern? Wenn ja → beheben.
+9. **Batch-Duplikate:** Gleiche Einstiege (`with or without`, `wanna`), gleiche Emojis, gleiche Platzierung, gleiches Format?
+
+Erst wenn alle 9 Punkte ohne Befund sind, wird ausgegeben. In der Antwort kurz nennen, welche Schwachstellen geprüft und ausgeschlossen wurden.
+
 ## 5. Ausgabe
 
 Nur der beste Kandidat im Format aus `CLAUDE.md`, mit genauer Platzierung, knapper Begründung und Chatter-Hinweis. Bei `analysiere nochmal` / „lass dich nicht beeinflussen“: unabhängig prüfen – Text **und** Sticker getrennt – und nur bei belegbarem Gewinn ändern, sonst ausdrücklich „keine Änderung“.
