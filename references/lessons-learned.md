@@ -45,6 +45,7 @@ Vor jedem Entwurf zuerst die vom Nutzer akzeptierten Muster anwenden, nicht neu 
 - `can't keep my hands to myself tonight... wanna chat? 💦` – indirekt-nasty plus simple Chat-Einladung
 - `trying on my new red set... keep it on or take it off? ❤️` – echte Mini-Situation plus Ein-Wort-Entscheidung
 - `forgot to take my boots off... on or off when i get naked? 👢` – echte Mini-Situation + Entweder-oder, bei dem **jede** Antwort heiß ist (Nutzer: „ja so ist gut“)
+- `fixing cars is way more fun like this 🙈` + `wanna bring yours in? 🔧` – Szenen-Logik: sie ist die Mechanikerin, der Fan ist der Kunde; keine dritte Person (Nutzer: „ja so ist gut“)
 - `did you even notice my belly piercing... or were you too distracted? 👀` – ertappt-Gefühl, relatable
 
 Überholt durch Jonathan (22.10.2026): `innocent face... don't let it fool you` und `will you watch me?` gelten als AI/Bot-Ton und sind keine Vorlage mehr.
@@ -92,6 +93,11 @@ Gegenmaßnahmen: `stories/mechanism-log.md`, Skill-Schritte 1a, 3, 4a.10–11.
 - Regel: Zuerst die **stärkste** Idee für das Bild finden. Rotation entscheidet nur zwischen gleich starken Ideen. Gibt es bei einer erlaubten Mechanik keine gleich starke Idee, ist das ein Grund, den Nutzer zu fragen oder die stärkste Idee mit klar anderer Pointe zu nehmen – nie eine schwache Ersatzidee.
 - Fantasie-Szenen (konkrete Rolle für den Fan, aus dem Bild abgeleitet) funktionieren besonders gut.
 - **Aber nie mit dritten Personen:** `my mechanic just went on break` + `wanna fill in for him?` abgelehnt, weil ein fremder Mann vorkommt – wirkt schlampig. Der Fan selbst bekommt die Rolle: `wanna be my mechanic today?`.
+
+## 3g. Szenen-Logik: Wer ist sie, wer ist er? (23.10.2026)
+
+- Abgelehnt: `car broke down and i'm stuck here like this` + `wanna be my mechanic today?` – sie steht selbst an der offenen Motorhaube in der Werkstatt, sie *ist* die Mechanikerin; den Fan zum Mechaniker zu machen ergibt keinen Sinn.
+- Regel (alle Models): Vor jeder Formulierung festlegen, wer sie im Bild ist (aus Ort + Requisiten) und welche Rolle der Fan logisch dazu hat. Der Fan ist immer der einzige Mann.
 
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 

@@ -31,8 +31,10 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Leni
 | Story | Mechanik | Format |
 |---|---|---|
+| LEN-006 Garage nackt – `fixing cars is way more fun like this` + `wanna bring yours in?` (freigegeben) | ROLEPLAY/FANTASIE | Text + Sticker |
+| Garage nackt – `car broke down... wanna be my mechanic today?` (verworfen: Rollen-Logik falsch) | ROLEPLAY | Text + Sticker |
 | Garage nackt 2 – `garage is all mine rn... wanna come by?` (verworfen, Nutzer: Müll) | JOIN | Q-Sticker |
-| Garage nackt – `my mechanic just went on break` + `wanna fill in for him?` (Fantasie gut) | ROLEPLAY | Text + Sticker |
+| Garage nackt – `my mechanic just went on break` + `wanna fill in for him?` (verworfen: fremder Mann) | ROLEPLAY | Text + Sticker |
 | Garage nackt, Rückansicht – `u walked in on me... want me to turn around?` (verworfen, Nutzer) | REVEAL | Q-Sticker |
 | Leder-Set – `just one zipper between me and you... should i unzip it for u?` | REVEAL | Q-Sticker |
 | Werkstatt, pinker BH – `did you even notice my belly piercing... or were you too distracted?` | CAUGHT | Q-Sticker |

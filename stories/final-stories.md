@@ -173,6 +173,14 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - **Sticker:** keiner
 - **Chatter-Hinweis:** Die erste Person, die nach der Story schreibt, bekommt ein Bild aus derselben Perspektive ohne Top.
 
+### LEN-006 — Nackt in der Werkstatt vor offener Motorhaube
+
+- **Bild:** `IMG_2994.HEIC` (Set; freigegeben für die Variante mit Blick zur Seite)
+- **Text:** `fixing cars is way more fun like this 🙈`
+- **Question-Sticker:** `wanna bring yours in? 🔧`
+- **Chatter-Hinweis:** Auf „yes“ Mechanikerin-Rollenspiel im Chat mit Bildern aus diesem Set.
+- **Freigabe:** Nutzer („ja so ist gut“)
+
 ## Nicht als Endfassung geführt
 
 - ersetzte Bilder, wenn der Nutzer ausdrücklich ein anderes Bild bevorzugt hat

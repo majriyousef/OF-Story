@@ -1,87 +1,95 @@
 ---
 name: story-erstellen
-description: Pflicht-Skill für jede ANIK-Story (Jenny, Lina, Sarah, Leni, Leonie). Immer laden, sobald der Nutzer ein Bild schickt, eine Story verlangt, „analysiere nochmal“ sagt oder Feedback zu einer Story gibt. Liefert das Non-plus-ultra-Ergebnis nach allen gespeicherten Regeln und Feedbacks.
+description: Pflicht-Skill für jede ANIK-Story (Jenny, Lina, Sarah, Leni, Leonie). Immer laden, sobald der Nutzer ein Bild schickt, eine Story verlangt, „analysiere nochmal“ sagt oder Feedback zu einer Story gibt. Ziel: im ersten Versuch das Non-plus-ultra-Ergebnis nach allen gespeicherten Regeln und Feedbacks.
 ---
 
-# Story erstellen – Non plus ultra
+# Story erstellen – Non plus ultra im ersten Versuch
 
-Dieser Skill ist bei **jedem** Bild und jeder Überarbeitung vollständig auszuführen. Kein Schritt darf übersprungen werden, auch wenn der Nutzer nicht darauf hinweist.
+Dieser Skill ist bei **jedem** Bild und jeder Überarbeitung vollständig auszuführen. Ziel ist, dass die **erste** Ausgabe sitzt. Jede Nachbesserung durch den Nutzer ist ein Fehler dieses Ablaufs. Empfohlene Denkstufe: sehr hoch.
 
-## 1. Pflichtlektüre (jedes Mal neu lesen, nie aus dem Gedächtnis)
+## 1. Pflichtlektüre (jedes Mal neu, nie aus dem Gedächtnis)
 
 - `CLAUDE.md`
-- `sops/07-auto-check-per-image.md` (Ablauf, Non-plus-ultra-Verfahren, Batch-Check)
-- `references/lessons-learned.md` (Stilvorlagen 3a, Anti-AI 3b, Selbstkontrolle 6)
-- `references/andre-feedback.md` (Prüffragen nach André)
-- `references/jonathan-feedback.md` (inkl. Runde 22.10.2026: Anti-AI, indirekte CTAs, `u`)
-- `references/cta-feedback.md`
+- `sops/07-auto-check-per-image.md`
+- `references/lessons-learned.md` (vollständig, besonders 2a–3f und Selbstkontrolle 6)
+- `references/andre-feedback.md`, `references/jonathan-feedback.md`, `references/cta-feedback.md`
+- `stories/mechanism-log.md` (letzte 3 Storys **derselben Creatorin**)
 - Archiv der Creatorin in `stories/final-stories.md`
-
-## 1a. Verlauf der Creatorin prüfen (vor jedem Entwurf)
-
-- `stories/mechanism-log.md` öffnen und die **letzten 3 Storys derselben Creatorin** lesen: Mechanik, Format, Einstieg, Emoji.
-- Verglichen wird **innerhalb der Creatorin** (z. B. Leni mit Lenis letzten Storys), nicht zwischen den Models.
-- Daraus festlegen: Welche Mechaniken, Formate, Einstiege und Emojis sind für diese Story **gesperrt**?
 
 ## 2. Bild komplett scannen
 
-Gesicht (Lächeln, Zunge, Blick), Haare, Hände, Kleidung (Farbe/Kontrast, Muster, Transparenz), kleine Details vergrößern (Reißverschluss, Verschluss, Ringe, Schleifen, Perlen, Riemchen), Schmuck/Piercings, Tattoos, Spiegelungen, Perspektive, Licht/Tageszeit, Ort. Unsicheres nicht verwenden. Creatorin mit Gesicht abgleichen.
+Gesicht (Lächeln, Zunge, Blick, Blickrichtung), Haare, Hände, Kleidung (Farbe/Kontrast, Muster, Transparenz), kleine Details vergrößern (Reißverschluss, Verschluss, Ringe, Schleifen, Perlen, Riemchen), Schmuck/Piercings, Tattoos, Spiegelungen, Perspektive, Licht/Tageszeit, Ort, Requisiten. Unsicheres nicht verwenden. Creatorin mit Gesicht abgleichen.
 
-## 3. Mechanik zuerst, dann Worte
+## 3. Szenen-Logik festlegen (vor jeder Formulierung)
 
-1. Aus dem Mechanik-Katalog (`stories/mechanism-log.md`) nur Mechaniken wählen, die bei dieser Creatorin in den letzten 3 Storys **nicht** vorkamen. REVEAL nur, wenn nichts anderes passt.
-2. Für **mindestens 3 verschiedene Mechaniken** je mindestens 2 Formulierungen bauen (≥ 6 Kandidaten).
-3. Nie dieselbe Logik-Kette wie zuletzt („ich bin nackt → soll ich mich umdrehen → willst du sehen“).
+Drei Fragen schriftlich (intern) beantworten:
 
-## 3b. Mindestens 5 Kandidaten intern (zusätzlich zu 3.)
+1. **Wer ist sie in diesem Bild?** Aus Ort und Requisiten ableiten – z. B. Werkstatt + offene Motorhaube + Lappen = *sie ist die Mechanikerin*; Bett + Morgenlicht = *sie ist gerade aufgewacht*; Spiegel + neues Set = *sie probiert an*.
+2. **Wer ist der Fan in dieser Szene?** Seine Rolle muss logisch zu ihrer passen (Kunde, der vorbeikommt; der, der mitmacht; der, der entscheidet). **Er ist der einzige Mann** – nie Mechaniker, Nachbar, Ex, „him“.
+3. **Was ist die Situation – passt sie zu Licht, Ort, Kleidung?** Kein Abend bei Tageslicht, kein „den ganzen Tag in Lingerie“.
 
-Verschiedene Hooks **und** verschiedene Formen: Text + Sticker, nur Question-Sticker, nur Text mit indirektem CTA (`...but it looks even better on the floor`).
+Erst wenn alle drei Antworten ohne Widerspruch sind, geht es weiter.
 
-## 4. Bewerten (je 0–2, Ziel ≥ 18/20)
+## 4. Verlauf der Creatorin
 
-1. Hook ohne Zoom sichtbar und bild-spezifisch
-2. Antwort in 1 Sekunde **oder** indirekter CTA, der sofort wirkt – keine Denkfrage
-3. Trigger ohne Vorstimmung
-4. Relatable, echte Mini-Situation (keine Katalog-Beschreibung)
-5. Menschlich: klingt wie eine Creatorin, die tippt – keine Schablone (`X on, Y on...`, `innocent face... don't let it fool you`, `just for you`)
-6. Logik Text → Sticker ohne Bruch; Situation passt zu Licht/Ort/Kleidung
-7. Pronomen eindeutig (bei mehreren Dingen im Text: Bezugswort ausschreiben)
-8. Persönlich (`you/u`), Mitmachen statt Zuschauen (`wanna join me?`)
-9. Batch-Variation: Format (max. 3/6 Text + Sticker), Platzierung, Sticker-Einstieg, Emoji
+- Aus `stories/mechanism-log.md` die letzten 3 Storys **derselben Creatorin**: gesperrte Mechaniken, Formate, Einstiege, Emojis notieren.
+- **Rotation entscheidet nur zwischen gleich starken Ideen.** Nie eine schwächere Idee nehmen, nur weil die stärkste Mechanik gesperrt ist (Lessons 3f). Dann lieber gleiche Mechanik mit klar anderer Pointe.
+
+## 5. Ideen breit sammeln, dann die stärkste wählen
+
+1. **Mindestens 10 Ideen** intern, über mindestens 4 Mechaniken aus dem Katalog (REVEAL, CHOICE, CAUGHT, JOIN, CHAT, PROOF, INDIRECT, DM-REWARD, CONFESS, COMPLIMENT, GAME, ROLEPLAY/FANTASIE).
+2. Bevorzugt: **Fantasie-Szene aus dem Bild**, in der der Fan eine klare Rolle bekommt – sie wirkt am stärksten (Nutzer: „Fantasie ist gut“).
+3. Die 3 stärksten Ideen ausformulieren, je 2 Wortvarianten.
+
+## 6. Bewerten (je 0–2, Ziel 20/20, Minimum 19)
+
+1. Hook ohne Zoom sichtbar und nur zu diesem Bild passend
+2. Antwort in 1 Sekunde (ein Wort/„yes“) – keine Denkfrage
+3. Trigger ohne Vorstimmung, ausgesprochen statt versteckt
+4. Szenen-Logik stimmig (Rollen, Ort, Licht, Kleidung)
+5. Menschlich: klingt wie eine Creatorin, die tippt; `u`, `rn`, `wanna` erlaubt – keine Schablone, kein bekannter Spruch
+6. Text → Sticker ohne Bruch, keine Beschreibung ohne Situation
+7. Pronomen eindeutig (bei mehreren Dingen: Bezugswort ausschreiben)
+8. Persönlich, Fan macht mit statt zuzuschauen; keine dritten Personen
+9. Stimme der Creatorin + Verlauf der Creatorin (Mechanik/Format/Einstieg/Emoji nicht wiederholt)
 10. Chatter-einlösbar, konkret
 
-Unter 18 → neue Kandidaten, nicht senden.
+**Ehrlich bewerten:** Jeder Punkt braucht einen konkreten Grund. Im Zweifel 1 statt 2. Unter 19 → zurück zu Schritt 5.
 
-**Ehrlich bewerten:** Keine geschönten Punkte. Jeder Punkt braucht einen konkreten Grund. Im Zweifel 1 statt 2.
+## 7. Schwachstellen-Jagd (Pflicht)
 
-## 4a. Schwachstellen-Jagd (Pflicht vor jeder Ausgabe)
+Den Sieger aktiv angreifen:
 
-Den Sieger-Kandidaten aktiv angreifen, als wäre ich Jonathan, André und der Nutzer gleichzeitig:
+1. **Jedes Wort:** nötig, gesprochen, eindeutig? Gibt es ein konkreteres Wort?
+2. **Jede Antwortoption (Entweder-oder):** Ist **jede** Antwort heiß? Keine Option, bei der „nichts passiert“.
+3. **Versteckte Denkschritte:** Muss der Fan etwas dazudenken (während was? wofür? wer?)?
+4. **Trigger:** ausgesprochen oder sofort klar?
+5. **Schablone/Spruch:** bekanntes Muster mit ausgetauschtem Wort (`heels stay on`, `under the hood`, `full service`, `favorite outfit`, `on my floor`)?
+6. **Stimme:** Jenny verspielt/nicht dominant · Lina warm-selbstironisch · Sarah reif-offensiv · Leni direkt-neugierig · Leonie verspielt-nasty.
+7. **Szenen-Logik:** Rollen korrekt? Wer ist sie, wer ist er? Keine dritte Person?
+8. **Generik-Test:** Könnte die Story mit einem ausgetauschten Wort unter jedem Bild stehen? → verwerfen.
+9. **Verlaufs-Test:** gleiche Mechanik/Logik-Kette/Einstieg/Emoji wie in den letzten 3 Storys derselben Creatorin?
+10. **Batch-Test** (falls mehrere Storys in der Runde): Format max. 3/6 Text + Sticker, keine doppelten Einstiege/Emojis.
 
-1. **Jedes Wort einzeln:** Ist jedes Wort nötig, gesprochen, eindeutig? Gibt es ein vageres Wort, das konkreter sein könnte?
-2. **Jede Antwortoption einzeln (bei Entweder-oder):** Führt **jede** mögliche Antwort zu einem Trigger? Gibt es eine Option, bei der „nichts passiert“ (z. B. `keep them on` ohne dass der Rest auszieht)? → umbauen, bis jede Antwort heiß ist.
-3. **Versteckte Denkschritte:** Muss der Fan etwas hineindenken, das nicht dasteht (`staying on – während was?`, `u in – wofür?`)? → ausschreiben.
-4. **Trigger ausgesprochen oder nur angedeutet?** Wenn nur angedeutet und der Schritt nicht sofort klar ist → aussprechen (`when i get naked`).
-5. **Schablonen-/Spruch-Test:** Ist das ein bekanntes Muster mit ausgetauschtem Wort (`everything else comes off but the heels stay on`)? → verwerfen.
-6. **Stimme:** Passt der Ton zur Creatorin (Jenny verspielt, nicht dominant; Sarah offensiv; Lina warm-selbstironisch; Leni direkt-neugierig)?
-7. **Situation/Logik:** Passt die Mini-Situation zu Licht, Ort, Kleidung? Ergibt „forgot/lazy/trying on“ mit dem sichtbaren Outfit Sinn?
-8. **Feedback-Abgleich:** Würde André („sofort, triggert, relatable, keine Denkfrage“), Jonathan („kein AI-Ton, Mitmachen, indirekt erlaubt, `u`“) oder der Nutzer („nicht generisch, persönlich, Bildbezug“) an irgendeiner Stelle meckern? Wenn ja → beheben.
-9. **Batch-Duplikate:** Gleiche Einstiege (`with or without`, `wanna`), gleiche Emojis, gleiche Platzierung, gleiches Format?
+## 8. Persona-Review (Pflicht vor dem Senden)
 
-10a. **Keine dritten Personen:** Kein Mechaniker, Nachbar, Ex, „him“ – der Fan ist der einzige Mann in der Szene.
-10. **Verlaufs-Test:** Gleiche Mechanik, Logik-Kette, Einstieg oder Emoji wie in den letzten 3 Storys **derselben Creatorin**? → verwerfen.
-11. **Erstversuch-Test:** Würde der Nutzer bei dieser Version „analysiere nochmal“ sagen müssen? Wenn ich selbst noch eine Schwachstelle vermute → nicht senden, weiter verbessern.
+Für jede Persona **einen Satz Kritik** formulieren, als würde sie die Story zum ersten Mal sehen:
 
-Erst wenn alle 11 Punkte ohne Befund sind, wird ausgegeben. In der Antwort kurz nennen, welche Schwachstellen geprüft und ausgeschlossen wurden.
+- **André:** Antworten Leute sofort? Triggert es? Relatable? Denkfrage?
+- **Jonathan:** Klingt es nach AI/Bot? Schablone? Mitmachen statt Zuschauen? Indirekt, wo es passt?
+- **Nutzer:** Langweilig? Generisch? Ergibt es Sinn? Logik der Rollen? Fremde Personen? Zu viele Wörter?
+- **Fan:** Würde ich das in 1 Sekunde beantworten – und will ich es?
 
-## 5. Ausgabe
+Findet eine Persona **irgendeinen** Kritikpunkt → beheben und Schritt 6–8 wiederholen. Gesendet wird erst, wenn keine Persona etwas findet.
 
-Nur der beste Kandidat im Format aus `CLAUDE.md` – **ohne Platzierung**, nur `Text:` und/oder `Question-Sticker:` –, mit knapper Begründung und Chatter-Hinweis. Bei `analysiere nochmal` / „lass dich nicht beeinflussen“: unabhängig prüfen – Text **und** Sticker getrennt – und nur bei belegbarem Gewinn ändern, sonst ausdrücklich „keine Änderung“.
+## 9. Ausgabe
 
-## 6. Nach jeder Rückmeldung
+Format aus `CLAUDE.md` – **ohne Platzierung**, nur `Text:` und/oder `Question-Sticker:`. Danach kurz: Szenen-Logik, warum diese Mechanik, geprüfte und ausgeschlossene Schwachstellen, Chatter-Hinweis. Bei `analysiere nochmal` / „lass dich nicht beeinflussen“: unabhängig, Text **und** Sticker getrennt, nur bei belegbarem Gewinn ändern, sonst ausdrücklich „keine Änderung“.
 
-- `stories/mechanism-log.md` aktualisieren (Story, Mechanik, Format), auch für verworfene Versionen mit Vermerk.
+## 10. Nach jeder Rückmeldung
 
-- Feedback sofort mit Originalwortlaut in `references/` speichern, abgelehnte Formulierungen als Negativbeispiel in `lessons-learned.md`.
+- Feedback sofort mit Originalwortlaut in `references/` speichern; abgelehnte Formulierungen als Negativbeispiel, bestätigte als Vorlage in `lessons-learned.md`.
+- `stories/mechanism-log.md` aktualisieren (auch verworfene Versionen mit Vermerk).
 - Freigaben sofort archivieren (`stories/final-stories.md`, `data/stories.json`, Chatter-Hinweis).
+- Gilt die Lehre auch für andere Models, sie als allgemeine Regel formulieren (nicht nur für die eine Creatorin).
 - Commit + Push.

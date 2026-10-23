@@ -224,6 +224,17 @@
       "cta_text": "whoever messages me first gets this angle without the top 😘",
       "chatter_note": "First fan to message after the story receives a picture from the same angle without the top.",
       "status": "final"
+    },
+    {
+      "id": "LEN-006",
+      "model": "Leni",
+      "source_image": "IMG_2994.HEIC",
+      "placement": "not specified (user preference)",
+      "format": "text_and_question",
+      "text": "fixing cars is way more fun like this 🙈",
+      "question": "wanna bring yours in? 🔧",
+      "chatter_note": "On 'yes', mechanic roleplay in chat with pictures from this set.",
+      "status": "final"
     }
   ]
 }
