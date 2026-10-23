@@ -44,7 +44,7 @@ Vor jedem Entwurf zuerst die vom Nutzer akzeptierten Muster anwenden, nicht neu 
 - `baby blue lace is cute and all... but i look even better without it 🩵` + `want proof? 👀` – Kontrastfarbe + Behauptung + Beweis-Angebot (Nutzer bestätigt)
 - `can't keep my hands to myself tonight... wanna chat? 💦` – indirekt-nasty plus simple Chat-Einladung
 - `trying on my new red set... keep it on or take it off? ❤️` – echte Mini-Situation plus Ein-Wort-Entscheidung
-- `forgot to take my boots off... on or off when i get naked? 👢` – echte Mini-Situation + Entweder-oder, bei dem **jede** Antwort heiß ist (Nutzer: „ja so ist gut“)
+- `... on or off when i get naked? 👢` – Entweder-oder, bei dem **jede** Antwort heiß ist (Nutzer bestätigt); Einstieg `forgot to take my boots off` später als botartig verworfen
 - `fixing cars is way more fun like this 🙈` + `wanna bring yours in? 🔧` – Szenen-Logik: sie ist die Mechanikerin, der Fan ist der Kunde; keine dritte Person (Nutzer: „ja so ist gut“)
 - `did you even notice my belly piercing... or were you too distracted? 👀` – ertappt-Gefühl, relatable
 
@@ -134,6 +134,11 @@ Selbst verworfen bei Feedback-Abgleich: `laptop's open but i'm clearly not worki
 - Regel: Eine freigegebene Version bleibt, bis der Nutzer ausdrücklich eine neue freigibt. „brauchen wir nicht umändern“ = nichts ändern. Bei Unklarheit kurz nachfragen, welche Version gemeint ist.
 - Bei Batch-Wiedergaben immer die **freigegebene** Fassung aus dem Archiv nehmen, nicht die letzte Idee aus dem Chat.
 - Format-Wunsch genau umsetzen: „minimal kleine Story in den Question-Sticker einfügen“ heißt **im Sticker**, nicht als zusätzlicher Text.
+
+## 3n. „forgot to take my boots off“ wirkt botartig (23.10.2026)
+
+- Nutzer: Der Part `forgot to take my boots off` ist bot-like. „forgot to…“-Einstiege wirken konstruiert (als Ausrede inszeniert) – vermeiden.
+- Mini-Story stattdessen aus dem sichtbaren Zustand bauen, wie man ihn tippen würde (`half undressed already...`).
 
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
