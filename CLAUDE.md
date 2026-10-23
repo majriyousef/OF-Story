@@ -61,6 +61,7 @@ Sobald der Nutzer ein Bild schickt, wird **immer automatisch** `sops/07-auto-che
 - Wenn die bestehende Version nach erneuter Prüfung die beste bleibt, ausdrücklich sagen, dass nichts geändert wird.
 - Keine Behauptung, zu „1000 %“ sicher zu sein. Stattdessen die überprüften Gründe knapp nennen.
 - Kein AI-/Bot-Ton: keine Schablonen wie `X on, Y on... time to ...`; lässiger Texting-Stil (`u`, `wanna`) ist erwünscht; indirekte CTAs sind eine starke eigene Form (Jonathan, 22.10.2026).
+- Niemals andere Personen einbeziehen – vor allem keine fremden Männer (Mechaniker, Nachbar, Ex, „him“ usw.). Das wirkt schlampig. Der Fan ist immer der einzige Mann in der Szene (Nutzer, 23.10.2026).
 - DM-CTAs müssen für das Chat-Team ohne Zusatzanweisung einlösbar sein. Keine unbestimmten Versprechen wie ein „secret“; lieber ein konkreter, bildbezogener Anreiz wie `whoever messages me first gets this angle without the top` (nicht vage wie `a little something`) und einen Chatter-Hinweis im Archiv festhalten.
 
 ## Stimmen der Creatorinnen

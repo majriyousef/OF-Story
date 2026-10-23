@@ -91,6 +91,7 @@ Gegenmaßnahmen: `stories/mechanism-log.md`, Skill-Schritte 1a, 3, 4a.10–11.
 - Ursache: Ich habe die stärkste Idee verworfen, nur um die Mechanik-Rotation zu erfüllen, und dafür eine schwache Ersatzidee genommen.
 - Regel: Zuerst die **stärkste** Idee für das Bild finden. Rotation entscheidet nur zwischen gleich starken Ideen. Gibt es bei einer erlaubten Mechanik keine gleich starke Idee, ist das ein Grund, den Nutzer zu fragen oder die stärkste Idee mit klar anderer Pointe zu nehmen – nie eine schwache Ersatzidee.
 - Fantasie-Szenen (konkrete Rolle für den Fan, aus dem Bild abgeleitet) funktionieren besonders gut.
+- **Aber nie mit dritten Personen:** `my mechanic just went on break` + `wanna fill in for him?` abgelehnt, weil ein fremder Mann vorkommt – wirkt schlampig. Der Fan selbst bekommt die Rolle: `wanna be my mechanic today?`.
 
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
@@ -124,4 +125,5 @@ Niemals langweilig, generisch oder bot-artig. Floskeln wie `dirty mind`, `wanna 
 11. Anti-AI: Klingt es nach Schablone oder Copywriter? Dann neu formulieren.
 12. Hat der Fan einen klaren Grund zu schreiben? Reiner Text ohne Anlass → Frage ergänzen.
 13. Ist die Pointe ein bekannter Spruch? Dann verwerfen.
-14. Bei „lass dich nicht beeinflussen“: unabhängig bewerten – auch akzeptierte Teile auf echte Schwächen prüfen, statt nur zu bestätigen.
+14. Kommt eine andere Person vor (Mechaniker, Nachbar, Ex, „him“)? → streichen, der Fan ist der einzige Mann.
+15. Bei „lass dich nicht beeinflussen“: unabhängig bewerten – auch akzeptierte Teile auf echte Schwächen prüfen, statt nur zu bestätigen.

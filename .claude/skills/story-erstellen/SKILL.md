@@ -68,6 +68,7 @@ Den Sieger-Kandidaten aktiv angreifen, als wäre ich Jonathan, André und der Nu
 8. **Feedback-Abgleich:** Würde André („sofort, triggert, relatable, keine Denkfrage“), Jonathan („kein AI-Ton, Mitmachen, indirekt erlaubt, `u`“) oder der Nutzer („nicht generisch, persönlich, Bildbezug“) an irgendeiner Stelle meckern? Wenn ja → beheben.
 9. **Batch-Duplikate:** Gleiche Einstiege (`with or without`, `wanna`), gleiche Emojis, gleiche Platzierung, gleiches Format?
 
+10a. **Keine dritten Personen:** Kein Mechaniker, Nachbar, Ex, „him“ – der Fan ist der einzige Mann in der Szene.
 10. **Verlaufs-Test:** Gleiche Mechanik, Logik-Kette, Einstieg oder Emoji wie in den letzten 3 Storys **derselben Creatorin**? → verwerfen.
 11. **Erstversuch-Test:** Würde der Nutzer bei dieser Version „analysiere nochmal“ sagen müssen? Wenn ich selbst noch eine Schwachstelle vermute → nicht senden, weiter verbessern.
 
