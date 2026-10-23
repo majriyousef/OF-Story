@@ -111,6 +111,10 @@ Gegenmaßnahmen: `stories/mechanism-log.md`, Skill-Schritte 1a, 3, 4a.10–11.
 - Abgelehnt (Nutzer: „absolute Scheiße, Müll“): `just got out of the shower 🫧` + `too late to join me? 🚿` – die ehrliche Antwort ist „ja, zu spät“ → Sackgasse. Der Fan muss widersprechen statt einfach Ja zu sagen; die Szene ist schon vorbei.
 - Regel (alle Models): Der Sticker bietet eine Handlung an, die **jetzt noch möglich** ist und bei der „yes“ die heiße Antwort ist. Keine Fragen nach verpassten Momenten, keine Fragen, bei denen „no“ die gewünschte Antwort ist.
 
+## 3j. Lina Dusche – abgelehnte Sticker (23.10.2026)
+
+Text bestätigt: `still wet from the shower 🫧`. Abgelehnt als Sticker: `too late to join me?` (Sackgasse), `and i saved u some hot water` + `coming in?` (konstruiert, vage), `wanna dry me off?` / `wanna dry me off... or keep me wet?` / `...or get me wet again?` (Nutzer: „immer noch scheiße“, `dry me off` raus). Lehre: kleine Pflege-Handlungen (abtrocknen) sind keine starke Fantasie; der Sticker muss direkt an „wet“ anknüpfen und die Spannung steigern.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
