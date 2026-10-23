@@ -44,7 +44,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Jenny
 | Story | Mechanik | Format |
 |---|---|---|
-| JEN-007 – `forgot to take my boots off... on or off when u undress me?` | CHOICE | Q-Sticker |
+| JEN-007 – `forgot to take my boots off... on or off when i get naked?` | CHOICE | Q-Sticker |
 | JEN-006 – `...i look even better without it` + `want proof?` | PROOF | Text + Sticker |
 | Hände – `do you want to see what my hands are hiding?` | REVEAL | Q-Sticker |
 

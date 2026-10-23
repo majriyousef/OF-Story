@@ -113,7 +113,7 @@ Gegenmaßnahmen: `stories/mechanism-log.md`, Skill-Schritte 1a, 3, 4a.10–11.
 
 ## 3j. Lina Dusche – abgelehnte Sticker (23.10.2026)
 
-Text bestätigt: `still wet from the shower 🫧`. Abgelehnt als Sticker: `too late to join me?` (Sackgasse), `and i saved u some hot water` + `coming in?` (konstruiert, vage), `wanna dry me off?` / `wanna dry me off... or keep me wet?` / `...or get me wet again?` (Nutzer: „immer noch scheiße“, `dry me off` raus). Lehre: kleine Pflege-Handlungen (abtrocknen) sind keine starke Fantasie; der Sticker muss direkt an „wet“ anknüpfen und die Spannung steigern.
+Text bestätigt: `still wet from the shower 🫧`. Abgelehnt als Sticker: `wanna make me wetter?` (Nutzer: „maximal unzufrieden“), `too late to join me?` (Sackgasse), `and i saved u some hot water` + `coming in?` (konstruiert, vage), `wanna dry me off?` / `wanna dry me off... or keep me wet?` / `...or get me wet again?` (Nutzer: „immer noch scheiße“, `dry me off` raus). Lehre: kleine Pflege-Handlungen (abtrocknen) sind keine starke Fantasie; der Sticker muss direkt an „wet“ anknüpfen und die Spannung steigern.
 
 ## 3k. Leonie Laptop – abgelehnt und Lehre (23.10.2026)
 
@@ -127,6 +127,13 @@ Selbst verworfen bei Feedback-Abgleich: `laptop's open but i'm clearly not worki
 - Nutzer: „Vielleicht eine minimal kleine Story einfügen, damit das nicht so botartig wirkt.“
 - Regel (alle Models): Ein Question-Sticker beginnt mit einem winzigen, menschlichen Situations-Fragment aus dem Bild (2–5 Wörter, z. B. `curled up in my chair...`, `still wet from the shower`, `forgot to take my boots off...`), dann folgt die Frage. Keine nackte Frage ohne Situation.
 - Das Fragment beschreibt, was sie gerade *tut*, nicht was sie *trägt* (kein Katalog).
+
+## 3m. Freigaben nicht überschreiben (23.10.2026)
+
+- Fehler: Nutzer gab `forgot to take my boots off... on or off when i get naked?` frei („ja so ist gut“). Ich schlug danach `... when u undress me?` vor; Nutzer: „brauchen wir nicht umändern“ – gemeint war: die **freigegebene** Version bleibt. Ich habe stattdessen meinen Vorschlag archiviert.
+- Regel: Eine freigegebene Version bleibt, bis der Nutzer ausdrücklich eine neue freigibt. „brauchen wir nicht umändern“ = nichts ändern. Bei Unklarheit kurz nachfragen, welche Version gemeint ist.
+- Bei Batch-Wiedergaben immer die **freigegebene** Fassung aus dem Archiv nehmen, nicht die letzte Idee aus dem Chat.
+- Format-Wunsch genau umsetzen: „minimal kleine Story in den Question-Sticker einfügen“ heißt **im Sticker**, nicht als zusätzlicher Text.
 
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 

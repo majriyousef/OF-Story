@@ -52,10 +52,10 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 
 - **Bild:** Original-Dateiname fehlt (rote Spitze, schwarze Overknee-Stiefel, rote Samtdecke)
 - **Platzierung:** Question-Sticker oben links auf der hellen Wand über dem Kopf
-- **Question-Sticker:** `forgot to take my boots off... on or off when u undress me? 👢`
+- **Question-Sticker:** `forgot to take my boots off... on or off when i get naked? 👢`
 - **Normaler Text:** keiner
-- **Chatter-Hinweis:** „on“ → Bild nur noch in Stiefeln; „off“ → Bild komplett nackt.
-- **Freigabe:** Nutzer („schon sehr gut, brauchen wir nicht umändern“); ersetzt `... when i get naked?` (Fan nur Zuschauer) und `... while u fuck me?` (zu explizit)
+- **Chatter-Hinweis:** „on“ → Bild nackt in Stiefeln; „off“ → Bild komplett nackt.
+- **Freigabe:** Nutzer („ja so ist gut“; später „brauchen wir nicht umändern“ = diese Version bleibt). Nicht verwendet: `... when u undress me?` (von mir fälschlich übernommen), `... while u fuck me?` (zu explizit)
 
 ## Lina
 
