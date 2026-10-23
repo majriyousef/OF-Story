@@ -115,6 +115,11 @@ Gegenmaßnahmen: `stories/mechanism-log.md`, Skill-Schritte 1a, 3, 4a.10–11.
 
 Text bestätigt: `still wet from the shower 🫧`. Abgelehnt als Sticker: `too late to join me?` (Sackgasse), `and i saved u some hot water` + `coming in?` (konstruiert, vage), `wanna dry me off?` / `wanna dry me off... or keep me wet?` / `...or get me wet again?` (Nutzer: „immer noch scheiße“, `dry me off` raus). Lehre: kleine Pflege-Handlungen (abtrocknen) sind keine starke Fantasie; der Sticker muss direkt an „wet“ anknüpfen und die Spannung steigern.
 
+## 3k. Leonie Laptop – abgelehnt und Lehre (23.10.2026)
+
+Abgelehnt: `trying to work but i can't focus... wanna distract me?` (Floskel, vage), `still in my work clothes` + `wanna take them off me?` (Denkschritt „Arbeitskleidung = OF“, wirkt kommerziell), `supposed to be working rn` + `wanna take my bra off instead?` (Nutzer: Bild nicht detailliert genug angesehen).
+Lehre: Bild per Werkzeug zoomen; Details wie Frontverschluss und „sie schaut nicht auf den Laptop“ gehören in die Story.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).

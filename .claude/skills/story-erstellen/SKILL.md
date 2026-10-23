@@ -20,6 +20,15 @@ Dieser Skill ist bei **jedem** Bild und jeder Überarbeitung vollständig auszuf
 
 Gesicht (Lächeln, Zunge, Blick, Blickrichtung), Haare, Hände, Kleidung (Farbe/Kontrast, Muster, Transparenz), kleine Details vergrößern (Reißverschluss, Verschluss, Ringe, Schleifen, Perlen, Riemchen), Schmuck/Piercings, Tattoos, Spiegelungen, Perspektive, Licht/Tageszeit, Ort, Requisiten. Unsicheres nicht verwenden. Creatorin mit Gesicht abgleichen.
 
+## 2a. Pflicht-Zoom mit Werkzeug (nicht nur Gesamtbild ansehen)
+
+Vor jeder Formulierung das Bild **tatsächlich in Ausschnitte schneiden und ansehen** (Python/PIL-Crop in den Scratchpad, dann Read): mindestens Gesicht, Oberteil/BH-Mitte, Bauch/Hüfte/Slip, Hände, Beine/Füße, Requisiten/Hintergrund.
+
+Danach intern eine **Detail-Liste** schreiben und jedes Detail markieren:
+- *sofort sichtbar* (darf Hook sein) / *nur im Zoom* (nur als stützendes Wort, z. B. richtiges Verb) / *unsicher* (nicht verwenden)
+- Funktionsweise von Kleidung notieren (Frontverschluss → „open/unclip“, Reißverschluss → „unzip“, Schnürung → „untie“), damit Verben stimmen.
+- Was macht sie **nicht**? (z. B. Laptop offen, aber sie schaut in die Kamera → arbeitet offensichtlich nicht.) Solche Widersprüche sind oft die beste Mini-Situation.
+
 ## 3. Szenen-Logik festlegen (vor jeder Formulierung)
 
 Drei Fragen schriftlich (intern) beantworten:
