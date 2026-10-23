@@ -118,6 +118,7 @@ Text bestätigt: `still wet from the shower 🫧`. Abgelehnt als Sticker: `too l
 ## 3k. Leonie Laptop – abgelehnt und Lehre (23.10.2026)
 
 Abgelehnt: `trying to work but i can't focus... wanna distract me?` (Floskel, vage), `still in my work clothes` + `wanna take them off me?` (Denkschritt „Arbeitskleidung = OF“, wirkt kommerziell), `supposed to be working rn` + `wanna take my bra off instead?` (Nutzer: Bild nicht detailliert genug angesehen).
+Abgelehnt (Nutzer): `pretending to work rn` (beschreibt nur, keine Spannung), `should be answering emails rn... but i keep thinking about u` („thinking about u“ niemals in Storys; Arbeits-Floskel). Bestätigter Sticker: `legs closed... for now. should i open them for u? 😏`.
 Lehre: Bild per Werkzeug zoomen; Details wie Frontverschluss und „sie schaut nicht auf den Laptop“ gehören in die Story.
 Selbst verworfen bei Feedback-Abgleich: `laptop's open but i'm clearly not working... wanna open my bra instead?` – (1) gleiche Pointe „BH kommt ab“ wie Leonies letzte Perlen-Story (`with or without the bra?`), (2) `open... open` ist ein Parallelismus = Bot-Signal nach Jonathan.
 
@@ -156,4 +157,5 @@ Niemals langweilig, generisch oder bot-artig. Floskeln wie `dirty mind`, `wanna 
 14. Kommt eine andere Person vor (Mechaniker, Nachbar, Ex, „him“)? → streichen, der Fan ist der einzige Mann.
 15. Ist ein Wort zu explizit (`fuck me`)? Krass über die Szene, nicht über Vokabular.
 16. Ist „yes“ die heiße Antwort und die Handlung jetzt noch möglich? Keine verpasste Chance, keine Frage, auf die man widersprechen muss.
-17. Bei „lass dich nicht beeinflussen“: unabhängig bewerten – auch akzeptierte Teile auf echte Schwächen prüfen, statt nur zu bestätigen.
+17. Steht „thinking about u / missing u“ drin? → raus, Storys gehen an alle.
+18. Bei „lass dich nicht beeinflussen“: unabhängig bewerten – auch akzeptierte Teile auf echte Schwächen prüfen, statt nur zu bestätigen.
