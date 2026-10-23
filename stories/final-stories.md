@@ -52,7 +52,7 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 
 - **Bild:** Original-Dateiname fehlt (rote Spitze, schwarze Overknee-Stiefel, rote Samtdecke)
 - **Platzierung:** Question-Sticker oben links auf der hellen Wand über dem Kopf
-- **Question-Sticker:** `forgot to take my boots off... on or off when i get naked? 👢`
+- **Question-Sticker:** `half undressed already... boots on or off when i get naked? 👢`
 - **Normaler Text:** keiner
 - **Chatter-Hinweis:** „on“ → Bild nackt in Stiefeln; „off“ → Bild komplett nackt.
 - **Freigabe:** Nutzer („ja so ist gut“; später „brauchen wir nicht umändern“ = diese Version bleibt). Nicht verwendet: `... when u undress me?` (von mir fälschlich übernommen), `... while u fuck me?` (zu explizit)
@@ -95,6 +95,13 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - **Normaler Text:** keiner
 - **Chatter-Hinweis:** Wer „off“ antwortet, bekommt ein Bild aus diesem Set ohne BH.
 
+### LIN-006 — Nach der Dusche im Bademantel
+
+- **Bild:** Original-Dateiname fehlt (nasse Haare, grauer Bademantel offen, Duschkabine)
+- **Text:** `still wet from the shower 🫧`
+- **Question-Sticker:** `take me to bed naked... or back into the shower? 😏`
+- **Chatter-Hinweis:** „bed“ → Bild ohne Bademantel; „shower“ → Dusch-Rollenspiel mit Bildern aus dem Set.
+
 ## Sarah
 
 ### SAR-001 — Butterfly von hinten
@@ -136,10 +143,10 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 ### SAR-006 — Blaues Babydoll, Rückansicht im Spiegel
 
 - **Bild:** Original-Dateiname fehlt (royalblaues Babydoll, Standspiegel mit Rückansicht)
-- **Question-Sticker:** `bent over in front of the mirror... wanna see my ass up close? 🍑`
-- **Normaler Text:** keiner
-- **Chatter-Hinweis:** Auf „yes“ Nahaufnahme ihres Pos aus diesem Set.
-- **Freigabe:** Nutzer („passt“)
+- **Text:** `sweet from the front... my ass says otherwise`
+- **Question-Sticker:** `what would u do if u were behind me? 🍑`
+- **Chatter-Hinweis:** Antworten als Sexting-Einstieg nutzen; Bilder aus dem Set, vornübergebeugt von hinten.
+- **Freigabe:** Nutzer (finale Fassung nach Überarbeitung; ersetzt `bent over in front of the mirror... wanna see my ass up close?`)
 
 ## Leni
 
@@ -188,6 +195,23 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - **Question-Sticker:** `wanna bring yours in? 🔧`
 - **Chatter-Hinweis:** Auf „yes“ Mechanikerin-Rollenspiel im Chat mit Bildern aus diesem Set.
 - **Freigabe:** Nutzer („ja so ist gut“)
+
+## Leonie
+
+### LEO-001 — Perlen-BH
+
+- **Bild:** Original-Dateiname fehlt (rosa Spitzen-BH mit Perlenträgern, grauer Vorhang)
+- **Text:** `can't decide if this pearl bra stays on 🎀`
+- **Question-Sticker:** `with or without? you tell me 🫣`
+- **Chatter-Hinweis:** „without“ → Bild aus dem Set ohne BH.
+- **Freigabe:** Jonathan 👍
+
+### LEO-002 — Sessel am Schreibtisch, Beine angezogen
+
+- **Bild:** Original-Dateiname fehlt (rosa Spitzen-BH mit Frontverschluss, grauer Samtsessel, rosa Laptop)
+- **Question-Sticker:** `curled up in my chair, legs closed... for now. should i open them for u? 😇`
+- **Normaler Text:** keiner
+- **Chatter-Hinweis:** Auf „yes“ Bild aus dem Set mit geöffneten Beinen auf dem Sessel.
 
 ## Nicht als Endfassung geführt
 

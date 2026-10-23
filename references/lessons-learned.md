@@ -45,6 +45,10 @@ Vor jedem Entwurf zuerst die vom Nutzer akzeptierten Muster anwenden, nicht neu 
 - `can't keep my hands to myself tonight... wanna chat? 💦` – indirekt-nasty plus simple Chat-Einladung
 - `trying on my new red set... keep it on or take it off? ❤️` – echte Mini-Situation plus Ein-Wort-Entscheidung
 - `... on or off when i get naked? 👢` – Entweder-oder, bei dem **jede** Antwort heiß ist (Nutzer bestätigt); Einstieg `forgot to take my boots off` später als botartig verworfen
+- `sweet from the front... my ass says otherwise` + `what would u do if u were behind me? 🍑` – Kontrast vorne/hinten, Trigger im Text, Frage mit klarer Position (Nutzer bestätigt)
+- `still wet from the shower 🫧` + `take me to bed naked... or back into the shower? 😏` – Fantasie, beide Optionen mit ihm, Trigger im Satz (Nutzer: „ganz cool“)
+- `half undressed already... boots on or off when i get naked? 👢` – Zustand statt „forgot“-Ausrede
+- `curled up in my chair, legs closed... for now. should i open them for u? 😇` – Mini-Story im Sticker + konkretes Angebot
 - `fixing cars is way more fun like this 🙈` + `wanna bring yours in? 🔧` – Szenen-Logik: sie ist die Mechanikerin, der Fan ist der Kunde; keine dritte Person (Nutzer: „ja so ist gut“)
 - `did you even notice my belly piercing... or were you too distracted? 👀` – ertappt-Gefühl, relatable
 
@@ -140,6 +144,22 @@ Selbst verworfen bei Feedback-Abgleich: `laptop's open but i'm clearly not worki
 - Nutzer: Der Part `forgot to take my boots off` ist bot-like. „forgot to…“-Einstiege wirken konstruiert (als Ausrede inszeniert) – vermeiden.
 - Mini-Story stattdessen aus dem sichtbaren Zustand bauen, wie man ihn tippen würde (`half undressed already...`).
 
+## 3o. Eigene Fehlanalysen – nicht überinterpretieren (23.10.2026)
+
+Ich habe `what would u do if u were behind me?` (Vorschlag des Nutzers) fälschlich als „botartig“ und „André-Verstoß“ abgewertet. Selbst erkannt nach erneuter Prüfung:
+
+1. **Bot-Ton ≠ bekannte Formulierung.** Jonathans Kritik gilt formelhaftem Rhythmus (`X on, Y on... time to`, `innocent face... don't let it fool you`), nicht jeder häufigen, natürlichen Frage. Echte Creatorinnen fragen genau so.
+2. **André-Kritik genau anwenden.** `where do your hands start?` war seltsam formuliert, passte nicht zur POV-Perspektive und hatte keinen Halt im Text. Eine direkte Frage mit klarer Position (`behind me`) und Text, der den Inhalt vorgibt (`my ass says otherwise`), ist leicht zu beantworten – offene Fragen sind nicht automatisch verboten.
+3. **Abwägen statt pauschal verwerfen:** Offene Fragen = etwas weniger, aber längere, persönlichere Antworten (gut für Chatter). Ein-Wort-Wahl = mehr, aber kürzere Antworten. Beides ist legitim.
+4. **Vorschläge des Nutzers fair prüfen:** Nicht reflexartig „verbessern“. Erst prüfen, ob wirklich eine Schwachstelle existiert; Regeln nicht über ihren Zweck hinaus anwenden.
+5. **Gegenprobe vor jeder Kritik:** „Würde der Urheber der Regel (André/Jonathan/Nutzer) genau das hier kritisieren – oder dehne ich die Regel aus?“
+
+Weitere Analysefehler dieser Runde:
+- Freigegebene Version mit eigenem Vorschlag überschrieben (Jenny, siehe 3m).
+- Nutzerwunsch falsch umgesetzt („Story im Sticker“ → als Extra-Text gebaut).
+- Sticker-Emoji geändert, obwohl der Nutzer „Sticker bleibt so“ sagte.
+- Schwachstellen erst nach Nachfrage gefunden statt vor dem Senden.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
@@ -176,5 +196,6 @@ Niemals langweilig, generisch oder bot-artig. Floskeln wie `dirty mind`, `wanna 
 15. Ist ein Wort zu explizit (`fuck me`)? Krass über die Szene, nicht über Vokabular.
 16. Ist „yes“ die heiße Antwort und die Handlung jetzt noch möglich? Keine verpasste Chance, keine Frage, auf die man widersprechen muss.
 17. Steht „thinking about u / missing u“ drin? → raus, Storys gehen an alle.
+18a. Überinterpretiere ich eine Regel? Gegenprobe: Würde der Urheber genau das kritisieren?
 18. Beginnt der Sticker mit einer kleinen menschlichen Situation (was sie gerade tut)? Sonst wirkt er botartig.
 19. Bei „lass dich nicht beeinflussen“: unabhängig bewerten – auch akzeptierte Teile auf echte Schwächen prüfen, statt nur zu bestätigen.

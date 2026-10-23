@@ -93,6 +93,10 @@ Für jede Persona **einen Satz Kritik** formulieren, als würde sie die Story zu
 
 Findet eine Persona **irgendeinen** Kritikpunkt → beheben und Schritt 6–8 wiederholen. Gesendet wird erst, wenn keine Persona etwas findet.
 
+## 7a. Gegenprobe gegen Überinterpretation
+
+Jede gefundene „Schwachstelle“ prüfen: Würde André/Jonathan/der Nutzer **genau das** kritisieren, oder dehne ich eine Regel über ihren Zweck aus? Häufige, natürliche Fragen sind kein Bot-Ton; offene Fragen sind nicht automatisch verboten (Lessons 3o). Vorschläge des Nutzers fair prüfen, nicht reflexartig umbauen. Freigegebene Versionen nie überschreiben.
+
 ## 8a. Sende-Sperre (absolut)
 
 - Solange **irgendeine** Schwachstelle aus Schritt 7 oder 8 offen ist, wird **nichts** gesendet – auch keine „vorläufige“ Version.

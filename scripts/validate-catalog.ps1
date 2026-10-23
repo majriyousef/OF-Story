@@ -13,7 +13,7 @@ if (-not (Test-Path -LiteralPath $markdownPath)) {
 }
 
 $catalog = Get-Content -LiteralPath $catalogPath -Raw -Encoding UTF8 | ConvertFrom-Json
-$allowedModels = @('Jenny', 'Lina', 'Sarah', 'Leni')
+$allowedModels = @('Jenny', 'Lina', 'Sarah', 'Leni', 'Leonie')
 $allowedFormats = @('text_only', 'question_only', 'text_and_question')
 $seenIds = @{}
 $seenImages = @{}

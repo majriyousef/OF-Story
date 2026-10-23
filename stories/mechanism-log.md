@@ -44,14 +44,14 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Jenny
 | Story | Mechanik | Format |
 |---|---|---|
-| JEN-007 – `forgot to take my boots off... on or off when i get naked?` | CHOICE | Q-Sticker |
+| JEN-007 – `half undressed already... boots on or off when i get naked?` | CHOICE | Q-Sticker |
 | JEN-006 – `...i look even better without it` + `want proof?` | PROOF | Text + Sticker |
 | Hände – `do you want to see what my hands are hiding?` | REVEAL | Q-Sticker |
 
 ### Sarah
 | Story | Mechanik | Format |
 |---|---|---|
-| SAR-006 Spiegel blau – `bent over in front of the mirror... wanna see my ass up close?` | REVEAL | Q-Sticker |
+| SAR-006 Spiegel blau – `sweet from the front... my ass says otherwise` + `what would u do if u were behind me?` | JOIN/FANTASIE | Text + Sticker |
 | Nylons rot – `in my nylons and nobody here to play with` + `wanna join me?` | JOIN | Text + Sticker |
 | Bett rot – `lazy day in bed...` + `already wet and you're not even here yet... wanna chat with me?` | CHAT | Text + Sticker |
 | SAR-005 – `rip these stockings off me... or take me with them on?` | CHOICE | Q-Sticker |
@@ -59,6 +59,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Lina
 | Story | Mechanik | Format |
 |---|---|---|
+| LIN-006 Dusche – `still wet from the shower` + `take me to bed naked... or back into the shower?` | CHOICE/FANTASIE | Text + Sticker |
 | Bademantel nach Dusche – `just got out of the shower` + `too late to join me?` (verworfen: Sackgasse) | JOIN | Text + Sticker |
 | Bikini Leo/Blumen – `in such a good mood today... wanna see this bikini come off?` | REVEAL | Q-Sticker |
 | LIN-005 – `trying on my new red set... keep it on or take it off?` | CONFESS + CHOICE | Q-Sticker |
@@ -67,6 +68,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Leonie
 | Story | Mechanik | Format |
 |---|---|---|
+| LEO-002 Sessel – `curled up in my chair, legs closed... for now. should i open them for u?` | REVEAL | Q-Sticker |
 | Laptop – `laptop's open but i'm clearly not working... wanna open my bra instead?` (selbst verworfen: Pointe wie Perlen-BH, Parallelismus) | REVEAL | Q-Sticker |
 | Perlen-BH – `can't decide if this pearl bra stays on` + `with or without? you tell me` | CHOICE | Text + Sticker |
 | Pyjama – `already in my pajamas...` + `can't keep my hands to myself tonight... wanna chat?` | CHAT | Text + Sticker |

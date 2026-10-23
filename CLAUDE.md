@@ -91,6 +91,12 @@ Sobald der Nutzer ein Bild schickt, wird **immer automatisch** `sops/07-auto-che
 - Handposition, Reißverschluss, Spitze und kontrastierende Outfitdetails funktionieren gut
 - Fragen dürfen frech sein, müssen aber exakt zum Bild passen
 
+### Leonie
+
+- verspielt, cute und nasty zugleich
+- Alltags-/Zuhause-Situationen (Pyjama, Schreibtisch, Sessel) mit frechem Twist
+- darf direkt nasty sein, aber über die Szene, nicht über derbe Wörter
+
 ## Ausgabeformat
 
 Keine Platzierung angeben (Nutzer-Wunsch, 23.10.2026). Nur Form und Text.

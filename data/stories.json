@@ -71,7 +71,7 @@
       "source_image": "MISSING-jenny-red-lace-black-boots",
       "placement": "question sticker top left on the light wall above her head",
       "format": "question_only",
-      "question": "forgot to take my boots off... on or off when i get naked? 👢",
+      "question": "half undressed already... boots on or off when i get naked? 👢",
       "chatter_note": "'on' -> picture naked in boots; 'off' -> fully naked picture.",
       "status": "final"
     },
@@ -123,6 +123,17 @@
       "format": "question_only",
       "question": "trying on my new red set... keep it on or take it off? ❤️",
       "chatter_note": "Fans answering 'off' receive a picture from this set without the bra.",
+      "status": "final"
+    },
+    {
+      "id": "LIN-006",
+      "model": "Lina",
+      "source_image": "MISSING-lina-bathrobe-shower",
+      "placement": "not specified (user preference)",
+      "format": "text_and_question",
+      "text": "still wet from the shower 🫧",
+      "question": "take me to bed naked... or back into the shower? 😏",
+      "chatter_note": "'bed' -> picture without bathrobe; 'shower' -> shower roleplay with set pictures.",
       "status": "final"
     },
     {
@@ -179,10 +190,11 @@
       "model": "Sarah",
       "source_image": "MISSING-sarah-blue-babydoll-mirror",
       "placement": "not specified (user preference)",
-      "format": "question_only",
-      "question": "bent over in front of the mirror... wanna see my ass up close? 🍑",
-      "chatter_note": "On 'yes', close-up of her ass from this set.",
-      "status": "final"
+      "format": "text_and_question",
+      "question": "what would u do if u were behind me? 🍑",
+      "chatter_note": "Use answers as sexting entry; pictures from the set, bent over from behind.",
+      "status": "final",
+      "text": "sweet from the front... my ass says otherwise"
     },
     {
       "id": "LEN-001",
@@ -244,6 +256,27 @@
       "text": "fixing cars is way more fun like this 🙈",
       "question": "wanna bring yours in? 🔧",
       "chatter_note": "On 'yes', mechanic roleplay in chat with pictures from this set.",
+      "status": "final"
+    },
+    {
+      "id": "LEO-001",
+      "model": "Leonie",
+      "source_image": "MISSING-leonie-pearl-bra",
+      "placement": "not specified (user preference)",
+      "format": "text_and_question",
+      "text": "can't decide if this pearl bra stays on 🎀",
+      "question": "with or without? you tell me 🫣",
+      "chatter_note": "'without' -> picture from the set without bra.",
+      "status": "final"
+    },
+    {
+      "id": "LEO-002",
+      "model": "Leonie",
+      "source_image": "MISSING-leonie-chair-laptop",
+      "placement": "not specified (user preference)",
+      "format": "question_only",
+      "question": "curled up in my chair, legs closed... for now. should i open them for u? 😇",
+      "chatter_note": "On 'yes', picture from the set with legs open on the chair.",
       "status": "final"
     }
   ]
