@@ -67,5 +67,6 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Leonie
 | Story | Mechanik | Format |
 |---|---|---|
+| Laptop – `laptop's open but i'm clearly not working... wanna open my bra instead?` (selbst verworfen: Pointe wie Perlen-BH, Parallelismus) | REVEAL | Q-Sticker |
 | Perlen-BH – `can't decide if this pearl bra stays on` + `with or without? you tell me` | CHOICE | Text + Sticker |
 | Pyjama – `already in my pajamas...` + `can't keep my hands to myself tonight... wanna chat?` | CHAT | Text + Sticker |

@@ -119,6 +119,7 @@ Text bestätigt: `still wet from the shower 🫧`. Abgelehnt als Sticker: `too l
 
 Abgelehnt: `trying to work but i can't focus... wanna distract me?` (Floskel, vage), `still in my work clothes` + `wanna take them off me?` (Denkschritt „Arbeitskleidung = OF“, wirkt kommerziell), `supposed to be working rn` + `wanna take my bra off instead?` (Nutzer: Bild nicht detailliert genug angesehen).
 Lehre: Bild per Werkzeug zoomen; Details wie Frontverschluss und „sie schaut nicht auf den Laptop“ gehören in die Story.
+Selbst verworfen bei Feedback-Abgleich: `laptop's open but i'm clearly not working... wanna open my bra instead?` – (1) gleiche Pointe „BH kommt ab“ wie Leonies letzte Perlen-Story (`with or without the bra?`), (2) `open... open` ist ein Parallelismus = Bot-Signal nach Jonathan.
 
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
