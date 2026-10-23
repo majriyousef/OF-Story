@@ -56,6 +56,7 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - **Normaler Text:** keiner
 - **Chatter-Hinweis:** „on“ → Bild nackt in Stiefeln; „off“ → Bild komplett nackt.
 - **Freigabe:** Nutzer („ja so ist gut“; später „brauchen wir nicht umändern“ = diese Version bleibt). Nicht verwendet: `... when u undress me?` (von mir fälschlich übernommen), `... while u fuck me?` (zu explizit)
+- **Team-Feedback:** gut, so beibehalten (23.10.2026)
 
 ## Lina
 
@@ -101,6 +102,7 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - **Text:** `still wet from the shower 🫧`
 - **Question-Sticker:** `take me to bed naked... or back into the shower? 😏`
 - **Chatter-Hinweis:** „bed“ → Bild ohne Bademantel; „shower“ → Dusch-Rollenspiel mit Bildern aus dem Set.
+- **Team-Feedback:** gut, so beibehalten (23.10.2026)
 
 ## Sarah
 
@@ -147,6 +149,7 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - **Question-Sticker:** `what would u do if u were behind me? 🍑`
 - **Chatter-Hinweis:** Antworten als Sexting-Einstieg nutzen; Bilder aus dem Set, vornübergebeugt von hinten.
 - **Freigabe:** Nutzer (finale Fassung nach Überarbeitung; ersetzt `bent over in front of the mirror... wanna see my ass up close?`)
+- **Team-Feedback:** gut, so beibehalten (23.10.2026)
 
 ## Leni
 
@@ -195,6 +198,7 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - **Question-Sticker:** `wanna bring yours in? 🔧`
 - **Chatter-Hinweis:** Auf „yes“ Mechanikerin-Rollenspiel im Chat mit Bildern aus diesem Set.
 - **Freigabe:** Nutzer („ja so ist gut“)
+- **Team-Feedback:** gut, so beibehalten (23.10.2026)
 
 ## Leonie
 
@@ -212,6 +216,7 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - **Question-Sticker:** `curled up in my chair, legs closed... for now. should i open them for u? 😇`
 - **Normaler Text:** keiner
 - **Chatter-Hinweis:** Auf „yes“ Bild aus dem Set mit geöffneten Beinen auf dem Sessel.
+- **Team-Feedback:** gut, so beibehalten (23.10.2026)
 
 ## Nicht als Endfassung geführt
 

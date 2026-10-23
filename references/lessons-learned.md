@@ -36,6 +36,8 @@ Diese Datei sammelt Fehler, die mehrere Feedbackrunden gekostet haben. Vor jeder
 
 ## 3a. Stilvorlage aus freigegebenen Storys nutzen
 
+**Goldstandard (Team-Feedback 23.10.2026, „so beibehalten“):** JEN-007, SAR-006, LEN-006, LIN-006, LEO-002 – siehe `references/andre-feedback.md`. Neue Storys zuerst an diesem Batch messen.
+
 Vor jedem Entwurf zuerst die vom Nutzer akzeptierten Muster anwenden, nicht neu erfinden:
 
 - `do you want to see what my hands are hiding? 👅` – direktes, persönliches Angebot zum Sichtbaren

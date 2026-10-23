@@ -53,6 +53,28 @@ Verbindliche Konsequenzen:
 | 11.10.2026 | Lina | zwei Lina-Storys aus dieser Runde | „passen beide“ |
 | 08.10.2026 | Leni | `do you like the angle?` + Erstschreiber-Anreiz (Basis von LEN-005) | Vorschlag von André |
 
+## Team-Feedback 23.10.2026 – Batch bestätigt
+
+> Storys gut gewesen laut Feedback, so beibehalten.
+
+Bestätigter Batch (Referenz für Stil, Trigger und Aufbau):
+
+| ID | Story |
+|---|---|
+| JEN-007 | `half undressed already... boots on or off when i get naked? 👢` |
+| SAR-006 | `sweet from the front... my ass says otherwise` + `what would u do if u were behind me? 🍑` |
+| LEN-006 | `fixing cars is way more fun like this 🙈` + `wanna bring yours in? 🔧` |
+| LIN-006 | `still wet from the shower 🫧` + `take me to bed naked... or back into the shower? 😏` |
+| LEO-002 | `curled up in my chair, legs closed... for now. should i open them for u? 😇` |
+
+Gemeinsame Merkmale (beibehalten):
+- kurze menschliche Mini-Story aus dem Bild (was sie gerade tut/ist), keine Beschreibung
+- Trigger im Satz ausgesprochen (`naked`, `my ass`, `legs`), ohne Sex-Verben
+- Fan ist mittendrin (Rolle, Entscheidung, Position), keine dritten Personen
+- Antwort sofort möglich; offene Frage nur mit klarer Position und Halt im Text
+- lässiger Texting-Ton (`u`, `rn`, `wanna`), kein Schablonen-Rhythmus
+- Formate gemischt (Question-Sticker allein und Text + Sticker)
+
 ## Prüffragen nach André (vor jeder Story)
 
 1. Antworten Leute darauf – sofort und ohne Nachdenken?
