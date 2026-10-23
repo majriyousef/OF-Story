@@ -106,6 +106,11 @@ Gegenmaßnahmen: `stories/mechanism-log.md`, Skill-Schritte 1a, 3, 4a.10–11.
 - Bestätigt als beste Sarah-Version (Nutzer): `bent over in front of the mirror... wanna see my ass up close? 🍑` – direkt, bildgenau, krass genug.
 - „Krasser machen“ heißt: Fan näher in die Szene holen (Mitmachen), nicht das Vokabular verschärfen.
 
+## 3i. Keine verpasste Chance als Frage (23.10.2026)
+
+- Abgelehnt (Nutzer: „absolute Scheiße, Müll“): `just got out of the shower 🫧` + `too late to join me? 🚿` – die ehrliche Antwort ist „ja, zu spät“ → Sackgasse. Der Fan muss widersprechen statt einfach Ja zu sagen; die Szene ist schon vorbei.
+- Regel (alle Models): Der Sticker bietet eine Handlung an, die **jetzt noch möglich** ist und bei der „yes“ die heiße Antwort ist. Keine Fragen nach verpassten Momenten, keine Fragen, bei denen „no“ die gewünschte Antwort ist.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
@@ -140,4 +145,5 @@ Niemals langweilig, generisch oder bot-artig. Floskeln wie `dirty mind`, `wanna 
 13. Ist die Pointe ein bekannter Spruch? Dann verwerfen.
 14. Kommt eine andere Person vor (Mechaniker, Nachbar, Ex, „him“)? → streichen, der Fan ist der einzige Mann.
 15. Ist ein Wort zu explizit (`fuck me`)? Krass über die Szene, nicht über Vokabular.
-16. Bei „lass dich nicht beeinflussen“: unabhängig bewerten – auch akzeptierte Teile auf echte Schwächen prüfen, statt nur zu bestätigen.
+16. Ist „yes“ die heiße Antwort und die Handlung jetzt noch möglich? Keine verpasste Chance, keine Frage, auf die man widersprechen muss.
+17. Bei „lass dich nicht beeinflussen“: unabhängig bewerten – auch akzeptierte Teile auf echte Schwächen prüfen, statt nur zu bestätigen.

@@ -61,6 +61,7 @@ Erst wenn alle drei Antworten ohne Widerspruch sind, geht es weiter.
 Den Sieger aktiv angreifen:
 
 1. **Jedes Wort:** nötig, gesprochen, eindeutig? Gibt es ein konkreteres Wort?
+2a. **Ja-Test:** Ist „yes“ die heiße Antwort, und ist die angebotene Handlung **jetzt noch möglich**? Keine verpasste Chance (`too late to join me?`), keine Frage, auf die man widersprechen muss.
 2. **Jede Antwortoption (Entweder-oder):** Ist **jede** Antwort heiß? Keine Option, bei der „nichts passiert“.
 3. **Versteckte Denkschritte:** Muss der Fan etwas dazudenken (während was? wofür? wer?)?
 4. **Trigger:** ausgesprochen oder sofort klar?

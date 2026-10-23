@@ -59,6 +59,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Lina
 | Story | Mechanik | Format |
 |---|---|---|
+| Bademantel nach Dusche – `just got out of the shower` + `too late to join me?` (verworfen: Sackgasse) | JOIN | Text + Sticker |
 | Bikini Leo/Blumen – `in such a good mood today... wanna see this bikini come off?` | REVEAL | Q-Sticker |
 | LIN-005 – `trying on my new red set... keep it on or take it off?` | CONFESS + CHOICE | Q-Sticker |
 | Polka-Dot POV – `this is my view all day long` + `jealous?` | CONFESS | Text + Sticker |
