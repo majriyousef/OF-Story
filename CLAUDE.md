@@ -91,30 +91,32 @@ Sobald der Nutzer ein Bild schickt, wird **immer automatisch** `sops/07-auto-che
 
 ## Ausgabeformat
 
-Standard:
+Keine Platzierung angeben (Nutzer-Wunsch, 23.10.2026). Nur Form und Text.
+
+Text + Fragesticker:
 
 ```text
 <Model> Story:
 
-<genaue Platzierung>: <normaler Storytext>
+Text: <normaler Storytext>
 
-fragesticker darunter: <Frage>
+Question-Sticker: <Frage>
 ```
 
-Wenn nur ein Questions-Sticker sinnvoll ist:
+Nur Question-Sticker:
 
 ```text
 <Model> Story:
 
-Question-Sticker <genaue Platzierung>: <vollständige offene Frage>
+Question-Sticker: <vollständige Frage>
 ```
 
-Wenn kein Sticker sinnvoll ist:
+Nur Text:
 
 ```text
 <Model> Story:
 
-<genaue Platzierung>: <vollständiger Storytext>
+Text: <vollständiger Storytext>
 ```
 
 ## Stil

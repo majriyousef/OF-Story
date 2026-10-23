@@ -60,7 +60,7 @@ Erst wenn alle 9 Punkte ohne Befund sind, wird ausgegeben. In der Antwort kurz n
 
 ## 5. Ausgabe
 
-Nur der beste Kandidat im Format aus `CLAUDE.md`, mit genauer Platzierung, knapper Begründung und Chatter-Hinweis. Bei `analysiere nochmal` / „lass dich nicht beeinflussen“: unabhängig prüfen – Text **und** Sticker getrennt – und nur bei belegbarem Gewinn ändern, sonst ausdrücklich „keine Änderung“.
+Nur der beste Kandidat im Format aus `CLAUDE.md` – **ohne Platzierung**, nur `Text:` und/oder `Question-Sticker:` –, mit knapper Begründung und Chatter-Hinweis. Bei `analysiere nochmal` / „lass dich nicht beeinflussen“: unabhängig prüfen – Text **und** Sticker getrennt – und nur bei belegbarem Gewinn ändern, sonst ausdrücklich „keine Änderung“.
 
 ## 6. Nach jeder Rückmeldung
 
