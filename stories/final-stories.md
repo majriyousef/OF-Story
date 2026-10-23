@@ -52,10 +52,10 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 
 - **Bild:** Original-Dateiname fehlt (rote Spitze, schwarze Overknee-Stiefel, rote Samtdecke)
 - **Platzierung:** Question-Sticker oben links auf der hellen Wand über dem Kopf
-- **Question-Sticker:** `forgot to take my boots off... on or off when i get naked? 👢`
+- **Question-Sticker:** `forgot to take my boots off... on or off when u undress me? 👢`
 - **Normaler Text:** keiner
-- **Chatter-Hinweis:** „on“ → Bild nackt in Stiefeln; „off“ → Bild komplett nackt.
-- **Freigabe:** Nutzer („ja so ist gut“)
+- **Chatter-Hinweis:** „on“ → Bild nur noch in Stiefeln; „off“ → Bild komplett nackt.
+- **Freigabe:** Nutzer („schon sehr gut, brauchen wir nicht umändern“); ersetzt `... when i get naked?` (Fan nur Zuschauer) und `... while u fuck me?` (zu explizit)
 
 ## Lina
 
@@ -132,6 +132,14 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - **Question-Sticker:** `rip these stockings off me... or take me with them on? 😏`
 - **Normaler Text:** keiner
 - **Freigabe:** André („Yes“); ersetzt die verworfene Frage `my stockings end right here... so where do your hands start?` (zu hohe Antwort-Hürde, nicht relatable)
+
+### SAR-006 — Blaues Babydoll, Rückansicht im Spiegel
+
+- **Bild:** Original-Dateiname fehlt (royalblaues Babydoll, Standspiegel mit Rückansicht)
+- **Question-Sticker:** `bent over in front of the mirror... wanna see my ass up close? 🍑`
+- **Normaler Text:** keiner
+- **Chatter-Hinweis:** Auf „yes“ Nahaufnahme ihres Pos aus diesem Set.
+- **Freigabe:** Nutzer („passt“)
 
 ## Leni
 

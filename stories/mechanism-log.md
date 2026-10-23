@@ -44,14 +44,14 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Jenny
 | Story | Mechanik | Format |
 |---|---|---|
-| JEN-007 – `forgot to take my boots off... on or off when i get naked?` | CHOICE | Q-Sticker |
+| JEN-007 – `forgot to take my boots off... on or off when u undress me?` | CHOICE | Q-Sticker |
 | JEN-006 – `...i look even better without it` + `want proof?` | PROOF | Text + Sticker |
 | Hände – `do you want to see what my hands are hiding?` | REVEAL | Q-Sticker |
 
 ### Sarah
 | Story | Mechanik | Format |
 |---|---|---|
-| Spiegel blau – `caught u staring at the mirror... wanna see me bent over like that for real?` | CAUGHT + REVEAL | Q-Sticker |
+| SAR-006 Spiegel blau – `bent over in front of the mirror... wanna see my ass up close?` | REVEAL | Q-Sticker |
 | Nylons rot – `in my nylons and nobody here to play with` + `wanna join me?` | JOIN | Text + Sticker |
 | Bett rot – `lazy day in bed...` + `already wet and you're not even here yet... wanna chat with me?` | CHAT | Text + Sticker |
 | SAR-005 – `rip these stockings off me... or take me with them on?` | CHOICE | Q-Sticker |

@@ -71,8 +71,8 @@
       "source_image": "MISSING-jenny-red-lace-black-boots",
       "placement": "question sticker top left on the light wall above her head",
       "format": "question_only",
-      "question": "forgot to take my boots off... on or off when i get naked? 👢",
-      "chatter_note": "'on' -> picture naked in boots; 'off' -> fully naked picture.",
+      "question": "forgot to take my boots off... on or off when u undress me? 👢",
+      "chatter_note": "'on' -> picture in boots only; 'off' -> fully naked picture.",
       "status": "final"
     },
     {
@@ -172,6 +172,16 @@
       "placement": "question sticker top left on the light wooden wardrobe",
       "format": "question_only",
       "question": "rip these stockings off me... or take me with them on? 😏",
+      "status": "final"
+    },
+    {
+      "id": "SAR-006",
+      "model": "Sarah",
+      "source_image": "MISSING-sarah-blue-babydoll-mirror",
+      "placement": "not specified (user preference)",
+      "format": "question_only",
+      "question": "bent over in front of the mirror... wanna see my ass up close? 🍑",
+      "chatter_note": "On 'yes', close-up of her ass from this set.",
       "status": "final"
     },
     {
