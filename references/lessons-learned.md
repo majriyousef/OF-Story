@@ -99,6 +99,13 @@ Gegenmaßnahmen: `stories/mechanism-log.md`, Skill-Schritte 1a, 3, 4a.10–11.
 - Abgelehnt: `car broke down and i'm stuck here like this` + `wanna be my mechanic today?` – sie steht selbst an der offenen Motorhaube in der Werkstatt, sie *ist* die Mechanikerin; den Fan zum Mechaniker zu machen ergibt keinen Sinn.
 - Regel (alle Models): Vor jeder Formulierung festlegen, wer sie im Bild ist (aus Ort + Requisiten) und welche Rolle der Fan logisch dazu hat. Der Fan ist immer der einzige Mann.
 
+## 3h. Intensität: krass ja, aber nicht zu explizit (23.10.2026)
+
+- Abgelehnt (Nutzer: „Fuck me ist, glaube ich, too much“): `forgot to take my boots off... on or off while u fuck me?` – zu explizit. Explizite Sex-Verben (`fuck me`) nur, wenn der Nutzer es ausdrücklich will.
+- Abgelehnt (Nutzer: „eher schlecht“): `caught u staring at the mirror... want me bent over like that for u?`
+- Bestätigt als beste Sarah-Version (Nutzer): `bent over in front of the mirror... wanna see my ass up close? 🍑` – direkt, bildgenau, krass genug.
+- „Krasser machen“ heißt: Fan näher in die Szene holen (Mitmachen), nicht das Vokabular verschärfen.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
@@ -132,4 +139,5 @@ Niemals langweilig, generisch oder bot-artig. Floskeln wie `dirty mind`, `wanna 
 12. Hat der Fan einen klaren Grund zu schreiben? Reiner Text ohne Anlass → Frage ergänzen.
 13. Ist die Pointe ein bekannter Spruch? Dann verwerfen.
 14. Kommt eine andere Person vor (Mechaniker, Nachbar, Ex, „him“)? → streichen, der Fan ist der einzige Mann.
-15. Bei „lass dich nicht beeinflussen“: unabhängig bewerten – auch akzeptierte Teile auf echte Schwächen prüfen, statt nur zu bestätigen.
+15. Ist ein Wort zu explizit (`fuck me`)? Krass über die Szene, nicht über Vokabular.
+16. Bei „lass dich nicht beeinflussen“: unabhängig bewerten – auch akzeptierte Teile auf echte Schwächen prüfen, statt nur zu bestätigen.
