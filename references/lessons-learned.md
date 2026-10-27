@@ -188,6 +188,15 @@ Bestätigte Prinzipien aus dieser Runde:
 - Regel (alle Models): Der CTA muss auf Inhalt zeigen, den das Chat-Team sofort als PPV verkaufen kann (dasselbe Set ohne BH / ohne Set, weitere Bilder der Serie). Der Fan äußert den Wunsch selbst. Fantasie darf die Verpackung sein, aber das Produkt muss klar sein.
 - Prüffrage: „Was genau schickt der Chatter nach ‚yes‘ – und wofür zahlt der Fan?“ Keine klare Antwort → nicht senden.
 
+## 3s. Sarah Couch/Strumpfhose (Reuse) – eigene Schwachstellen übersehen (27.10.2026)
+
+Nutzer: „da sind schwachstellen oder“ zu `kneeling on the couch for u... want to see my ass without these tights? 👠`. Bei ehrlicher Prüfung zu Recht:
+1. **Kleiner Neugier-Abstand:** Die Strumpfhose ist durchsichtig, der Po ist schon fast zu sehen – „ohne Strumpfhose“ ist kaum ein Mehrwert, also schwacher Kaufreiz.
+2. **Mini-Story = reine Bildbeschreibung** (`kneeling on the couch`), keine Spannung.
+3. **Steif:** `want to see` ohne `do u` klingt weniger getippt als `wanna`.
+4. **Zu wenig Sarah:** bittende Frage statt selbstbewusst-offensiv.
+Regeln (alle Models): Bei transparenter Kleidung die Transparenz selbst zum Grund machen (`see-through anyway...`) statt „ohne X“ zu verkaufen. Mini-Story braucht eine Spannung oder Haltung, nicht nur die Pose. Selling-Frage gern als Annahme-Wahl (`u ... or should i?`): Beide Antworten führen zum Produkt.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
@@ -230,3 +239,5 @@ Niemals langweilig, generisch oder bot-artig. Floskeln wie `dirty mind`, `wanna 
 20. Fragt der Sticker, ob ich etwas zeigen *darf* (`can i show u`)? → in Wunsch des Fans umbauen (`wanna see` / `how bad do u wanna`), sonst wirkt es gratis.
 21. Feststehende Begriffe/Kategorie-Wörter (`topless tanning`) oder Alliterationen? → klingt nach Tag/Copy, umformulieren.
 22. Führt die Story ins Selling? Was genau schickt der Chatter nach „yes“, und wofür zahlt der Fan? Keine klare Antwort → nicht senden.
+23. Ist das Kleidungsstück durchsichtig? Dann ist „ohne X“ kaum ein Mehrwert – Transparenz als Grund nutzen.
+24. Ist die Mini-Story nur eine Beschreibung der Pose? Dann fehlt Spannung oder Haltung.
