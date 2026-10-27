@@ -68,7 +68,7 @@ Erst wenn alle drei Antworten ohne Widerspruch sind, geht es weiter.
 7. Pronomen eindeutig (bei mehreren Dingen: Bezugswort ausschreiben)
 8. Persönlich, Fan macht mit statt zuzuschauen; keine dritten Personen
 9. Stimme der Creatorin + Verlauf der Creatorin (Mechanik/Format/Einstieg/Emoji nicht wiederholt)
-10. Chatter-einlösbar, konkret
+10. Führt ins Selling: konkreter PPV-Inhalt aus dem Set, Fan äußert den Wunsch, jetzt in den DMs lieferbar (Fantasie allein reicht nicht)
 
 **Ehrlich bewerten:** Jeder Punkt braucht einen konkreten Grund. Im Zweifel 1 statt 2. Unter 19 → zurück zu Schritt 5.
 

@@ -31,6 +31,8 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Leni
 | Story | Mechanik | Format |
 |---|---|---|
+| Weißes Set Esszimmer – `never done it on this table... wanna be the first?` (verworfen: führt nicht ins Selling) | FANTASIE | Q-Sticker |
+| Garage kniend oben ohne – `on my knees with my hands full` + `ur hands on my boobs instead?` (offen, keine Rückmeldung) | JOIN | Text + Sticker |
 | LEN-006 Garage nackt – `fixing cars is way more fun like this` + `wanna bring yours in?` (freigegeben) | ROLEPLAY/FANTASIE | Text + Sticker |
 | Garage nackt – `car broke down... wanna be my mechanic today?` (verworfen: Rollen-Logik falsch) | ROLEPLAY | Text + Sticker |
 | Garage nackt 2 – `garage is all mine rn... wanna come by?` (verworfen, Nutzer: Müll) | JOIN | Q-Sticker |

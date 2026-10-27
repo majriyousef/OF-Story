@@ -63,6 +63,7 @@ Sobald der Nutzer ein Bild schickt, wird **immer automatisch** `sops/07-auto-che
 - Kein AI-/Bot-Ton: keine Schablonen wie `X on, Y on... time to ...`; lässiger Texting-Stil (`u`, `wanna`) ist erwünscht; indirekte CTAs sind eine starke eigene Form (Jonathan, 22.10.2026).
 - Niemals andere Personen einbeziehen – vor allem keine fremden Männer (Mechaniker, Nachbar, Ex, „him“ usw.). Das wirkt schlampig. Der Fan ist immer der einzige Mann in der Szene (Nutzer, 23.10.2026).
 - Niemals „thinking about u“ / „missing u“ / „can't stop thinking about you“ – eine Story geht an alle, so etwas wirkt unecht (Nutzer, 23.10.2026).
+- Jede Story muss ins Selling führen (Nutzer, 27.10.2026): Der CTA zeigt auf konkreten, verkaufbaren Inhalt aus dem Set (z. B. Bilder ohne BH/ohne Set), der Fan äußert selbst den Wunsch (`want/wanna see`, nicht `can i show u` – sonst wirkt es gratis), lieferbar jetzt in den DMs. Reine Fantasie-/Rollenspiel-Fragen ohne Produkt dahinter (`never done it on this table... wanna be the first?`) reichen nicht.
 - DM-CTAs müssen für das Chat-Team ohne Zusatzanweisung einlösbar sein. Keine unbestimmten Versprechen wie ein „secret“; lieber ein konkreter, bildbezogener Anreiz wie `whoever messages me first gets this angle without the top` (nicht vage wie `a little something`) und einen Chatter-Hinweis im Archiv festhalten.
 
 ## Stimmen der Creatorinnen

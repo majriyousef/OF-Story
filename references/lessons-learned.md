@@ -182,6 +182,12 @@ Bestätigte Prinzipien aus dieser Runde:
 - Für nackte Brüste klar sorgen, aber über eine Szene/ein Detail verpackt, nicht über Fachbegriffe.
 - **Regel (alle Models):** Wird eine Logik-Kette zweimal abgelehnt, nicht weiter am Wortlaut feilen, sondern Hook **und** Mechanik komplett wechseln (Fehler 3e.2).
 
+## 3r. Jede Story muss ins Selling führen (27.10.2026)
+
+- Abgelehnt (Nutzer: „komplett neuer Ansatz führt nicht ins selling“): Leni weißes Set, `never done it on this table... wanna be the first? 🤍` – Fantasie ohne Produkt; der Chatter hat nach „yes“ nichts Konkretes zu verkaufen.
+- Regel (alle Models): Der CTA muss auf Inhalt zeigen, den das Chat-Team sofort als PPV verkaufen kann (dasselbe Set ohne BH / ohne Set, weitere Bilder der Serie). Der Fan äußert den Wunsch selbst. Fantasie darf die Verpackung sein, aber das Produkt muss klar sein.
+- Prüffrage: „Was genau schickt der Chatter nach ‚yes‘ – und wofür zahlt der Fan?“ Keine klare Antwort → nicht senden.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
@@ -223,3 +229,4 @@ Niemals langweilig, generisch oder bot-artig. Floskeln wie `dirty mind`, `wanna 
 19. Bei „lass dich nicht beeinflussen“: unabhängig bewerten – auch akzeptierte Teile auf echte Schwächen prüfen, statt nur zu bestätigen.
 20. Fragt der Sticker, ob ich etwas zeigen *darf* (`can i show u`)? → in Wunsch des Fans umbauen (`wanna see` / `how bad do u wanna`), sonst wirkt es gratis.
 21. Feststehende Begriffe/Kategorie-Wörter (`topless tanning`) oder Alliterationen? → klingt nach Tag/Copy, umformulieren.
+22. Führt die Story ins Selling? Was genau schickt der Chatter nach „yes“, und wofür zahlt der Fan? Keine klare Antwort → nicht senden.
