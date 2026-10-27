@@ -195,6 +195,7 @@ Nutzer: „da sind schwachstellen oder“ zu `kneeling on the couch for u... wan
 2. **Mini-Story = reine Bildbeschreibung** (`kneeling on the couch`), keine Spannung.
 3. **Steif:** `want to see` ohne `do u` klingt weniger getippt als `wanna`.
 4. **Zu wenig Sarah:** bittende Frage statt selbstbewusst-offensiv.
+Auch abgelehnt (Nutzer: „komplett neuer ansatz“): `these tights are see-through anyway... u pulling them down or should i? 👠` – nach zwei Ablehnungen derselben Logik (Strumpfhose runter) Ansatz komplett wechseln (Regel 3q).
 Regeln (alle Models): Bei transparenter Kleidung die Transparenz selbst zum Grund machen (`see-through anyway...`) statt „ohne X“ zu verkaufen. Mini-Story braucht eine Spannung oder Haltung, nicht nur die Pose. Selling-Frage gern als Annahme-Wahl (`u ... or should i?`): Beide Antworten führen zum Produkt.
 
 ## 4. Variation vor dem Entwurf prüfen, nicht danach

@@ -56,6 +56,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 | Story | Mechanik | Format |
 |---|---|---|
 | Couch/Strumpfhose (Reuse) – `kneeling on the couch for u... want to see my ass without these tights?` (verworfen: Schwachstellen, s. Lessons 3s) | REVEAL | Q-Sticker |
+| Couch/Strumpfhose (Reuse) – `these tights are see-through anyway... u pulling them down or should i?` (verworfen: komplett neuer Ansatz verlangt) | CHOICE | Q-Sticker |
 | SAR-006 Spiegel blau – `sweet from the front... my ass says otherwise` + `what would u do if u were behind me?` | JOIN/FANTASIE | Text + Sticker |
 | Nylons rot – `in my nylons and nobody here to play with` + `wanna join me?` | JOIN | Text + Sticker |
 | Bett rot – `lazy day in bed...` + `already wet and you're not even here yet... wanna chat with me?` | CHAT | Text + Sticker |
