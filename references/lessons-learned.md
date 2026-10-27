@@ -169,6 +169,19 @@ Abgelehnt: `looked back to see if u're still staring at my ass... are u?` (erkl�
 Bestätigt (Nutzer: „Gut“): `hand on the wall like a good girl 🙈` + `how many spanks do i get? 😇` – Pose hat eine Bedeutung (Klaps-Haltung), Antwort ist eine Zahl, jede Antwort heiß.
 Lehre: Erst die **Kernaussage der Pose** verstehen, dann Details; jede Handlung muss physisch Sinn ergeben (Skill 2b, 7b, 7c).
 
+## 3q. Lina Sonnenliege – Logik-Kette tot geritten (27.10.2026)
+
+Abgelehnt in Folge (alle Sonne/Bräune → nackt):
+- `got some tan lines today` + `wanna see them in ur dms?` – Nutzer: er sieht nur Tan Lines, nicht die nackten Brüste.
+- `can i show u how pale my boobs stayed?` – „can i show u“ wirkt wie gratis (Nutzer: „sonst denkt er, das ist umsonst“); „pale“ ist nicht geil.
+- `my boobs need some sun too` + `wanna see me tanning topless?` – Nutzer: „ist das nicht AI?“ → ja: „topless tanning“ ist ein Kategorie-Begriff, Alliteration, `see me + Tätigkeit` = Zuschauen.
+- `... wanna see them out in the sun?` – Nutzer: „maximal scheiße, komplett neuer Ansatz“.
+
+Bestätigte Prinzipien aus dieser Runde:
+- Verkaufs-Psychologie: Der Fan muss seinen **Wunsch** äußern (`wanna see` / `how bad do u wanna`), nicht ein Angebot annehmen (`can i show u`) – sonst erwartet er es gratis.
+- Für nackte Brüste klar sorgen, aber über eine Szene/ein Detail verpackt, nicht über Fachbegriffe.
+- **Regel (alle Models):** Wird eine Logik-Kette zweimal abgelehnt, nicht weiter am Wortlaut feilen, sondern Hook **und** Mechanik komplett wechseln (Fehler 3e.2).
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
@@ -207,4 +220,6 @@ Niemals langweilig, generisch oder bot-artig. Floskeln wie `dirty mind`, `wanna 
 17. Steht „thinking about u / missing u“ drin? → raus, Storys gehen an alle.
 18a. Überinterpretiere ich eine Regel? Gegenprobe: Würde der Urheber genau das kritisieren?
 18. Beginnt der Sticker mit einer kleinen menschlichen Situation (was sie gerade tut)? Sonst wirkt er botartig.
+20. Fragt der Sticker, ob ich etwas zeigen *darf* (`can i show u`)? → in Wunsch des Fans umbauen (`wanna see` / `how bad do u wanna`), sonst wirkt es gratis.
+21. Feststehende Begriffe/Kategorie-Wörter (`topless tanning`) oder Alliterationen? → klingt nach Tag/Copy, umformulieren.
 19. Bei „lass dich nicht beeinflussen“: unabhängig bewerten – auch akzeptierte Teile auf echte Schwächen prüfen, statt nur zu bestätigen.

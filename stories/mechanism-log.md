@@ -61,6 +61,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Lina
 | Story | Mechanik | Format |
 |---|---|---|
+| Sonnenliege Schmetterlings-Badeanzug – Tan-Lines/pale/topless-tanning/„out in the sun“ (alle verworfen, Nutzer: neuer Ansatz) | REVEAL | Text + Sticker |
 | LIN-006 Dusche – `still wet from the shower` + `take me to bed naked... or back into the shower?` | CHOICE/FANTASIE | Text + Sticker |
 | Bademantel nach Dusche – `just got out of the shower` + `too late to join me?` (verworfen: Sackgasse) | JOIN | Text + Sticker |
 | Bikini Leo/Blumen – `in such a good mood today... wanna see this bikini come off?` | REVEAL | Q-Sticker |
