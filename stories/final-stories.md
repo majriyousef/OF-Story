@@ -58,6 +58,14 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - **Freigabe:** Nutzer („ja so ist gut“; später „brauchen wir nicht umändern“ = diese Version bleibt). Nicht verwendet: `... when u undress me?` (von mir fälschlich übernommen), `... while u fuck me?` (zu explizit)
 - **Team-Feedback:** gut, so beibehalten (23.10.2026)
 
+### JEN-008 — Hand an der Wand, hellblaue Spitze
+
+- **Bild:** Original-Dateiname fehlt (hellblaues Spitzenoberteil, Hand an der Wand, Blick über die Schulter, großes Hüft-Tattoo)
+- **Text:** `hand on the wall like a good girl 🙈`
+- **Question-Sticker:** `how many spanks do i get? 😇`
+- **Chatter-Hinweis:** Auf jede Zahl: „that many? 😳 you'd have to come do it urself“ + Bilder aus dem Set von hinten.
+- **Freigabe:** Nutzer („Gut“)
+
 ## Lina
 
 ### LIN-001 — Brüste auf dem Tisch, Kaffee

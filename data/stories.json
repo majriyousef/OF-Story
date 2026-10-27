@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated": "2026-10-23",
+  "updated": "2026-10-27",
   "language": "en",
   "notes": "Final/current versions reconstructed from the project conversation. Rejected drafts are intentionally excluded.",
   "stories": [
@@ -73,6 +73,17 @@
       "format": "question_only",
       "question": "half undressed already... boots on or off when i get naked? 👢",
       "chatter_note": "'on' -> picture naked in boots; 'off' -> fully naked picture.",
+      "status": "final"
+    },
+    {
+      "id": "JEN-008",
+      "model": "Jenny",
+      "source_image": "MISSING-jenny-hand-on-wall-blue-lace",
+      "placement": "not specified (user preference)",
+      "format": "text_and_question",
+      "text": "hand on the wall like a good girl 🙈",
+      "question": "how many spanks do i get? 😇",
+      "chatter_note": "On any number: 'that many? 😳 you'd have to come do it urself' + set pictures from behind.",
       "status": "final"
     },
     {

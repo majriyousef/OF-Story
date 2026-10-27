@@ -44,6 +44,8 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Jenny
 | Story | Mechanik | Format |
 |---|---|---|
+| JEN-008 Wand – `hand on the wall like a good girl` + `how many spanks do i get?` | GAME | Text + Sticker |
+| Wand – Tattoo-Varianten / `come up behind me?` / `caught staring` (verworfen) | – | – |
 | JEN-007 – `half undressed already... boots on or off when i get naked?` | CHOICE | Q-Sticker |
 | JEN-006 – `...i look even better without it` + `want proof?` | PROOF | Text + Sticker |
 | Hände – `do you want to see what my hands are hiding?` | REVEAL | Q-Sticker |

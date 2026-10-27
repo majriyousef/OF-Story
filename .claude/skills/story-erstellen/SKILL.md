@@ -29,6 +29,13 @@ Danach intern eine **Detail-Liste** schreiben und jedes Detail markieren:
 - Funktionsweise von Kleidung notieren (Frontverschluss → „open/unclip“, Reißverschluss → „unzip“, Schnürung → „untie“), damit Verben stimmen.
 - Was macht sie **nicht**? (z. B. Laptop offen, aber sie schaut in die Kamera → arbeitet offensichtlich nicht.) Solche Widersprüche sind oft die beste Mini-Situation.
 
+## 2b. Worum geht es im Bild? (Kernaussage vor Details)
+
+Bevor Details als Hook gewählt werden, intern **einen Satz** schreiben: „Dieses Bild zeigt eine Frau, die gerade … / in der Haltung … – die naheliegende Fantasie ist …“
+- Die **Pose hat eine Bedeutung** (Hand an der Wand + Po raus + Blick zurück = Klaps-/Wartehaltung; Beine angezogen = geschlossen, „noch“; vornübergebeugt vor Spiegel = Rückansicht).
+- Details (Tattoo, Schmuck, Muster) sind nur dann Hook, wenn sie **logisch** zu einer Handlung des Fans passen. Beispiel-Fehler: Tattoo auf dem Po → „kiss ur way down it“ / „kiss every inch of it“ ergibt keinen Sinn.
+- Die Story setzt die Kernaussage um – nicht das auffälligste Nebendetail.
+
 ## 3. Szenen-Logik festlegen (vor jeder Formulierung)
 
 Drei Fragen schriftlich (intern) beantworten:
@@ -96,6 +103,26 @@ Findet eine Persona **irgendeinen** Kritikpunkt → beheben und Schritt 6–8 wi
 ## 7a. Gegenprobe gegen Überinterpretation
 
 Jede gefundene „Schwachstelle“ prüfen: Würde André/Jonathan/der Nutzer **genau das** kritisieren, oder dehne ich eine Regel über ihren Zweck aus? Häufige, natürliche Fragen sind kein Bot-Ton; offene Fragen sind nicht automatisch verboten (Lessons 3o). Vorschläge des Nutzers fair prüfen, nicht reflexartig umbauen. Freigegebene Versionen nie überschreiben.
+
+## 7b. Einwand-Tabelle (Pflicht, alles grün)
+
+Für den Sieger intern eine Tabelle mit **jeder Stelle** (jedes Wortstück, Text und Sticker getrennt) anlegen: *Stelle · möglicher Einwand · Prüfung · Ergebnis*. Mindestens prüfen:
+
+- Ergibt jede Handlung **physisch/logisch Sinn** mit Körperstelle und Ort? (kein „down“ ohne Richtung, kein „Arsch küssen“, kein „open … open“-Parallelismus)
+- Ist jedes Wort gesprochen, kein poetisches/Copywriter-Wort („trace“)?
+- Sagt der Text, was sie **tut**, statt nur zu beschreiben?
+- Gibt es versteckte Fragen wie „wohin?“, „wofür?“, „warum?“
+- Widerspricht etwas sich selbst (good/bad girl, „still“ bei Feierabend, „again“ obwohl noch nass)?
+- Wiederholt es einen abgelehnten Ansatz aus `lessons-learned.md` (z. B. `behind me` als basic, `caught staring` als Zuschauen)?
+
+**Jede Zeile muss ✅ sein.** Ein einziges ⚠️ oder ❌ → nicht senden, neu bauen, Tabelle neu.
+
+## 7c. Selbst-Durchlauf „analysiere nochmal“ (Pflicht)
+
+Vor dem Senden mindestens **zwei komplette Runden** so durchführen, als hätte der Nutzer „analysiere nochmal nach Schwachstellen“ geschrieben – unabhängig, Text und Sticker getrennt, mit Gegenprobe (7a).
+- Führt eine Runde zu **irgendeiner** Änderung → danach erneut zwei Runden.
+- Gesendet wird erst, wenn eine vollständige Runde **ohne jede Änderung** endet.
+- In der Antwort die Einwand-Tabelle (kurz) mitliefern, damit sichtbar ist, dass alles grün ist.
 
 ## 8a. Sende-Sperre (absolut)
 

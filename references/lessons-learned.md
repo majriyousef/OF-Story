@@ -47,6 +47,7 @@ Vor jedem Entwurf zuerst die vom Nutzer akzeptierten Muster anwenden, nicht neu 
 - `can't keep my hands to myself tonight... wanna chat? 💦` – indirekt-nasty plus simple Chat-Einladung
 - `trying on my new red set... keep it on or take it off? ❤️` – echte Mini-Situation plus Ein-Wort-Entscheidung
 - `... on or off when i get naked? 👢` – Entweder-oder, bei dem **jede** Antwort heiß ist (Nutzer bestätigt); Einstieg `forgot to take my boots off` später als botartig verworfen
+- `hand on the wall like a good girl 🙈` + `how many spanks do i get? 😇` – Pose-Bedeutung + Zahl als Antwort (Nutzer: „Gut“)
 - `sweet from the front... my ass says otherwise` + `what would u do if u were behind me? 🍑` – Kontrast vorne/hinten, Trigger im Text, Frage mit klarer Position (Nutzer bestätigt)
 - `still wet from the shower 🫧` + `take me to bed naked... or back into the shower? 😏` – Fantasie, beide Optionen mit ihm, Trigger im Satz (Nutzer: „ganz cool“)
 - `half undressed already... boots on or off when i get naked? 👢` – Zustand statt „forgot“-Ausrede
@@ -161,6 +162,12 @@ Weitere Analysefehler dieser Runde:
 - Nutzerwunsch falsch umgesetzt („Story im Sticker“ → als Extra-Text gebaut).
 - Sticker-Emoji geändert, obwohl der Nutzer „Sticker bleibt so“ sagte.
 - Schwachstellen erst nach Nachfrage gefunden statt vor dem Senden.
+
+## 3p. Jenny Wand-Pose – Fehlversuche und Lehre (27.10.2026)
+
+Abgelehnt: `looked back to see if u're still staring at my ass... are u?` (erklärend, Zuschauen, schwacher Trigger), `hand on the wall already` + `come up behind me?` (Wiederholung des als basic abgelehnten „behind me“), `this tattoo goes all the way down` + `wanna trace it with ur lips?` / `showing off my favorite tattoo` + `wanna kiss ur way down it?` / `wanna kiss every inch of it?` (Tattoo sitzt am Po – „down“ und „Arsch küssen“ ergeben keinen Sinn).
+Bestätigt (Nutzer: „Gut“): `hand on the wall like a good girl 🙈` + `how many spanks do i get? 😇` – Pose hat eine Bedeutung (Klaps-Haltung), Antwort ist eine Zahl, jede Antwort heiß.
+Lehre: Erst die **Kernaussage der Pose** verstehen, dann Details; jede Handlung muss physisch Sinn ergeben (Skill 2b, 7b, 7c).
 
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
