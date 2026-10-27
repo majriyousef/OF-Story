@@ -220,6 +220,6 @@ Niemals langweilig, generisch oder bot-artig. Floskeln wie `dirty mind`, `wanna 
 17. Steht „thinking about u / missing u“ drin? → raus, Storys gehen an alle.
 18a. Überinterpretiere ich eine Regel? Gegenprobe: Würde der Urheber genau das kritisieren?
 18. Beginnt der Sticker mit einer kleinen menschlichen Situation (was sie gerade tut)? Sonst wirkt er botartig.
+19. Bei „lass dich nicht beeinflussen“: unabhängig bewerten – auch akzeptierte Teile auf echte Schwächen prüfen, statt nur zu bestätigen.
 20. Fragt der Sticker, ob ich etwas zeigen *darf* (`can i show u`)? → in Wunsch des Fans umbauen (`wanna see` / `how bad do u wanna`), sonst wirkt es gratis.
 21. Feststehende Begriffe/Kategorie-Wörter (`topless tanning`) oder Alliterationen? → klingt nach Tag/Copy, umformulieren.
-19. Bei „lass dich nicht beeinflussen“: unabhängig bewerten – auch akzeptierte Teile auf echte Schwächen prüfen, statt nur zu bestätigen.
