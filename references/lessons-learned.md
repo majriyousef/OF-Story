@@ -215,6 +215,8 @@ Regeln (alle Models): Bei transparenter Kleidung die Transparenz selbst zum Grun
 - Abgelehnt (Nutzer: „langweilig sehr langweilig“): `picked the panties with the open back on purpose... need a closer look? 🤭` – Kleidungsdetail plus „näher ansehen“ hat keinen Trigger und keine Szene; der Fan kommt nicht vor.
 - Regel (alle Models): Selling ersetzt die Fantasie nicht. Erst eine Szene, in der der Fan vorkommt (Pose-Bedeutung, sein Blickwinkel, seine Rolle), dann das Produkt als nächster Schritt dieser Szene. Ein Kleidungsdetail allein trägt keine Story.
 
+- Nachtrag 3v (Nutzer: „das davor war besser oder?“): Bei „analysiere nochmal … lass dich nicht beeinflussen“ habe ich die Schoß-Version (`this is ur view when i sit on ur lap` + `should the panties come off first?`) durch `sitting here all cute in my open-back panties` + `should i bend over for u?` ersetzt – genau in Richtung des Hinweises („süß aber sexy“) und mit dem Kleidungsdetail, das kurz zuvor als langweilig abgelehnt wurde. Kleine Schwächen (Kameraabstand, Nähe zu einer alten Story) habe ich über die Hauptstärke gestellt (Fan mitten in der Szene). Regel: Vor jedem Ersetzen die Hauptstärke der alten Version benennen und prüfen, ob die neue sie behält. Kleine Schwächen rechtfertigen keinen Neubau.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
