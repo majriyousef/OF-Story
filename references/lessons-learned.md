@@ -225,7 +225,9 @@ Regeln (alle Models): Bei transparenter Kleidung die Transparenz selbst zum Grun
 
 - Nutzer zu `my robe's already up over my ass... want the whole thing off? 🩷`: „noch weiblich menschlicher formulieren wie eine Frau, ist noch etwas ai like“.
 - Ursache: sauber gebauter Beschreibungssatz (Besitz + Zustand + Körperteil) und steifes `the whole thing off`.
-- Regel (alle Models): So tippen, wie eine Frau es einer Freundin oder einem Flirt schreibt – kleine Füllwörter (`ok`, `lol`, `just`), eine Bemerkung über das Kleidungsstück statt einer Zustandsbeschreibung (`this robe is covering nothing back here`), und `want me to just take it off?` statt Konstruktionen wie `want the whole thing off?`.
+- Regel (alle Models): So tippen, wie eine Frau es einer Freundin oder einem Flirt schreibt – eine Bemerkung über das Kleidungsstück statt einer Zustandsbeschreibung (`this robe isn't covering much back here`), und `want me to just take it off?` statt Konstruktionen wie `want the whole thing off?`.
+
+- Nachtrag 3w: `ok` als Einstieg abgelehnt (Nutzer: „das mit ok ist sehr schlecht“). Keine aufgesetzten Füllwörter (`ok`, `lol`) am Satzanfang – menschlich wird der Satz durch die Formulierung, nicht durch Füllsel.
 
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
