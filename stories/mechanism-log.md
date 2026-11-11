@@ -47,6 +47,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Jenny
 | Story | Mechanik | Format |
 |---|---|---|
+| Pinkes Set von hinten – `picked the panties with the open back on purpose... need a closer look?` (verworfen: sehr langweilig) | REVEAL | Q-Sticker |
 | JEN-008 Wand – `hand on the wall like a good girl` + `how many spanks do i get?` | GAME | Text + Sticker |
 | Wand – Tattoo-Varianten / `come up behind me?` / `caught staring` (verworfen) | – | – |
 | JEN-007 – `half undressed already... boots on or off when i get naked?` | CHOICE | Q-Sticker |

@@ -210,6 +210,11 @@ Regeln (alle Models): Bei transparenter Kleidung die Transparenz selbst zum Grun
 - Eigener Fehler: Einwand-Tabelle als grün gemeldet, ohne den Ausschnitt wirklich anzusehen und ohne die Rechnung nachzuvollziehen.
 - Regel (alle Models): Bei jeder Story fragen „Was sieht er schon – und was genau fehlt ihm?“ Das Produkt ist immer das, was fehlt. Zahlen, Anteile und Vergleiche einmal wörtlich durchrechnen. Einen Zoom-Befund nur behaupten, wenn der Ausschnitt tatsächlich geöffnet wurde.
 
+## 3v. Jenny pinkes Set von hinten – Detail statt Fantasie ist langweilig (11.11.2026)
+
+- Abgelehnt (Nutzer: „langweilig sehr langweilig“): `picked the panties with the open back on purpose... need a closer look? 🤭` – Kleidungsdetail plus „näher ansehen“ hat keinen Trigger und keine Szene; der Fan kommt nicht vor.
+- Regel (alle Models): Selling ersetzt die Fantasie nicht. Erst eine Szene, in der der Fan vorkommt (Pose-Bedeutung, sein Blickwinkel, seine Rolle), dann das Produkt als nächster Schritt dieser Szene. Ein Kleidungsdetail allein trägt keine Story.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
@@ -255,3 +260,4 @@ Niemals langweilig, generisch oder bot-artig. Floskeln wie `dirty mind`, `wanna 
 23. Ist das Kleidungsstück durchsichtig? Dann ist „ohne X“ kaum ein Mehrwert – Transparenz als Grund nutzen.
 24. Ist die Mini-Story nur eine Beschreibung der Pose? Dann fehlt Spannung oder Haltung.
 25. Was sieht der Fan schon, was fehlt ihm? Das Produkt ist das Fehlende. Zahlen/Anteile wörtlich nachrechnen.
+26. Kommt der Fan in der Szene vor, bevor verkauft wird? Detail + „closer look“ ohne Fantasie ist langweilig.
