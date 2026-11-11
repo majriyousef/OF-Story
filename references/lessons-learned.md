@@ -221,6 +221,12 @@ Regeln (alle Models): Bei transparenter Kleidung die Transparenz selbst zum Grun
 
 - Nachtrag 3v (Nutzer: „finde ich nicht so gut irgendwie langweilig da war das davor besser“): Die „korrekte“ Ersatz-Version (`this is ur view right before u pull my panties down` + `want the view right after?`) war langweiliger als die Schoß-Version. Lehre: Auf „passt das wirklich?“ zuerst ehrlich benennen, was ungenau ist, und den Nutzer entscheiden lassen – nicht sofort neu bauen. `ur view` ist Fantasie-Sprache, kein Kamera-Protokoll; ein sichtbarer Schlitz darf „open in the back“ heißen. Genauigkeit zählt bei falschen Fakten (falsches Kleidungsstück, falsche Bewegung), nicht bei jeder Annäherung. Prüffragen 27/28 nur anwenden, wenn die Abweichung einem Fan sofort auffallen würde.
 
+## 3w. Sarah Kimono – klingt wie Bildunterschrift statt wie eine Frau (11.11.2026)
+
+- Nutzer zu `my robe's already up over my ass... want the whole thing off? 🩷`: „noch weiblich menschlicher formulieren wie eine Frau, ist noch etwas ai like“.
+- Ursache: sauber gebauter Beschreibungssatz (Besitz + Zustand + Körperteil) und steifes `the whole thing off`.
+- Regel (alle Models): So tippen, wie eine Frau es einer Freundin oder einem Flirt schreibt – kleine Füllwörter (`ok`, `lol`, `just`), eine Bemerkung über das Kleidungsstück statt einer Zustandsbeschreibung (`this robe is covering nothing back here`), und `want me to just take it off?` statt Konstruktionen wie `want the whole thing off?`.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).

@@ -60,6 +60,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Sarah
 | Story | Mechanik | Format |
 |---|---|---|
+| Kimono Bett – `my robe's already up over my ass... want the whole thing off?` → Nutzer: zu AI-like; neu `ok this robe is covering nothing back here... want me to just take it off?` | REVEAL | Q-Sticker |
 | Couch/Strumpfhose (Reuse) – `kneeling on the couch for u... want to see my ass without these tights?` (verworfen: Schwachstellen, s. Lessons 3s) | REVEAL | Q-Sticker |
 | Couch/Strumpfhose (Reuse) – `these tights are see-through anyway... u pulling them down or should i?` (verworfen: komplett neuer Ansatz verlangt) | CHOICE | Q-Sticker |
 | Couch/Strumpfhose (Reuse) – `you're way too far from my ass rn... want it up close?` (verworfen: komplett neuer Ansatz verlangt) | REVEAL | Q-Sticker |
