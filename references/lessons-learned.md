@@ -199,6 +199,11 @@ Auch abgelehnt (Nutzer: „komplett neuer ansatz“): `these tights are see-thro
 Ebenfalls abgelehnt: `you're way too far from my ass rn... want it up close? 👠` – dritter Po-zentrierter „want/see“-Sticker in Folge. Lehre: Nach mehrfacher Ablehnung nicht nur das Produkt tauschen, sondern auch den Einstieg (Hook-Familie) wechseln.
 Regeln (alle Models): Bei transparenter Kleidung die Transparenz selbst zum Grund machen (`see-through anyway...`) statt „ohne X“ zu verkaufen. Mini-Story braucht eine Spannung oder Haltung, nicht nur die Pose. Selling-Frage gern als Annahme-Wahl (`u ... or should i?`): Beide Antworten führen zum Produkt.
 
+## 3t. Tape-Storys und Freundin (11.11.2026)
+
+- Nutzer zu Leni Werkbank (`filmed myself with my toy right here at the workbench... want the tape?`): „kannst noch sowas erwähnen wie eine Freundin hat es mir besorgt, wäre nochmal krasser“.
+- Regel: Bei Tape-/Video-Storys das Produkt beim Namen nennen (`want the tape?`) und den stärksten echten Inhalt des Tapes als Mini-Story nutzen. Eine Freundin aus dem Tape ist erlaubt, aber eindeutig weiblich (`my bestie`), nicht `a friend` (könnte ein Mann sein) und nicht `my girlfriend` (klingt nach Partnerin).
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
