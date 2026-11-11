@@ -204,6 +204,12 @@ Regeln (alle Models): Bei transparenter Kleidung die Transparenz selbst zum Grun
 - Nutzer zu Leni Werkbank (`filmed myself with my toy right here at the workbench... want the tape?`): „kannst noch sowas erwähnen wie eine Freundin hat es mir besorgt, wäre nochmal krasser“.
 - Regel: Bei Tape-/Video-Storys das Produkt beim Namen nennen (`want the tape?`) und den stärksten echten Inhalt des Tapes als Mini-Story nutzen. Eine Freundin aus dem Tape ist erlaubt, aber eindeutig weiblich (`my bestie`), nicht `a friend` (könnte ein Mann sein) und nicht `my girlfriend` (klingt nach Partnerin).
 
+## 3u. Lina Lack-BH – Rechenlogik verdreht (11.11.2026)
+
+- Abgelehnt (Nutzer: „ergibt das sinn von der logik?“): `this bra covers like 10% of my boobs... want the other 90%? 🖤` – wenn der BH 10 % verdeckt, sind die 90 % schon im Bild zu sehen. Verkauft wird der verdeckte Teil, nicht der sichtbare.
+- Eigener Fehler: Einwand-Tabelle als grün gemeldet, ohne den Ausschnitt wirklich anzusehen und ohne die Rechnung nachzuvollziehen.
+- Regel (alle Models): Bei jeder Story fragen „Was sieht er schon – und was genau fehlt ihm?“ Das Produkt ist immer das, was fehlt. Zahlen, Anteile und Vergleiche einmal wörtlich durchrechnen. Einen Zoom-Befund nur behaupten, wenn der Ausschnitt tatsächlich geöffnet wurde.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
@@ -248,3 +254,4 @@ Niemals langweilig, generisch oder bot-artig. Floskeln wie `dirty mind`, `wanna 
 22. Führt die Story ins Selling? Was genau schickt der Chatter nach „yes“, und wofür zahlt der Fan? Keine klare Antwort → nicht senden.
 23. Ist das Kleidungsstück durchsichtig? Dann ist „ohne X“ kaum ein Mehrwert – Transparenz als Grund nutzen.
 24. Ist die Mini-Story nur eine Beschreibung der Pose? Dann fehlt Spannung oder Haltung.
+25. Was sieht der Fan schon, was fehlt ihm? Das Produkt ist das Fehlende. Zahlen/Anteile wörtlich nachrechnen.
