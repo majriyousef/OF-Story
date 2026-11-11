@@ -217,6 +217,8 @@ Regeln (alle Models): Bei transparenter Kleidung die Transparenz selbst zum Grun
 
 - Nachtrag 3v (Nutzer: „das davor war besser oder?“): Bei „analysiere nochmal … lass dich nicht beeinflussen“ habe ich die Schoß-Version (`this is ur view when i sit on ur lap` + `should the panties come off first?`) durch `sitting here all cute in my open-back panties` + `should i bend over for u?` ersetzt – genau in Richtung des Hinweises („süß aber sexy“) und mit dem Kleidungsdetail, das kurz zuvor als langweilig abgelehnt wurde. Kleine Schwächen (Kameraabstand, Nähe zu einer alten Story) habe ich über die Hauptstärke gestellt (Fan mitten in der Szene). Regel: Vor jedem Ersetzen die Hauptstärke der alten Version benennen und prüfen, ob die neue sie behält. Kleine Schwächen rechtfertigen keinen Neubau.
 
+- Nachtrag 3v (Nutzer: „analysieren ob die view kleidung wirklich passt“): Beides passte nicht. (1) `this is ur view when i sit on ur lap` – die Kamera steht mit Abstand hinter und über ihr, man sieht ihre Füße unter dem Po; das ist der Blick von jemandem, der hinter ihr steht, nicht von jemandem, auf dessen Schoß sie sitzt. (2) `these panties are open in the back... should they come off anyway?` – bei starker Vergrößerung ist die Öffnung nur ein schmaler Zier-Schlitz, der sich weit über dem Schritt wieder schließt; „müssten nicht runter“ stimmt also nicht. Regeln: Einen „ur view“-Satz nur schreiben, wenn Abstand, Höhe und sichtbare Körperteile zur behaupteten Position passen. Eine Pointe auf die Funktion eines Kleidungsstücks nur bauen, wenn die Funktion bei maximalem Zoom eindeutig ist (Zier-Ausschnitt ≠ offen).
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
@@ -263,3 +265,5 @@ Niemals langweilig, generisch oder bot-artig. Floskeln wie `dirty mind`, `wanna 
 24. Ist die Mini-Story nur eine Beschreibung der Pose? Dann fehlt Spannung oder Haltung.
 25. Was sieht der Fan schon, was fehlt ihm? Das Produkt ist das Fehlende. Zahlen/Anteile wörtlich nachrechnen.
 26. Kommt der Fan in der Szene vor, bevor verkauft wird? Detail + „closer look“ ohne Fantasie ist langweilig.
+27. Bei „ur view“: Passen Abstand, Höhe und sichtbare Körperteile wirklich zur behaupteten Position?
+28. Baut die Pointe auf der Funktion eines Kleidungsstücks? Dann bei maximalem Zoom prüfen (Zier-Ausschnitt ist nicht „offen“).
