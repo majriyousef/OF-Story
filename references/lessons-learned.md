@@ -229,6 +229,8 @@ Regeln (alle Models): Bei transparenter Kleidung die Transparenz selbst zum Grun
 
 - Nachtrag 3w: `ok` als Einstieg abgelehnt (Nutzer: „das mit ok ist sehr schlecht“). Keine aufgesetzten Füllwörter (`ok`, `lol`) am Satzanfang – menschlich wird der Satz durch die Formulierung, nicht durch Füllsel.
 
+- Bestätigt (Nutzer: „gut“, SAR-007): `this robe isn't covering much of my ass... should i just slip out of it for u? 🩷` – Vorlage für den weiblich-menschlichen Ton (Skill 7d).
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
@@ -277,3 +279,4 @@ Niemals langweilig, generisch oder bot-artig. Floskeln wie `dirty mind`, `wanna 
 26. Kommt der Fan in der Szene vor, bevor verkauft wird? Detail + „closer look“ ohne Fantasie ist langweilig.
 27. Bei „ur view“: Passen Abstand, Höhe und sichtbare Körperteile wirklich zur behaupteten Position?
 28. Baut die Pointe auf der Funktion eines Kleidungsstücks? Dann bei maximalem Zoom prüfen (Zier-Ausschnitt ist nicht „offen“).
+29. Weiblich-menschlich? Bemerkung statt Beschreibung, weibliches Verb, kein Füllwort am Anfang (Skill 7d).

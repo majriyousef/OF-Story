@@ -159,6 +159,14 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - **Freigabe:** Nutzer (finale Fassung nach Überarbeitung; ersetzt `bent over in front of the mirror... wanna see my ass up close?`)
 - **Team-Feedback:** gut, so beibehalten (23.10.2026)
 
+### SAR-007 — Satin-Kimono auf dem Bett, Rückansicht
+
+- **Bild:** Original-Dateiname fehlt (roséfarbener Satin-Kimono, weiße Spitzenstrümpfe, dunkle Haare)
+- **Question-Sticker:** `this robe isn't covering much of my ass... should i just slip out of it for u? 🩷`
+- **Normaler Text:** keiner
+- **Chatter-Hinweis:** Auf „yes“ die Bilder aus diesem Set ohne Kimono als PPV senden.
+- **Freigabe:** Nutzer („gut“, 11.11.2026); Vorlage für weiblich-menschlichen Ton
+
 ## Leni
 
 ### LEN-001 — Werkbank

@@ -94,7 +94,7 @@ Den Sieger aktiv angreifen:
 Für jede Persona **einen Satz Kritik** formulieren, als würde sie die Story zum ersten Mal sehen:
 
 - **André:** Antworten Leute sofort? Triggert es? Relatable? Denkfrage?
-- **Jonathan:** Klingt es nach AI/Bot? Schablone? Mitmachen statt Zuschauen? Indirekt, wo es passt?
+- **Jonathan:** Klingt es nach AI/Bot oder wie eine Bildunterschrift statt wie eine Frau (7d)? Schablone? Mitmachen statt Zuschauen? Indirekt, wo es passt?
 - **Nutzer:** Langweilig? Generisch? Ergibt es Sinn? Logik der Rollen? Fremde Personen? Zu viele Wörter?
 - **Fan:** Würde ich das in 1 Sekunde beantworten – und will ich es?
 
@@ -123,6 +123,16 @@ Vor dem Senden mindestens **zwei komplette Runden** so durchführen, als hätte 
 - Führt eine Runde zu **irgendeiner** Änderung → danach erneut zwei Runden.
 - Gesendet wird erst, wenn eine vollständige Runde **ohne jede Änderung** endet.
 - In der Antwort die Einwand-Tabelle (kurz) mitliefern, damit sichtbar ist, dass alles grün ist.
+
+## 7d. Weiblich-menschlicher Ton (Pflicht, Nutzer 11.11.2026)
+
+Jeder Satz muss klingen, als hätte ihn eine Frau gerade getippt – nicht wie eine Bildunterschrift.
+
+- **Bemerkung statt Beschreibung:** `this robe isn't covering much of my ass` (sie kommentiert) statt `my robe's already up over my ass` (Zustandsbericht).
+- **Weibliche Verben und Flirt-Form:** `should i just slip out of it for u?` statt `want me to just take it off?` oder `want the whole thing off?`. Zum Kleidungsstück passende Verben wählen (slip out of, let it drop, wiggle out of, untie).
+- **Keine aufgesetzten Füllwörter** am Satzanfang (`ok`, `lol`) – der Ton kommt aus der Formulierung.
+- **Test:** Könnte der Satz genauso von einem Mann oder aus einem Produkttext stammen? Dann umformulieren.
+- Bei der Einwand-Tabelle (7b) eine eigene Zeile „weiblich-menschlich?“ führen; ohne ✅ nicht senden.
 
 ## 8a. Sende-Sperre (absolut)
 
