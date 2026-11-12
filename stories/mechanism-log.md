@@ -31,7 +31,8 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Leni
 | Story | Mechanik | Format |
 |---|---|---|
-| Werkbank pink (IMG_3013.HEIC), Tape – aktuell `my bestie used my toy on me right here at the workbench... wanna watch what she did to me?` (Vorversionen: ohne Freundin; `want the tape?` → Nutzer: weiblicher) | CONFESS/SELL | Q-Sticker |
+| Werkbank pink (IMG_3013.HEIC), allgemein – `u wouldn't believe what i've done at this workbench... wanna see?` (Nutzer: Tape-Version sehr explizit, lieber allgemein) | CONFESS/SELL | Q-Sticker |
+| Werkbank pink (IMG_3013.HEIC), Tape – vorher `my bestie used my toy on me right here at the workbench... wanna watch what she did to me?` (Vorversionen: ohne Freundin; `want the tape?` → Nutzer: weiblicher) | CONFESS/SELL | Q-Sticker |
 | Weißes Set Esszimmer – `never done it on this table... wanna be the first?` (verworfen: führt nicht ins Selling) | FANTASIE | Q-Sticker |
 | Garage kniend oben ohne – `on my knees with my hands full` + `ur hands on my boobs instead?` (offen, keine Rückmeldung) | JOIN | Text + Sticker |
 | LEN-006 Garage nackt – `fixing cars is way more fun like this` + `wanna bring yours in?` (freigegeben) | ROLEPLAY/FANTASIE | Text + Sticker |

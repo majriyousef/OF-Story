@@ -231,6 +231,8 @@ Regeln (alle Models): Bei transparenter Kleidung die Transparenz selbst zum Grun
 
 - Bestätigt (Nutzer: „gut“, SAR-007): `this robe isn't covering much of my ass... should i just slip out of it for u? 🩷` – Vorlage für den weiblich-menschlichen Ton (Skill 7d).
 
+- Nachtrag 3t (Nutzer, 12.11.2026): Tape-Story auf ein einzelnes Content-Piece („my bestie used my toy on me…“) ist sehr explizit. Alternative: allgemein andeuten, dass sie dort schon viel Naughty gemacht hat, und zum Schreiben einladen – breiterer Einstieg, Chatter kann mehrere Pieces nacheinander verkaufen (leicht → Tape).
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
