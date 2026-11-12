@@ -84,3 +84,10 @@ Gemeinsame Merkmale (beibehalten):
 5. Darf es auch einfach sein? Ja – simple Storys regelmäßig einmischen.
 
 Dieses Feedback ergänzt die Bildtreue-Regeln von Jonathan; es ersetzt sie nicht.
+
+## Korrektur Jenny Schoß-Story (12.11.2026, über den Nutzer)
+
+> das meinte andre: kannst auch fragen ob die panties an bleiben sollen oder ausgezogen werden sollen, von wegen sex with or without thong?
+
+Anlass: `this is ur view when i sit on ur lap 🤭` + `should the panties come off first? 🍑`.
+Konsequenz: Statt Ja/Nein eine Wahl, bei der beide Antworten heiß sind, weil die Szene (sie setzt sich auf ihn) schon feststeht – „with“ heißt Sex mit Höschen, „without“ heißt nackt. Neuer Sticker: `with or without my panties? 🍑`. Das Kleidungsstück bleibt „panties“ (im Bild ein Netz-Slip mit Schlitz, kein Thong).

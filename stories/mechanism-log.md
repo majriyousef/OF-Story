@@ -48,7 +48,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 | Story | Mechanik | Format |
 |---|---|---|
 | Pinkes Set von hinten – `this is ur view right before u pull my panties down` + `want the view right after?` (verworfen, Nutzer: „irgendwie langweilig“) | FANTASIE | Text + Sticker |
-| Pinkes Set von hinten – `this is ur view when i sit on ur lap` + `these panties are open in the back... should they come off anyway?` (aktuelle Fassung – Nutzer: „da war das davor besser“; meine Nachprüfung zu Blickwinkel/Schlitz war zu kleinlich) | FANTASIE | Text + Sticker |
+| Pinkes Set von hinten – `this is ur view when i sit on ur lap` + `with or without my panties?` (André-Korrektur 12.11.; ersetzt `should the panties come off first?` / `...open in the back...`) | CHOICE/FANTASIE | Text + Sticker |
 | Pinkes Set von hinten – `sitting here all cute in my open-back panties` + `should i bend over for u?` (verworfen: schwächer als die Schoß-Version, wieder Kleidungsdetail, Fan nicht in der Szene) | REVEAL | Text + Sticker |
 | Pinkes Set von hinten – `picked the panties with the open back on purpose... need a closer look?` (verworfen: sehr langweilig) | REVEAL | Q-Sticker |
 | JEN-008 Wand – `hand on the wall like a good girl` + `how many spanks do i get?` | GAME | Text + Sticker |
