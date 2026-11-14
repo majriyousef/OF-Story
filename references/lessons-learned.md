@@ -263,6 +263,8 @@ Regeln (alle Models): Bei transparenter Kleidung die Transparenz selbst zum Grun
 
 - Nachtrag 3y (Nutzer: „analysiere das Bild und finde dein fehler“): `gonna pull my panties down or what?` passt nicht zur Szene – er ist **vor** ihr (Kamera auf Betthöhe vor ihrem Gesicht), das Höschen ist hinten und nur als dünner Bund an der Hüfte sichtbar. Vor ihm ist der BH, ein Träger schon unten. Regel: Die Handlung des Fans muss zu seiner Position im Bild passen – er greift nach dem, was vor ihm ist.
 
+- Nachtrag 3y (Nutzer: „finde es noch maximal schwach“ zu `gonna take my bra off or what?`): Ausziehen allein ist kein Trigger. „Trigger“ heißt beim Nutzer ein ausgesprochener Sex-Bezug ohne derbes Verb – wie `take me to bed naked`, `my ass says otherwise`, `already wet`, `spanks`. Bewährte Form für Sarah: Ausziehen **oder** sie direkt nehmen (`rip these stockings off me... or take me with them on?`, André „Yes“).
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).

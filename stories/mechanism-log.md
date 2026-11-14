@@ -62,7 +62,8 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Sarah
 | Story | Mechanik | Format |
 |---|---|---|
-| SAR-008 Vorschlag 4 – `pov: u just walked into my bedroom` + `gonna take my bra off or what?` (wartet auf Okay) | ROLEPLAY/JOIN | Text + Sticker |
+| SAR-008 Vorschlag 5 – `pov: u just walked into my bedroom` + `take my bra off first... or just take me like this?` (wartet auf Okay) | ROLEPLAY/CHOICE | Text + Sticker |
+| SAR-008 Vorschlag 4 – `pov: u just walked into my bedroom` + `gonna take my bra off or what?` (Nutzer: „maximal schwach“) | ROLEPLAY/JOIN | Text + Sticker |
 | SAR-008 Vorschlag 3 – `pov: u just walked into my bedroom` + `gonna pull my panties down or what?` (eigener Fehler: er ist vor ihr, das Höschen ist hinten und kaum sichtbar) | ROLEPLAY/JOIN | Text + Sticker |
 | SAR-008 Trigger-Vorschlag 2 (Nutzer: `already in position` ist AI) – `pov: u just walked into my bedroom` + `already in position... gonna pull my panties down or what?` (wartet auf Okay; „thong“ korrigiert – im Bild nur der seitliche Bund sichtbar) | ROLEPLAY/JOIN | Text + Sticker |
 | SAR-008 Trigger-Vorschlag 1 – `pov: u just walked into my bedroom` + `already in position... what are u taking off me first?` (Nutzer: wirkt AI, zwei Gedanken gestapelt) | ROLEPLAY/CHOICE | Text + Sticker |
