@@ -297,6 +297,8 @@ Gegenmaßnahme: Skill Schritt 0 „Grundmuster zuerst“ – eine Bemerkung + ei
 - Abgleich aller freigegebenen Storys: Die als menschlich empfundenen sagen, wie es ihr gerade geht oder was ihr fehlt (`in my nylons and nobody here to play with`, `already wet and you're not even here yet`, `can't keep my hands to myself tonight`). Die als „ai“ abgelehnten waren clevere Beobachtungen über Kleidung (`kicked my panties off but kept the socks`, `one strap's already down`, `already in position`).
 - Regel (alle Models): Zuerst ihren Gesichtsausdruck lesen und daraus die Stimmung ableiten (Schmollmund = sie schmollt, weil etwas fehlt). Der Text nennt Stimmung + Bedürfnis mit ausgesprochenem Trigger; die Frage zeigt auf das, was ihm entgeht. Die Ellipse ist dabei nicht das Problem (Korrektur zu 3zb) – das Problem ist Cleverness statt Gefühl.
 
+- Nachtrag 3zc (Nutzer: „sie schmollt nicht aber sehr gut Ansatz minimal anpassen“): Der Ansatz Stimmung/Bedürfnis ist bestätigt. Fehler: Kussmund als Schmollen gedeutet. Regel: Gesichtsausdruck nur benennen, wenn er eindeutig ist; sonst das Bedürfnis ohne Etikett sagen (`nobody's here to grab my ass rn`). Bei „minimal anpassen“ nur das beanstandete Wort ändern.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
