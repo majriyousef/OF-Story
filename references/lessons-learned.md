@@ -303,6 +303,8 @@ Gegenmaßnahme: Skill Schritt 0 „Grundmuster zuerst“ – eine Bemerkung + ei
 
 - Nachtrag (Nutzer: „schon sehr direkt mit pussy“): Explizite Körperwörter (`pussy`) passen nicht zu Jennys süßem Ton und verletzen 3h (krass über die Szene, nicht übers Vokabular). Wenn der Text den Trigger schon trägt (`no panties on`), reicht im Sticker die Andeutung; 🐱 ist im Archiv als Euphemismus etabliert (JEN-004, LEN-003).
 
+- Leonie Heels im Bett (Nutzer): `heels in bed bc i'm not planning to sleep... want me naked in them?` war im Kern gut; `i'm not planning to sleep` störte (erklärt die Pointe). Lösung: Begründung streichen, Wahl einbauen (`with or without them?`) – beide Antworten heiß, jede ein Produkt.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
