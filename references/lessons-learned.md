@@ -261,6 +261,8 @@ Regeln (alle Models): Bei transparenter Kleidung die Transparenz selbst zum Grun
 
 - Nachtrag 3y (Nutzer: „already in position... der part ist ai“): Vorgeschaltete Zustands-Fragmente (`already in position...`, `one strap's already down...`) wirken bei Sarah wie AI-Füllung. Der Trigger gehört in die Handlung selbst (`gonna pull my panties down or what?`); der POV-Text reicht als Mini-Story.
 
+- Nachtrag 3y (Nutzer: „analysiere das Bild und finde dein fehler“): `gonna pull my panties down or what?` passt nicht zur Szene – er ist **vor** ihr (Kamera auf Betthöhe vor ihrem Gesicht), das Höschen ist hinten und nur als dünner Bund an der Hüfte sichtbar. Vor ihm ist der BH, ein Träger schon unten. Regel: Die Handlung des Fans muss zu seiner Position im Bild passen – er greift nach dem, was vor ihm ist.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
@@ -312,3 +314,4 @@ Niemals langweilig, generisch oder bot-artig. Floskeln wie `dirty mind`, `wanna 
 29. Weiblich-menschlich? Bemerkung statt Beschreibung, weibliches Verb, kein Füllwort am Anfang (Skill 7d).
 30. Schiebt die Story dem Fan eine Vergangenheit unter („look what u did“, „u made me…“)? → raus, Rolle nur für jetzt/als Nächstes.
 31. Wirkt die Story brav oder „clever“? Dann fehlt Haltung – frecher, direkter, wie eine Frau, die sich etwas traut.
+32. Passt die Handlung des Fans zu seiner Position im Bild (vor/hinter/über ihr)? Er greift nach dem, was vor ihm ist.
