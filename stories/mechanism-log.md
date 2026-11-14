@@ -73,6 +73,8 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Lina
 | Story | Mechanik | Format |
 |---|---|---|
+| Nasses weißes Top draußen – `got my white top wet... my boobs are basically saying hi` + `wanna watch me peel it off?` (offen) | REVEAL | Text + Sticker |
+| Lack-BH Selfie – aktuell `this bra is doing the bare minimum for my boobs... should i just let them out for u?` (offen) | REVEAL | Q-Sticker |
 | Lack-BH Selfie – `this bra covers like 10% of my boobs... want the other 90%?` (verworfen: Logik verdreht, 90 % sind schon sichtbar) | REVEAL | Q-Sticker |
 | Sonnenliege Schmetterlings-Badeanzug – Tan-Lines/pale/topless-tanning/„out in the sun“ (alle verworfen, Nutzer: neuer Ansatz) | REVEAL | Text + Sticker |
 | LIN-006 Dusche – `still wet from the shower` + `take me to bed naked... or back into the shower?` | CHOICE/FANTASIE | Text + Sticker |
