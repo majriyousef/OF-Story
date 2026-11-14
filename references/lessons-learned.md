@@ -292,6 +292,11 @@ Gegenmaßnahme: Skill Schritt 0 „Grundmuster zuerst“ – eine Bemerkung + ei
 - Ursache: Fast jede Story der letzten Tage hatte dieselbe Bauform – Fragment, drei Punkte, Frage (`X... want/wanna/should Y?`). Diese Wiederholung wirkt wie eine Schablone, egal wie gut die Wörter sind.
 - Regel (alle Models): Satzbau aktiv wechseln. Bevorzugt ein einzelner, normaler Satz wie eine echte Nachricht (`can u tell i'm not wearing panties? 🫣`), ohne Ellipse; Ellipsen höchstens in jeder dritten Story.
 
+## 3zc. Menschlich = Stimmung/Bedürfnis, nicht cleverer Kleidungs-Kommentar (14.11.2026)
+
+- Abgleich aller freigegebenen Storys: Die als menschlich empfundenen sagen, wie es ihr gerade geht oder was ihr fehlt (`in my nylons and nobody here to play with`, `already wet and you're not even here yet`, `can't keep my hands to myself tonight`). Die als „ai“ abgelehnten waren clevere Beobachtungen über Kleidung (`kicked my panties off but kept the socks`, `one strap's already down`, `already in position`).
+- Regel (alle Models): Zuerst ihren Gesichtsausdruck lesen und daraus die Stimmung ableiten (Schmollmund = sie schmollt, weil etwas fehlt). Der Text nennt Stimmung + Bedürfnis mit ausgesprochenem Trigger; die Frage zeigt auf das, was ihm entgeht. Die Ellipse ist dabei nicht das Problem (Korrektur zu 3zb) – das Problem ist Cleverness statt Gefühl.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
@@ -346,3 +351,4 @@ Niemals langweilig, generisch oder bot-artig. Floskeln wie `dirty mind`, `wanna 
 32. Passt die Handlung des Fans zu seiner Position im Bild (vor/hinter/über ihr)? Er greift nach dem, was vor ihm ist.
 33. Beschreibt der Text, was man ohnehin im Bild sieht (Pose, Liegen, Füße)? → streichen; nur das Unsichtbare oder ihren Wunsch sagen, so kurz wie eine echte Nachricht.
 34. Hat die Story wieder die Bauform „Fragment... Frage?“? Wenn die letzten Storys sie auch hatten → einen normalen, einzelnen Satz bauen.
+35. Sagt der Text, wie es ihr geht oder was ihr fehlt (Stimmung/Bedürfnis, aus dem Gesichtsausdruck)? Ein cleverer Kommentar über Kleidung reicht nicht.
