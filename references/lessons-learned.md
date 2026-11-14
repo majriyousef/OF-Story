@@ -270,6 +270,8 @@ Regeln (alle Models): Bei transparenter Kleidung die Transparenz selbst zum Grun
 - Abgelehnt: `lying here with my feet up and no panties on 🧦` + `wanna climb on top and see for urself? 🩷` – vollständiger Satz, der Pose + Kleidung aufzählt (Bildbeschreibung), dazu eine gebaute Zwei-Teile-Frage.
 - Regel (alle Models): Echte Story-Texte sind oft kürzer als gedacht – ein Fragment mit dem Trigger (`no panties today`) und eine Mini-Frage (`wanna see?`). Nicht beschreiben, was man im Bild sieht (Füße hoch, liegen); nur sagen, was man **nicht** sieht oder was sie will.
 
+- Nachtrag 3z (Nutzer: „langweilig ohne trigger“ zu `giving u my kissy face from bed` + `want me to lose the bra too?`): Geste + Ausziehen ist kein Trigger. Trigger = ausgesprochener Körper-/Sex-Bezug (`no panties`, `my ass`, `take me`), am besten als Wahl zwischen zwei Handlungen des Fans, bei der beide heiß sind und süß/frech kontrastieren (Jenny: `kiss me or squeeze my ass?`).
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
