@@ -252,7 +252,8 @@ Regeln (alle Models): Bei transparenter Kleidung die Transparenz selbst zum Grun
 - Nachtrag 3y (Nutzer: „komplett neuer ansatz alles langweilig“): Auch die weibliche Umformulierung der Träger-Idee war langweilig. Wenn alles langweilig ist, liegt es am Aufhänger, nicht an den Wörtern: Kleidungsdetail (Träger) raus, stattdessen eine Fantasie-Szene mit Rolle für den Fan (`pov: u just walked into my bedroom`) und eine Frage, bei der er handelt (`what are u taking off me first?`).
 
 - Nutzer zu `pov: u just walked into my bedroom and one strap's already down 😏`: „das ist jetzt ai like“ – ein freigegebener kurzer Satz wurde durch Anhängen eines zweiten Details lang und konstruiert. Regel: Einen Zusatz nie an einen freigegebenen Satz hängen, sondern als eigenes kurzes Fragment an die passende Stelle (hier vor die Frage im Sticker).
-- Freigegeben (SAR-008): `pov: u just walked into my bedroom 😏` + `one strap's already down... what are u taking off me first? ❤️‍🔥` – Fantasie-Szene mit Fan-Rolle + sichtbarer Trigger aus dem Bild + Frage, bei der er handelt und jede Antwort ein Produkt ist. Vorlage.
+- Nutzer: „and one strap's already down 😏 also das ist ai“. Mein Fehler: „perfekt dazu noch der trigger“ war ein **Lob** (perfekt, und der Trigger ist auch drin), keine Bitte um einen Zusatz. Regel: Bei „perfekt …“ nichts mehr ändern; bei unklarer Formulierung kurz nachfragen statt umbauen. Das Träger-Fragment wirkt als Anhängsel konstruiert.
+- Freigegeben (SAR-008): `pov: u just walked into my bedroom 😏` + `what are u taking off me first? ❤️‍🔥` – Fantasie-Szene mit Fan-Rolle + sichtbarer Trigger aus dem Bild + Frage, bei der er handelt und jede Antwort ein Produkt ist. Vorlage.
 
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
