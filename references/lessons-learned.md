@@ -233,6 +233,12 @@ Regeln (alle Models): Bei transparenter Kleidung die Transparenz selbst zum Grun
 
 - Nachtrag 3t (Nutzer, 12.11.2026): Tape-Story auf ein einzelnes Content-Piece („my bestie used my toy on me…“) ist sehr explizit. Alternative: allgemein andeuten, dass sie dort schon viel Naughty gemacht hat, und zum Schreiben einladen – breiterer Einstieg, Chatter kann mehrere Pieces nacheinander verkaufen (leicht → Tape).
 
+## 3x. Lina nasses Top – Fan nicht zum „Täter“ machen (14.11.2026)
+
+- Abgelehnt (Nutzer: „maximal scheiße wegen u did“): `look what u did to my white top 😅` + `gonna peel it off me now?` – der Fan hat nichts getan; ihm eine Handlung unterzuschieben wirkt unecht, ähnlich wie „thinking about u“.
+- Regel (alle Models): Fantasie ja, aber der Fan bekommt eine Rolle für **jetzt/als Nächstes** (entscheiden, mitmachen, ausziehen), nicht eine erfundene Vergangenheit („u did this“, „u made me…“).
+- Dusche-Anspielung bei Lina bewusst nicht genutzt: LIN-006 hat sie schon, und die Szene ist draußen.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
@@ -282,3 +288,4 @@ Niemals langweilig, generisch oder bot-artig. Floskeln wie `dirty mind`, `wanna 
 27. Bei „ur view“: Passen Abstand, Höhe und sichtbare Körperteile wirklich zur behaupteten Position?
 28. Baut die Pointe auf der Funktion eines Kleidungsstücks? Dann bei maximalem Zoom prüfen (Zier-Ausschnitt ist nicht „offen“).
 29. Weiblich-menschlich? Bemerkung statt Beschreibung, weibliches Verb, kein Füllwort am Anfang (Skill 7d).
+30. Schiebt die Story dem Fan eine Vergangenheit unter („look what u did“, „u made me…“)? → raus, Rolle nur für jetzt/als Nächstes.

@@ -73,7 +73,8 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Lina
 | Story | Mechanik | Format |
 |---|---|---|
-| Nasses weißes Top draußen – aktuell `look what u did to my white top` + `gonna peel it off me now?` (Nutzer: mehr Fantasie; Dusche bewusst nicht, s. LIN-006 und Ort draußen) | FANTASIE/JOIN | Text + Sticker |
+| Nasses weißes Top draußen – aktuell `pretty sure i'd win a wet t-shirt contest rn` + `wanna watch me peel my top off?` | FANTASIE/REVEAL | Text + Sticker |
+| Nasses weißes Top draußen – `look what u did to my white top` + `gonna peel it off me now?` (verworfen, Nutzer: „maximal scheiße wegen u did“) | FANTASIE/JOIN | Text + Sticker |
 | Nasses weißes Top draußen – `got my white top wet... my boobs are basically saying hi` + `wanna watch me peel it off?` (ersetzt) | REVEAL | Text + Sticker |
 | Lack-BH Selfie – aktuell `this bra is doing the bare minimum for my boobs... should i just let them out for u?` (offen) | REVEAL | Q-Sticker |
 | Lack-BH Selfie – `this bra covers like 10% of my boobs... want the other 90%?` (verworfen: Logik verdreht, 90 % sind schon sichtbar) | REVEAL | Q-Sticker |
