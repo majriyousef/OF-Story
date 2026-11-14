@@ -178,10 +178,10 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 ### SAR-008 — Vierfüßlerstand auf dem Bett, rotes Set, Träger von der Schulter
 
 - **Bild:** Original-Dateiname fehlt (rote Haare, rotes Spitzen-Set, ein BH-Träger auf dem Oberarm)
-- **Text:** `pov: u just walked into my bedroom and one strap's already down 😏`
-- **Question-Sticker:** `what are u taking off me first? ❤️‍🔥`
+- **Text:** `pov: u just walked into my bedroom 😏`
+- **Question-Sticker:** `one strap's already down... what are u taking off me first? ❤️‍🔥`
 - **Chatter-Hinweis:** „bra“ → PPV ohne BH; „thong“ → PPV von hinten ohne String; „everything“ → beides als Bundle.
-- **Freigabe:** Nutzer („perfekt, dazu noch der trigger“, 14.11.2026); ersetzt `one strap's already down...` + `let me guess, the other one too?`
+- **Freigabe:** Nutzer („perfekt, dazu noch der trigger“, 14.11.2026; Trigger in den Sticker verschoben, weil der lange Text „ai like“ wirkte); ersetzt `one strap's already down...` + `let me guess, the other one too?`
 
 ## Leni
 
