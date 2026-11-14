@@ -98,6 +98,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Leonie
 | Story | Mechanik | Format |
 |---|---|---|
+| Bett, schwarzer Spitzen-Body, Overknees, nude High Heels – `heels in bed bc i'm not planning to sleep... want me naked in them?` (offen) | CONFESS/REVEAL | Q-Sticker |
 | LEO-002 Sessel – `curled up in my chair, legs closed... for now. should i open them for u?` | REVEAL | Q-Sticker |
 | Laptop – `laptop's open but i'm clearly not working... wanna open my bra instead?` (selbst verworfen: Pointe wie Perlen-BH, Parallelismus) | REVEAL | Q-Sticker |
 | Perlen-BH – `can't decide if this pearl bra stays on` + `with or without? you tell me` | CHOICE | Text + Sticker |
