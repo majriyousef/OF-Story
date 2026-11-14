@@ -240,6 +240,11 @@ Regeln (alle Models): Bei transparenter Kleidung die Transparenz selbst zum Grun
 - Freigegeben (Nutzer: „nehmen das erste, ist das beste“): `got my white top wet... my boobs are basically saying hi 😅` + `wanna watch me peel it off? 💦` (LIN-007) – ehrliche, selbstironische Bemerkung schlug die „geilere“ Fantasie-Variante mit bekanntem Begriff (`wet t-shirt contest`).
 - Dusche-Anspielung bei Lina bewusst nicht genutzt: LIN-006 hat sie schon, und die Szene ist draußen.
 
+## 3y. Sarah rotes Set – „safe“ wirkt wie AI (14.11.2026)
+
+- Abgelehnt (Nutzer: „das wirkt safe wie ai“): `on all fours and one strap's already down...` + `let me guess, the other one too? ❤️‍🔥` – brav beschreibend, cleveres Mini-Wortspiel, keine Haltung.
+- Regel (alle Models, besonders Sarah/Leonie): Brav und clever = AI. Menschlich wirkt eine Creatorin, die etwas Freches über die Situation sagt, das sie sich „eigentlich nicht trauen dürfte“ (`this position isn't really for taking pics`), und dann kurz und lässig fragt (`next one without my bra?`). Selbstironie über das Foto selbst ist ein starkes Mittel.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
@@ -290,3 +295,4 @@ Niemals langweilig, generisch oder bot-artig. Floskeln wie `dirty mind`, `wanna 
 28. Baut die Pointe auf der Funktion eines Kleidungsstücks? Dann bei maximalem Zoom prüfen (Zier-Ausschnitt ist nicht „offen“).
 29. Weiblich-menschlich? Bemerkung statt Beschreibung, weibliches Verb, kein Füllwort am Anfang (Skill 7d).
 30. Schiebt die Story dem Fan eine Vergangenheit unter („look what u did“, „u made me…“)? → raus, Rolle nur für jetzt/als Nächstes.
+31. Wirkt die Story brav oder „clever“? Dann fehlt Haltung – frecher, direkter, wie eine Frau, die sich etwas traut.
