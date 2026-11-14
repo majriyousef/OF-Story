@@ -96,7 +96,8 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Leonie
 | Story | Mechanik | Format |
 |---|---|---|
-| Bett kniend, schwarzer Spitzen-Body, Overknees, Heels – aktuell `heels in bed... want me naked with or without them?` (Nutzer: `i'm not planning to sleep` stört, with/without heels) | CHOICE | Q-Sticker |
+| Bett kniend, schwarzer Spitzen-Body, Overknees, Heels – aktuell `i'm getting naked either way` + `with or without my heels?` (offen) | CHOICE | Text + Sticker |
+| Bett kniend, Spitzen-Body – `heels in bed... want me naked with or without them?` (verworfen: „maximal ai like“, Prüffragen 33/34 verletzt) | CHOICE | Q-Sticker |
 | Bett kniend, Spitzen-Body – `come to bed. i'm already on my knees` + `how do u want me?` (Nutzer: „prime story, halt dich nicht an den regeln“ – bewusst ohne Produkt im Sticker, offene Frage) | FANTASIE | Text + Sticker |
 | Bett kniend, Spitzen-Body – `looking back to see if u're coming to bed` + `want me naked when u get here?` (Regel-Version, nicht gezeigt) | FANTASIE/REVEAL | Text + Sticker |
 | Bett kniend, Spitzen-Body – nur Sticker `can u come pull this bodysuit aside for me?` (keine Rückmeldung, Bild erneut geschickt) | JOIN/REVEAL | Q-Sticker |

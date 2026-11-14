@@ -305,6 +305,8 @@ Gegenmaßnahme: Skill Schritt 0 „Grundmuster zuerst“ – eine Bemerkung + ei
 
 - Leonie Heels im Bett (Nutzer): `heels in bed bc i'm not planning to sleep... want me naked in them?` war im Kern gut; `i'm not planning to sleep` störte (erklärt die Pointe). Lösung: Begründung streichen, Wahl einbauen (`with or without them?`) – beide Antworten heiß, jede ein Produkt.
 
+- Nachtrag (Nutzer: „das wirkt maximal ai like, heels in bed, du hast doch die checkliste“): `heels in bed...` verletzte die eigenen Prüffragen 33 (beschreibt Sichtbares) und 34 (Fragment... Frage). Eigener Prozessfehler: Bei „minimal ändern“ die Checkliste trotzdem vollständig anwenden – auch auf die vom Nutzer übernommenen Teile. Besser: Absicht statt Beschreibung (`i'm getting naked either way` + `with or without my heels?`).
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
