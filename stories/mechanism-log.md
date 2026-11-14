@@ -83,10 +83,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Lina
 | Story | Mechanik | Format |
 |---|---|---|
-| Nasses weißes Top draußen – `pretty sure i'd win a wet t-shirt contest rn` + `wanna watch me peel my top off?` (nicht genommen) | FANTASIE/REVEAL | Text + Sticker |
-| Nasses weißes Top draußen – `look what u did to my white top` + `gonna peel it off me now?` (verworfen, Nutzer: „maximal scheiße wegen u did“) | FANTASIE/JOIN | Text + Sticker |
-| LIN-007 Optimierungs-Vorschlag – Sticker `wanna help me peel it off?` statt `wanna watch me peel it off?` (wartet auf Okay; Text unverändert) | REVEAL/JOIN | Text + Sticker |
-| LIN-007 Nasses weißes Top draußen – `got my white top wet... my boobs are basically saying hi` + `wanna watch me peel it off?` (freigegeben) | REVEAL | Text + Sticker |
+| Nasses weißes Top draußen (Neustart, Vorversionen und LIN-007 gelöscht) – `it's way too hot out here... had to cool off somehow` + `want my boobs out of this wet top?` (offen) | CONFESS/REVEAL | Text + Sticker |
 | Lack-BH Selfie – aktuell `this bra is doing the bare minimum for my boobs... should i just let them out for u?` (offen) | REVEAL | Q-Sticker |
 | Lack-BH Selfie – `this bra covers like 10% of my boobs... want the other 90%?` (verworfen: Logik verdreht, 90 % sind schon sichtbar) | REVEAL | Q-Sticker |
 | Sonnenliege Schmetterlings-Badeanzug – Tan-Lines/pale/topless-tanning/„out in the sun“ (alle verworfen, Nutzer: neuer Ansatz) | REVEAL | Text + Sticker |
@@ -99,8 +96,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Leonie
 | Story | Mechanik | Format |
 |---|---|---|
-| Bett, schwarzer Spitzen-Body, Overknees, nude High Heels – aktuell `spent forever getting ready just so u can ruin it` + `wanna start by getting me naked?` (offen) | FANTASIE/JOIN | Text + Sticker |
-| Bett, Spitzen-Body, Heels – `heels in bed bc i'm not planning to sleep... want me naked in them?` (Nutzer: „leonie story neu“) | CONFESS/REVEAL | Q-Sticker |
+| Bett, Spitzen-Body, Overknees, Heels (Neustart) – `dressed up with nowhere to be tonight` + `wanna come undress me instead?` (offen) | FANTASIE/JOIN | Text + Sticker |
 | LEO-002 Sessel – `curled up in my chair, legs closed... for now. should i open them for u?` | REVEAL | Q-Sticker |
 | Laptop – `laptop's open but i'm clearly not working... wanna open my bra instead?` (selbst verworfen: Pointe wie Perlen-BH, Parallelismus) | REVEAL | Q-Sticker |
 | Perlen-BH – `can't decide if this pearl bra stays on` + `with or without? you tell me` | CHOICE | Text + Sticker |
