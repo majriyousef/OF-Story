@@ -49,7 +49,8 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Jenny
 | Story | Mechanik | Format |
 |---|---|---|
-| Bauchlage Bett, graue Socken (neu analysiert, alle Vorversionen gestrichen) – `kicked my panties off but kept the socks... want a peek from behind?` (offen) | REVEAL | Q-Sticker |
+| Bauchlage Bett, graue Socken – Fantasie-Variante `kicked my panties off but kept the socks... wanna get behind me?` (Nutzer fragte nach Fantasie mit behind; offen) | FANTASIE | Q-Sticker |
+| Bauchlage Bett, graue Socken (neu analysiert) – `kicked my panties off but kept the socks... want a peek from behind?` (Alternative) | REVEAL | Q-Sticker |
 | Pinkes Set von hinten – `this is ur view right before u pull my panties down` + `want the view right after?` (verworfen, Nutzer: „irgendwie langweilig“) | FANTASIE | Text + Sticker |
 | Pinkes Set von hinten – `this is ur view when i sit on ur lap` + `with or without my panties?` (André-Korrektur 12.11.; ersetzt `should the panties come off first?` / `...open in the back...`) | CHOICE/FANTASIE | Text + Sticker |
 | Pinkes Set von hinten – `sitting here all cute in my open-back panties` + `should i bend over for u?` (verworfen: schwächer als die Schoß-Version, wieder Kleidungsdetail, Fan nicht in der Szene) | REVEAL | Text + Sticker |
