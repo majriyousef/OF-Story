@@ -49,7 +49,8 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Jenny
 | Story | Mechanik | Format |
 |---|---|---|
-| Bauchlage Bett, graue Socken – aktuell nur Sticker `ignore the socks... u'd already be behind me slapping my ass, wouldn't u?` (Nutzer: neuer Sticker-Ansatz, nicht immer Text + Sticker) | CONFESS/FANTASIE | Q-Sticker |
+| Bauchlage Bett – aktuell nur Sticker `u'd already be behind me slapping my ass, wouldn't u?` (Socken-Witz raus, Nutzer: „sehr langweilig“) | CONFESS/FANTASIE | Q-Sticker |
+| Bauchlage Bett – `ignore the socks... u'd already be behind me slapping my ass, wouldn't u?` (Nutzer: neuer Sticker-Ansatz, nicht immer Text + Sticker) | CONFESS/FANTASIE | Q-Sticker |
 | Bauchlage Bett – `ignore the socks and get behind me` + `slap my ass or squeeze it?` (ersetzt) | FANTASIE/CHOICE | Text + Sticker |
 | Bauchlage Bett – `no panties today` + `kiss me or squeeze my ass?` (ersetzt) | CHOICE | Text + Sticker |
 | Bauchlage Bett – `giving u my kissy face from bed` + `want me to lose the bra too?` (verworfen: „langweilig ohne trigger“) | REVEAL | Text + Sticker |

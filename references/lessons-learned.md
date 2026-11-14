@@ -272,6 +272,7 @@ Regeln (alle Models): Bei transparenter Kleidung die Transparenz selbst zum Grun
 
 - Nachtrag 3z (Nutzer: „langweilig ohne trigger“ zu `giving u my kissy face from bed` + `want me to lose the bra too?`): Geste + Ausziehen ist kein Trigger. Trigger = ausgesprochener Körper-/Sex-Bezug (`no panties`, `my ass`, `take me`), am besten als Wahl zwischen zwei Handlungen des Fans, bei der beide heiß sind und süß/frech kontrastieren (Jenny: `kiss me or squeeze my ass?`).
 
+- Nachtrag: `ignore the socks` als Witz abgelehnt (Nutzer: „finde den Witz sehr langweilig“). Ein Nebendetail-Witz muss wirklich lustig sein, sonst lieber weglassen; der Trigger trägt die Story allein.
 - Nutzer-Vorgabe (Jenny Bauchlage): „mach eine Fantasie mit behind me, squeeze, slap ass, irgendwas geiles und socks nebenbei funny“. Lehre: Ein auffälliges, eigentlich unsexy Detail (Sportsocken) wirkt als selbstironischer Nebensatz (`ignore the socks`) menschlich und lustig; „behind me“ ist erlaubt, wenn die Pose (Bauchlage, Po hinten) es trägt und eine konkrete Handlung folgt.
 
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
