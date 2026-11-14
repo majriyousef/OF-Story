@@ -249,6 +249,8 @@ Regeln (alle Models): Bei transparenter Kleidung die Transparenz selbst zum Grun
 
 - Nachtrag 3y (Nutzer: „finde die erste version am besten“): Freigegeben wurde am Ende die erste Fassung (SAR-008). „safe/langweilig“ war ein Hinweis auf Steigerung, kein Urteil, dass die erste schlecht ist. Regel: Bei solchem Feedback eine neue Variante liefern, aber die erste ausdrücklich als Option stehen lassen und vergleichen; nie stillschweigend verwerfen.
 
+- Nachtrag 3y (Nutzer: „komplett neuer ansatz alles langweilig“): Auch die weibliche Umformulierung der Träger-Idee war langweilig. Wenn alles langweilig ist, liegt es am Aufhänger, nicht an den Wörtern: Kleidungsdetail (Träger) raus, stattdessen eine Fantasie-Szene mit Rolle für den Fan (`pov: u just walked into my bedroom`) und eine Frage, bei der er handelt (`what are u taking off me first?`).
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
