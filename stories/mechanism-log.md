@@ -49,7 +49,8 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Jenny
 | Story | Mechanik | Format |
 |---|---|---|
-| Bauchlage Bett – aktuell `my feet are cold but the rest of me definitely isn't` + `come lie on top of me and check?` (Nutzer: komplett neu, slap muss nicht) | FANTASIE/JOIN | Text + Sticker |
+| Bauchlage Bett – aktuell nur Sticker `guess what i'm not wearing... hint: it's not my socks` (offen) | GAME | Q-Sticker |
+| Bauchlage Bett – `my feet are cold but the rest of me definitely isn't` + `come lie on top of me and check?` (verworfen: „wieder langweilig“) | FANTASIE/JOIN | Text + Sticker |
 | Bauchlage Bett – `socks stay on so i don't slide around` + `u'd already be behind me slapping my ass, wouldn't u?` (ersetzt: komplett neu verlangt) | FANTASIE | Text + Sticker |
 | Bauchlage Bett – nur Sticker ohne Socken (verworfen: „NEIN NICHT RAUS“) | CONFESS/FANTASIE | Q-Sticker |
 | Bauchlage Bett – `ignore the socks... u'd already be behind me slapping my ass, wouldn't u?` (Nutzer: neuer Sticker-Ansatz, nicht immer Text + Sticker) | CONFESS/FANTASIE | Q-Sticker |
