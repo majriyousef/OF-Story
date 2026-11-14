@@ -49,7 +49,8 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Jenny
 | Story | Mechanik | Format |
 |---|---|---|
-| Bauchlage Bett, graue Socken – aktuell `no panties today` + `kiss me or squeeze my ass?` (offen) | CHOICE | Text + Sticker |
+| Bauchlage Bett, graue Socken – aktuell `ignore the socks and get behind me` + `slap my ass or squeeze it?` (Nutzer-Vorgabe: Fantasie mit behind me, squeeze/slap, Socken lustig) | FANTASIE/CHOICE | Text + Sticker |
+| Bauchlage Bett – `no panties today` + `kiss me or squeeze my ass?` (ersetzt) | CHOICE | Text + Sticker |
 | Bauchlage Bett – `giving u my kissy face from bed` + `want me to lose the bra too?` (verworfen: „langweilig ohne trigger“) | REVEAL | Text + Sticker |
 | Bauchlage Bett – `no panties today` + `wanna see?` (ersetzt) | REVEAL | Text + Sticker |
 | Bauchlage Bett – `lying here with my feet up and no panties on` + `wanna climb on top and see for urself?` (verworfen: „maximal ai“) | FANTASIE/JOIN | Text + Sticker |
