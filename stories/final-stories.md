@@ -66,6 +66,14 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - **Chatter-Hinweis:** Auf jede Zahl: „that many? 😳 you'd have to come do it urself“ + Bilder aus dem Set von hinten.
 - **Freigabe:** Nutzer („Gut“)
 
+### JEN-009 — Bauchlage im Bett, Kussmund, graue Socken
+
+- **Bild:** Original-Dateiname fehlt (pinker Spitzen-BH, nackter Po, graue Sportsocken, pinkes LED-Licht)
+- **Text:** `goodnight kiss from the girl with no panties on 😘`
+- **Question-Sticker:** `want a sneak peek before i fall asleep? 🐱`
+- **Chatter-Hinweis:** Auf „yes“ das Pussy-Bild als PPV, z. B. „just a little peek 🫣“. Abends posten.
+- **Freigabe:** Nutzer (finale Liste, 14.11.2026)
+
 ## Lina
 
 ### LIN-001 — Brüste auf dem Tisch, Kaffee
@@ -111,6 +119,14 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - **Question-Sticker:** `take me to bed naked... or back into the shower? 😏`
 - **Chatter-Hinweis:** „bed“ → Bild ohne Bademantel; „shower“ → Dusch-Rollenspiel mit Bildern aus dem Set.
 - **Team-Feedback:** gut, so beibehalten (23.10.2026)
+
+### LIN-007 — Nasses weißes Top auf der Terrasse
+
+- **Bild:** Original-Dateiname fehlt (weißes geripptes Top mit Knopfleiste, unten nass, draußen bei Sonne)
+- **Text:** `got my white top wet... my boobs are basically saying hi 😅`
+- **Question-Sticker:** `wanna watch me peel it off? 💦`
+- **Chatter-Hinweis:** Auf „yes“ die Bilder mit ausgezogenem nassem Top als PPV.
+- **Freigabe:** Nutzer (finale Liste, 14.11.2026)
 
 ## Sarah
 
@@ -171,9 +187,9 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 
 - **Bild:** Original-Dateiname fehlt (rote Haare, rotes Spitzen-Set, ein BH-Träger auf dem Oberarm)
 - **Text:** `pov: u just walked into my bedroom 😏`
-- **Question-Sticker:** `what are u taking off me first? ❤️‍🔥`
-- **Chatter-Hinweis:** „bra“ → PPV ohne BH; „thong“ → PPV von hinten ohne String; „everything“ → beides als Bundle.
-- **Freigabe:** Nutzer („perfekt, dazu noch der trigger“ = Lob, 14.11.2026; Träger-Zusätze als „ai“ abgelehnt); ersetzt `one strap's already down...` + `let me guess, the other one too?`
+- **Question-Sticker:** `take my bra off first... or just take me like this? ❤️‍🔥`
+- **Chatter-Hinweis:** „bra first“ → PPV ohne BH; „like this“ → PPV von hinten in dieser Pose.
+- **Freigabe:** Nutzer (finale Liste, 14.11.2026)
 
 ## Leni
 
@@ -224,6 +240,14 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - **Freigabe:** Nutzer („ja so ist gut“)
 - **Team-Feedback:** gut, so beibehalten (23.10.2026)
 
+### LEN-007 — Vornübergebeugt vor dem Spiegel, Zunge raus, schwarzer String
+
+- **Bild:** Original-Dateiname fehlt (Wohnzimmer, Standspiegel, Rückansicht, Gesicht im Spiegel)
+- **Text:** `sticking my tongue out at u in the mirror 😛`
+- **Question-Sticker:** `want me to lose the thong next? 🖤`
+- **Chatter-Hinweis:** Auf „yes“ das PPV von hinten ohne String.
+- **Freigabe:** Nutzer (finale Liste, 14.11.2026)
+
 ## Leonie
 
 ### LEO-001 — Perlen-BH
@@ -242,13 +266,6 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - **Chatter-Hinweis:** Auf „yes“ Bild aus dem Set mit geöffneten Beinen auf dem Sessel.
 - **Team-Feedback:** gut, so beibehalten (23.10.2026)
 
-## Nicht als Endfassung geführt
-
-- ersetzte Bilder, wenn der Nutzer ausdrücklich ein anderes Bild bevorzugt hat
-- unvollständige Storys ohne finalen Haupttext oder finalen CTA
-- Varianten, die wegen falscher Bilddetails verworfen wurden
-- historische Jonathan-Beispiele, sofern sie keinem aktuellen Produktionsbild zugeordnet sind
-
 ### LEO-003 — Kniend im Bett, schwarzer Spitzen-Body, Teddy mit Höschen
 
 - **Bild:** Original-Dateiname fehlt (Watermark leonie.sanders; schwarzer Body, Overknees, nude Plateau-Heels, Teddy auf dem Nachttisch mit pinkem Satin-Höschen auf dem Kopf)
@@ -256,3 +273,10 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - **Question-Sticker:** `so guess what i'm not wearing under this bodysuit? 😇`
 - **Chatter-Hinweis:** Auf „panties“ o. Ä. mit „correct 😇“ antworten und PPV mit zur Seite geschobenem oder ausgezogenem Body senden.
 - **Freigabe:** Nutzer („pantys passt“, 14.11.2026)
+
+## Nicht als Endfassung geführt
+
+- ersetzte Bilder, wenn der Nutzer ausdrücklich ein anderes Bild bevorzugt hat
+- unvollständige Storys ohne finalen Haupttext oder finalen CTA
+- Varianten, die wegen falscher Bilddetails verworfen wurden
+- historische Jonathan-Beispiele, sofern sie keinem aktuellen Produktionsbild zugeordnet sind
