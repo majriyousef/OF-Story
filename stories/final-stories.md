@@ -112,6 +112,14 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - **Chatter-Hinweis:** „bed“ → Bild ohne Bademantel; „shower“ → Dusch-Rollenspiel mit Bildern aus dem Set.
 - **Team-Feedback:** gut, so beibehalten (23.10.2026)
 
+### LIN-007 — Nasses weißes Top auf der Terrasse
+
+- **Bild:** Original-Dateiname fehlt (weißes geripptes Top mit Knopfleiste, unten nass, draußen bei Sonne)
+- **Text:** `got my white top wet... my boobs are basically saying hi 😅`
+- **Question-Sticker:** `wanna watch me peel it off? 💦`
+- **Chatter-Hinweis:** Auf „yes“ die Bilder mit ausgezogenem nassem Top aus diesem Set als PPV senden.
+- **Freigabe:** Nutzer („nehmen das erste“, 14.11.2026); ersetzt `look what u did…` und `pretty sure i'd win a wet t-shirt contest rn`
+
 ## Sarah
 
 ### SAR-001 — Butterfly von hinten

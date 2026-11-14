@@ -237,6 +237,7 @@ Regeln (alle Models): Bei transparenter Kleidung die Transparenz selbst zum Grun
 
 - Abgelehnt (Nutzer: „maximal scheiße wegen u did“): `look what u did to my white top 😅` + `gonna peel it off me now?` – der Fan hat nichts getan; ihm eine Handlung unterzuschieben wirkt unecht, ähnlich wie „thinking about u“.
 - Regel (alle Models): Fantasie ja, aber der Fan bekommt eine Rolle für **jetzt/als Nächstes** (entscheiden, mitmachen, ausziehen), nicht eine erfundene Vergangenheit („u did this“, „u made me…“).
+- Freigegeben (Nutzer: „nehmen das erste, ist das beste“): `got my white top wet... my boobs are basically saying hi 😅` + `wanna watch me peel it off? 💦` (LIN-007) – ehrliche, selbstironische Bemerkung schlug die „geilere“ Fantasie-Variante mit bekanntem Begriff (`wet t-shirt contest`).
 - Dusche-Anspielung bei Lina bewusst nicht genutzt: LIN-006 hat sie schon, und die Szene ist draußen.
 
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
