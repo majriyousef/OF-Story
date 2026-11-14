@@ -255,6 +255,8 @@ Regeln (alle Models): Bei transparenter Kleidung die Transparenz selbst zum Grun
 - Nutzer: „and one strap's already down 😏 also das ist ai“. Mein Fehler: „perfekt dazu noch der trigger“ war ein **Lob** (perfekt, und der Trigger ist auch drin), keine Bitte um einen Zusatz. Regel: Bei „perfekt …“ nichts mehr ändern; bei unklarer Formulierung kurz nachfragen statt umbauen. Das Träger-Fragment wirkt als Anhängsel konstruiert.
 - Freigegeben (SAR-008): `pov: u just walked into my bedroom 😏` + `what are u taking off me first? ❤️‍🔥` – Fantasie-Szene mit Fan-Rolle + sichtbarer Trigger aus dem Bild + Frage, bei der er handelt und jede Antwort ein Produkt ist. Vorlage.
 
+- Nachtrag 3y (Nutzer: „wirkt das nicht wie ai, eventuell das what are you taking off“): Fragment + Frage dürfen nicht zwei verschiedene Gedanken stapeln (`already in position` = bereit, `what are u taking off me first?` = Auszieh-Menü). Ein durchgehender Gedanke: Sie ist bereit und wartet auf genau eine Handlung von ihm (`gonna pull my thong down or what?`).
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
