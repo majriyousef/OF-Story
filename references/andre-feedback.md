@@ -91,3 +91,9 @@ Dieses Feedback ergänzt die Bildtreue-Regeln von Jonathan; es ersetzt sie nicht
 
 Anlass: `this is ur view when i sit on ur lap 🤭` + `should the panties come off first? 🍑`.
 Konsequenz: Statt Ja/Nein eine Wahl, bei der beide Antworten heiß sind, weil die Szene (sie setzt sich auf ihn) schon feststeht – „with“ heißt Sex mit Höschen, „without“ heißt nackt. Neuer Sticker: `with or without my panties? 🍑`. Das Kleidungsstück bleibt „panties“ (im Bild ein Netz-Slip mit Schlitz, kein Thong).
+
+## Erinnerung durch den Nutzer (14.11.2026)
+
+> mir fällt auch auf überall text und questionsticker gleichzeitig, kann man natürlich machen
+
+Konsequenz: Andrés Variationsregel aktiv anwenden – bei jeder neuen Story zuerst prüfen, ob nur Sticker oder nur Text stärker ist; Text + Sticker nicht als Standard.
