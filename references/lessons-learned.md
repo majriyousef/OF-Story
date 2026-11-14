@@ -275,6 +275,15 @@ Regeln (alle Models): Bei transparenter Kleidung die Transparenz selbst zum Grun
 - Nachtrag: `ignore the socks` als Witz abgelehnt (Nutzer: „finde den Witz sehr langweilig“). Mein Fehler: Ich habe den Witz gestrichen; Nutzer: „NEIN NICHT RAUS, DU SOLLST DA EINEN WITZIGEN WITZ MACHEN, PERVERS“. Regel: „langweilig“ heißt besser machen, nicht weglassen. Ein guter Detail-Witz ist pervers und verbindet das Detail mit der Fantasie (`socks stay on so i don't slide around` = sie rechnet mit hartem Sex von hinten).
 - Nutzer-Vorgabe (Jenny Bauchlage): „mach eine Fantasie mit behind me, squeeze, slap ass, irgendwas geiles und socks nebenbei funny“. Lehre: Ein auffälliges, eigentlich unsexy Detail (Sportsocken) wirkt als selbstironischer Nebensatz (`ignore the socks`) menschlich und lustig; „behind me“ ist erlaubt, wenn die Pose (Bauchlage, Po hinten) es trägt und eine konkrete Handlung folgt.
 
+## 3za. Warum es nach Leni/Lina schlechter wurde (14.11.2026)
+
+Nutzer: „seitdem wir bei leni und lina waren … beim ersten lauf war perfekt, ab jetzt machst du nur scheiße, wieso?“
+Ehrliche Ursachen:
+1. **Überkorrektur:** Bei jeder Kritik den ganzen Ansatz umgeworfen (Träger → POV → Position → Höschen → BH → „take me“) statt den starken Kern zu behalten.
+2. **Regelflut:** In kurzer Zeit viele neue Regeln (3y-Nachträge, 3z, Prüffragen 31–33) – und dann versucht, alle gleichzeitig in einen Satz zu packen (Trigger + Produkt + Fan-Rolle + Witz) → gestapelte, konstruierte Sätze = AI-Ton.
+3. **Feedback falsch gelesen:** „perfekt dazu noch der trigger“ als Auftrag verstanden; „langweilig“ als „weglassen“.
+Gegenmaßnahme: Skill Schritt 0 „Grundmuster zuerst“ – eine Bemerkung + eine Wunschfrage, wie bei LIN-007 und Leni Spiegel.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).

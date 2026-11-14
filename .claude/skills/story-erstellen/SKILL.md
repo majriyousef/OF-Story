@@ -7,6 +7,16 @@ description: Pflicht-Skill für jede ANIK-Story (Jenny, Lina, Sarah, Leni, Leoni
 
 Dieser Skill ist bei **jedem** Bild und jeder Überarbeitung vollständig auszuführen. Ziel ist, dass die **erste** Ausgabe sitzt. Jede Nachbesserung durch den Nutzer ist ein Fehler dieses Ablaufs. Empfohlene Denkstufe: sehr hoch.
 
+## 0. Grundmuster zuerst (Nutzer, 14.11.2026: „beim ersten Lauf war es perfekt“)
+
+Bewährt im ersten Versuch: LIN-007 (`got my white top wet... my boobs are basically saying hi 😅` + `wanna watch me peel it off? 💦`) und Leni Spiegel (`sticking my tongue out at u in the mirror 😛` + `want me to lose the thong next? 🖤`).
+
+1. **Eine** menschliche Bemerkung über das, was im Bild passiert – selbstironisch oder frech, aus ihrer Sicht, mit einem echten Bilddetail.
+2. **Eine** kurze Wunschfrage mit weiblichem Verb, die genau auf das Produkt zeigt (was ihm im Bild noch fehlt).
+3. Fertig. Keine gestapelten Fragmente, keine Zusatz-Trigger anhängen, kein Umbau des ganzen Ansatzes bei kleiner Kritik.
+
+Alle späteren Regeln (Lessons, Prüffragen) sind Prüfpunkte für dieses Muster, keine Aufforderung, möglichst viele davon in einen Satz zu packen. Widersprechen sie sich, gewinnt das Grundmuster.
+
 ## 1. Pflichtlektüre (jedes Mal neu, nie aus dem Gedächtnis)
 
 - `CLAUDE.md`
