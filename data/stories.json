@@ -310,6 +310,17 @@
       "question": "curled up in my chair, legs closed... for now. should i open them for u? 😇",
       "chatter_note": "On 'yes', picture from the set with legs open on the chair.",
       "status": "final"
+    },
+    {
+      "id": "LEO-003",
+      "model": "Leonie",
+      "source_image": "MISSING-leonie-black-bodysuit-teddy",
+      "placement": "not specified (user preference)",
+      "format": "text_and_question",
+      "text": "my teddy's wearing my panties tonight 🧸",
+      "question": "so guess what i'm not wearing under this bodysuit? 😇",
+      "chatter_note": "On \"panties\" reply \"correct\" and send PPV with bodysuit pulled aside or off.",
+      "status": "final"
     }
   ]
 }

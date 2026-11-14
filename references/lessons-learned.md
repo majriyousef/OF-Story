@@ -309,6 +309,15 @@ Gegenmaßnahme: Skill Schritt 0 „Grundmuster zuerst“ – eine Bemerkung + ei
 
 - Leonie Heels (Nutzer: „der story text ist maximal scheiße“ zu `i'm getting naked either way 😇`): Nur eine Absichtserklärung ohne Bild, ohne Gefühl, ohne Witz. Menschlicher ist ein echtes, nachvollziehbares Gefühl zum Bilddetail (`these heels hurt but they make my ass look so good`).
 
+## 3zd. Warum LEO-003 erst nach vielen Versuchen kam (14.11.2026)
+
+Nutzer: „pantys passt, analysiere mal warum du das nicht direkt so hinbekommen hast“.
+1. **Hintergrund nicht gezoomt:** Ausschnitte nur von Körper, Gesicht und Heels; Nachttisch/Teddy nie vergrößert. Der Skill verlangt Requisiten/Hintergrund.
+2. **Detail zu früh verworfen:** Teddy als „Mütze“ bzw. „zu klein, sieht keiner“ abgehakt. Falsch: Ein kleines Detail ist ein guter Hook, wenn der Text darauf zeigt – der Fan schaut dann gezielt hin. Regel 1 („nur sofort sichtbare Hooks“) gilt nur, wenn die Story voraussetzt, dass der Fan das Detail von selbst entdeckt.
+3. **Formulieren statt neu schauen:** Nach jeder Ablehnung nur neue Wörter für dieselben Motive (Pose, Heels, Body) gesucht, statt das Bild erneut zu scannen.
+4. **Einzigartigkeit nicht priorisiert:** Heels/Body/Pose stehen unter vielen Bildern; „Teddy trägt mein Höschen“ kann nur unter diesem Bild stehen (Generik-Test).
+Regeln (alle Models): Immer auch Hintergrund und Requisiten zoomen. Nach zwei Ablehnungen zuerst das ganze Bild neu scannen und ungenutzte Details auflisten, bevor neu formuliert wird. Bei mehreren Kandidaten gewinnt der Hook, der nur unter diesem Bild stehen kann.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
@@ -364,3 +373,5 @@ Niemals langweilig, generisch oder bot-artig. Floskeln wie `dirty mind`, `wanna 
 33. Beschreibt der Text, was man ohnehin im Bild sieht (Pose, Liegen, Füße)? → streichen; nur das Unsichtbare oder ihren Wunsch sagen, so kurz wie eine echte Nachricht.
 34. Hat die Story wieder die Bauform „Fragment... Frage?“? Wenn die letzten Storys sie auch hatten → einen normalen, einzelnen Satz bauen.
 35. Sagt der Text, wie es ihr geht oder was ihr fehlt (Stimmung/Bedürfnis, aus dem Gesichtsausdruck)? Ein cleverer Kommentar über Kleidung reicht nicht.
+36. Habe ich Hintergrund/Requisiten wirklich gezoomt? Gibt es ein ungenutztes Detail, das nur zu diesem Bild passt (z. B. Teddy mit Höschen)?
+37. Nach zwei Ablehnungen: Bild neu scannen, bevor neu formuliert wird.

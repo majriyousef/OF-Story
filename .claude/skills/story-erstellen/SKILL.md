@@ -32,7 +32,7 @@ Gesicht (Lächeln, Zunge, Blick, Blickrichtung), Haare, Hände, Kleidung (Farbe/
 
 ## 2a. Pflicht-Zoom mit Werkzeug (nicht nur Gesamtbild ansehen)
 
-Vor jeder Formulierung das Bild **tatsächlich in Ausschnitte schneiden und ansehen** (Python/PIL-Crop in den Scratchpad, dann Read): mindestens Gesicht, Oberteil/BH-Mitte, Bauch/Hüfte/Slip, Hände, Beine/Füße, Requisiten/Hintergrund.
+Vor jeder Formulierung das Bild **tatsächlich in Ausschnitte schneiden und ansehen** (Python/PIL-Crop in den Scratchpad, dann Read): mindestens Gesicht, Oberteil/BH-Mitte, Bauch/Hüfte/Slip, Hände, Beine/Füße, Requisiten/Hintergrund. **Hintergrund ist Pflicht** (Nachttisch, Regale, Kuscheltiere, Spiegel) – dort steckt oft der einzigartige Hook (LEO-003: Teddy mit ihrem Höschen). Ein kleines Detail darf Hook sein, wenn der Text direkt darauf zeigt. Nach zwei Ablehnungen das Bild komplett neu scannen, bevor neu formuliert wird.
 
 Danach intern eine **Detail-Liste** schreiben und jedes Detail markieren:
 - *sofort sichtbar* (darf Hook sein) / *nur im Zoom* (nur als stützendes Wort, z. B. richtiges Verb) / *unsicher* (nicht verwenden)

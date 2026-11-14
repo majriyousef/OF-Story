@@ -248,3 +248,11 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - unvollständige Storys ohne finalen Haupttext oder finalen CTA
 - Varianten, die wegen falscher Bilddetails verworfen wurden
 - historische Jonathan-Beispiele, sofern sie keinem aktuellen Produktionsbild zugeordnet sind
+
+### LEO-003 — Kniend im Bett, schwarzer Spitzen-Body, Teddy mit Höschen
+
+- **Bild:** Original-Dateiname fehlt (Watermark leonie.sanders; schwarzer Body, Overknees, nude Plateau-Heels, Teddy auf dem Nachttisch mit pinkem Satin-Höschen auf dem Kopf)
+- **Text:** `my teddy's wearing my panties tonight 🧸`
+- **Question-Sticker:** `so guess what i'm not wearing under this bodysuit? 😇`
+- **Chatter-Hinweis:** Auf „panties“ o. Ä. mit „correct 😇“ antworten und PPV mit zur Seite geschobenem oder ausgezogenem Body senden.
+- **Freigabe:** Nutzer („pantys passt“, 14.11.2026)

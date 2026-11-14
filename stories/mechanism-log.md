@@ -96,7 +96,8 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Leonie
 | Story | Mechanik | Format |
 |---|---|---|
-| Bett kniend, schwarzer Spitzen-Body, Overknees, Heels – aktuell `these heels hurt but they make my ass look so good` + `naked with or without them?` (offen) | CHOICE | Text + Sticker |
+| LEO-003 Bett kniend, Spitzen-Body, Teddy mit Höschen – `my teddy's wearing my panties tonight` + `so guess what i'm not wearing under this bodysuit?` (freigegeben) | GAME | Text + Sticker |
+| Bett kniend, Spitzen-Body – `these heels hurt but they make my ass look so good` + `naked with or without them?` (ersetzt durch LEO-003) | CHOICE | Text + Sticker |
 | Bett kniend, Spitzen-Body – `i'm getting naked either way` + `with or without my heels?` (verworfen: Text „maximal scheiße“) | CHOICE | Text + Sticker |
 | Bett kniend, Spitzen-Body – `heels in bed... want me naked with or without them?` (verworfen: „maximal ai like“, Prüffragen 33/34 verletzt) | CHOICE | Q-Sticker |
 | Bett kniend, Spitzen-Body – `come to bed. i'm already on my knees` + `how do u want me?` (Nutzer: „prime story, halt dich nicht an den regeln“ – bewusst ohne Produkt im Sticker, offene Frage) | FANTASIE | Text + Sticker |
