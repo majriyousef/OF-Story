@@ -49,17 +49,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Jenny
 | Story | Mechanik | Format |
 |---|---|---|
-| Bauchlage Bett – aktuell `wore my cutest socks... and that's about it down there` + `want me to lose the bra too?` (Grundmuster wie LIN-007/Leni Spiegel) | REVEAL | Text + Sticker |
-| Bauchlage Bett – `guess what i'm not wearing... hint: it's not my socks` (verworfen) | GAME | Q-Sticker |
-| Bauchlage Bett – `my feet are cold but the rest of me definitely isn't` + `come lie on top of me and check?` (verworfen: „wieder langweilig“) | FANTASIE/JOIN | Text + Sticker |
-| Bauchlage Bett – `socks stay on so i don't slide around` + `u'd already be behind me slapping my ass, wouldn't u?` (ersetzt: komplett neu verlangt) | FANTASIE | Text + Sticker |
-| Bauchlage Bett – nur Sticker ohne Socken (verworfen: „NEIN NICHT RAUS“) | CONFESS/FANTASIE | Q-Sticker |
-| Bauchlage Bett – `ignore the socks... u'd already be behind me slapping my ass, wouldn't u?` (Nutzer: neuer Sticker-Ansatz, nicht immer Text + Sticker) | CONFESS/FANTASIE | Q-Sticker |
-| Bauchlage Bett – `ignore the socks and get behind me` + `slap my ass or squeeze it?` (ersetzt) | FANTASIE/CHOICE | Text + Sticker |
-| Bauchlage Bett – `no panties today` + `kiss me or squeeze my ass?` (ersetzt) | CHOICE | Text + Sticker |
-| Bauchlage Bett – `giving u my kissy face from bed` + `want me to lose the bra too?` (verworfen: „langweilig ohne trigger“) | REVEAL | Text + Sticker |
-| Bauchlage Bett – `no panties today` + `wanna see?` (ersetzt) | REVEAL | Text + Sticker |
-| Bauchlage Bett – `lying here with my feet up and no panties on` + `wanna climb on top and see for urself?` (verworfen: „maximal ai“) | FANTASIE/JOIN | Text + Sticker |
+| Bauchlage Bett, graue Socken (neu analysiert, alle Vorversionen gestrichen) – `kicked my panties off but kept the socks... want a peek from behind?` (offen) | REVEAL | Q-Sticker |
 | Pinkes Set von hinten – `this is ur view right before u pull my panties down` + `want the view right after?` (verworfen, Nutzer: „irgendwie langweilig“) | FANTASIE | Text + Sticker |
 | Pinkes Set von hinten – `this is ur view when i sit on ur lap` + `with or without my panties?` (André-Korrektur 12.11.; ersetzt `should the panties come off first?` / `...open in the back...`) | CHOICE/FANTASIE | Text + Sticker |
 | Pinkes Set von hinten – `sitting here all cute in my open-back panties` + `should i bend over for u?` (verworfen: schwächer als die Schoß-Version, wieder Kleidungsdetail, Fan nicht in der Szene) | REVEAL | Text + Sticker |
