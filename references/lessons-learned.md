@@ -307,6 +307,8 @@ Gegenmaßnahme: Skill Schritt 0 „Grundmuster zuerst“ – eine Bemerkung + ei
 
 - Nachtrag (Nutzer: „das wirkt maximal ai like, heels in bed, du hast doch die checkliste“): `heels in bed...` verletzte die eigenen Prüffragen 33 (beschreibt Sichtbares) und 34 (Fragment... Frage). Eigener Prozessfehler: Bei „minimal ändern“ die Checkliste trotzdem vollständig anwenden – auch auf die vom Nutzer übernommenen Teile. Besser: Absicht statt Beschreibung (`i'm getting naked either way` + `with or without my heels?`).
 
+- Leonie Heels (Nutzer: „der story text ist maximal scheiße“ zu `i'm getting naked either way 😇`): Nur eine Absichtserklärung ohne Bild, ohne Gefühl, ohne Witz. Menschlicher ist ein echtes, nachvollziehbares Gefühl zum Bilddetail (`these heels hurt but they make my ass look so good`).
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
