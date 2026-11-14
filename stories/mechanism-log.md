@@ -49,7 +49,8 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Jenny
 | Story | Mechanik | Format |
 |---|---|---|
-| Bauchlage Bett – aktuell nur Sticker `u'd already be behind me slapping my ass, wouldn't u?` (Socken-Witz raus, Nutzer: „sehr langweilig“) | CONFESS/FANTASIE | Q-Sticker |
+| Bauchlage Bett – aktuell `socks stay on so i don't slide around` + `u'd already be behind me slapping my ass, wouldn't u?` (Nutzer: Witz nicht raus, sondern witzig und pervers) | FANTASIE | Text + Sticker |
+| Bauchlage Bett – nur Sticker ohne Socken (verworfen: „NEIN NICHT RAUS“) | CONFESS/FANTASIE | Q-Sticker |
 | Bauchlage Bett – `ignore the socks... u'd already be behind me slapping my ass, wouldn't u?` (Nutzer: neuer Sticker-Ansatz, nicht immer Text + Sticker) | CONFESS/FANTASIE | Q-Sticker |
 | Bauchlage Bett – `ignore the socks and get behind me` + `slap my ass or squeeze it?` (ersetzt) | FANTASIE/CHOICE | Text + Sticker |
 | Bauchlage Bett – `no panties today` + `kiss me or squeeze my ass?` (ersetzt) | CHOICE | Text + Sticker |
