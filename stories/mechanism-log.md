@@ -49,7 +49,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Jenny
 | Story | Mechanik | Format |
 |---|---|---|
-| Bauchlage Bett, Kussmund, graue Socken (Neustart, alle Vorversionen gelöscht) – `goodnight kiss from the girl with no panties on` + `wanna sneak in and grab my ass before i fall asleep?` (Nutzer: „was mit sneaky“; Nutzer: Sticker anders → `wanna check before i fall asleep?` „gut, aber Trigger fehlt“ → Trigger ergänzt) | CONFESS/REVEAL | Text + Sticker |
+| Bauchlage Bett, Kussmund, graue Socken (Neustart, alle Vorversionen gelöscht) – `goodnight kiss from the girl with no panties on` + `want a sneak peek of my pussy before i fall asleep?` (Nutzer meinte sneak peek = Bild ihrer Pussy; `sneak in and grab my ass` war ein Missverständnis; Nutzer: Sticker anders → `wanna check before i fall asleep?` „gut, aber Trigger fehlt“ → Trigger ergänzt) | CONFESS/REVEAL | Text + Sticker |
 | Pinkes Set von hinten – `this is ur view right before u pull my panties down` + `want the view right after?` (verworfen, Nutzer: „irgendwie langweilig“) | FANTASIE | Text + Sticker |
 | Pinkes Set von hinten – `this is ur view when i sit on ur lap` + `with or without my panties?` (André-Korrektur 12.11.; ersetzt `should the panties come off first?` / `...open in the back...`) | CHOICE/FANTASIE | Text + Sticker |
 | Pinkes Set von hinten – `sitting here all cute in my open-back panties` + `should i bend over for u?` (verworfen: schwächer als die Schoß-Version, wieder Kleidungsdetail, Fan nicht in der Szene) | REVEAL | Text + Sticker |

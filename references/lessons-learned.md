@@ -299,6 +299,8 @@ Gegenmaßnahme: Skill Schritt 0 „Grundmuster zuerst“ – eine Bemerkung + ei
 
 - Nachtrag 3zc (Nutzer: „sie schmollt nicht aber sehr gut Ansatz minimal anpassen“): Der Ansatz Stimmung/Bedürfnis ist bestätigt. Fehler: Kussmund als Schmollen gedeutet. Regel: Gesichtsausdruck nur benennen, wenn er eindeutig ist; sonst das Bedürfnis ohne Etikett sagen (`nobody's here to grab my ass rn`). Bei „minimal anpassen“ nur das beanstandete Wort ändern.
 
+- Jenny Bauchlage (Nutzer: „nein ob er ein bild … pussy“): „sneaky“ meinte **sneak peek** = ein Bild als Vorgeschmack, konkret ihre Pussy. Lehre: Der stärkste Selling-CTA nennt das Bild und das Körperteil direkt (`want a sneak peek of my pussy before i fall asleep?`); bei einem einzelnen Stichwort des Nutzers erst die naheliegende Verkaufs-Bedeutung prüfen (Bild/Content), nicht eine neue Fantasie erfinden.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
