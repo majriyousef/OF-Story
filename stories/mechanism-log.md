@@ -62,6 +62,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Sarah
 | Story | Mechanik | Format |
 |---|---|---|
+| SAR-008 weiblicher (Nutzer: „mehr frau klingen, nicht ai like“) – `my strap already gave up on me` + `the other one's next, isn't it?` (wartet auf Okay) | REVEAL | Text + Sticker |
 | SAR-008 Vierfüßlerstand Bett, rotes Set – `one strap's already down...` + `let me guess, the other one too?` (freigegeben: Nutzer fand die erste Version am besten; spätere Varianten mit Pose, `this position…`, `5 seconds…` nicht genommen) | REVEAL | Text + Sticker |
 | SAR-007 Kimono Bett – `this robe isn't covering much of my ass... should i just slip out of it for u?` (freigegeben; Vorversionen zu AI-like / `ok` abgelehnt) | REVEAL | Q-Sticker |
 | Couch/Strumpfhose (Reuse) – `kneeling on the couch for u... want to see my ass without these tights?` (verworfen: Schwachstellen, s. Lessons 3s) | REVEAL | Q-Sticker |
