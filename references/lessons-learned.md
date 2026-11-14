@@ -247,6 +247,8 @@ Regeln (alle Models): Bei transparenter Kleidung die Transparenz selbst zum Grun
 
 - Nachtrag 3y (Nutzer: „finde alles langweilig“): Auch `this position isn't really for taking pics 😏` + `next one without my bra? ❤️‍🔥` war langweilig – Bemerkung über Pose/BH + Produktfrage reicht nicht. Was fehlte: Tempo und Druck in der Szene, der Fan bekommt etwas zu tun, und beide Antworten führen in etwas Heißes. Neu: `u've got 5 seconds to get on this bed 😏` + `or am i starting without u? ❤️‍🔥`.
 
+- Nachtrag 3y (Nutzer: „finde die erste version am besten“): Freigegeben wurde am Ende die erste Fassung (SAR-008). „safe/langweilig“ war ein Hinweis auf Steigerung, kein Urteil, dass die erste schlecht ist. Regel: Bei solchem Feedback eine neue Variante liefern, aber die erste ausdrücklich als Option stehen lassen und vergleichen; nie stillschweigend verwerfen.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).

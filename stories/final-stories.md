@@ -175,6 +175,14 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - **Chatter-Hinweis:** Auf „yes“ die Bilder aus diesem Set ohne Kimono als PPV senden.
 - **Freigabe:** Nutzer („gut“, 11.11.2026); Vorlage für weiblich-menschlichen Ton
 
+### SAR-008 — Vierfüßlerstand auf dem Bett, rotes Set, Träger von der Schulter
+
+- **Bild:** Original-Dateiname fehlt (rote Haare, rotes Spitzen-Set, ein BH-Träger auf dem Oberarm)
+- **Text:** `one strap's already down...`
+- **Question-Sticker:** `let me guess, the other one too? ❤️‍🔥`
+- **Chatter-Hinweis:** Auf „yes“ die Bilder aus diesem Set ohne BH als PPV senden.
+- **Freigabe:** Nutzer („finde die erste version am besten“, 14.11.2026)
+
 ## Leni
 
 ### LEN-001 — Werkbank

@@ -229,6 +229,17 @@
       "status": "final"
     },
     {
+      "id": "SAR-008",
+      "model": "Sarah",
+      "source_image": "MISSING-sarah-red-set-all-fours-bed",
+      "placement": "not specified (user preference)",
+      "format": "text_and_question",
+      "text": "one strap's already down...",
+      "question": "let me guess, the other one too? ❤️‍🔥",
+      "chatter_note": "On \"yes\" send the pictures from this set without the bra as PPV.",
+      "status": "final"
+    },
+    {
       "id": "LEN-001",
       "model": "Leni",
       "source_image": "codex-clipboard-e754cb2d-767b-4226-bff2-0335ee969436.png",
