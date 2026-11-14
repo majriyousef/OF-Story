@@ -284,6 +284,8 @@ Ehrliche Ursachen:
 3. **Feedback falsch gelesen:** „perfekt dazu noch der trigger“ als Auftrag verstanden; „langweilig“ als „weglassen“.
 Gegenmaßnahme: Skill Schritt 0 „Grundmuster zuerst“ – eine Bemerkung + eine Wunschfrage, wie bei LIN-007 und Leni Spiegel.
 
+- Nachtrag 3za: `wanna get behind me?` wirkte erneut „ai like“ (Jenny Bauchlage). Bei „behind me“ als nackte Aufforderung reagiert der Nutzer empfindlich; ein weiches, konkretes Wort mit Produkt (`want a peek from behind?`) wirkt menschlicher. Auf eine Ja/Nein-Rückfrage („wäre X besser?“) nicht automatisch umbauen, sondern ehrlich abwägen und die bestehende Version verteidigen, wenn sie stärker ist.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
