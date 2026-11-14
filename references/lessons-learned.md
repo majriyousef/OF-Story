@@ -245,6 +245,8 @@ Regeln (alle Models): Bei transparenter Kleidung die Transparenz selbst zum Grun
 - Abgelehnt (Nutzer: „das wirkt safe wie ai“): `on all fours and one strap's already down...` + `let me guess, the other one too? ❤️‍🔥` – brav beschreibend, cleveres Mini-Wortspiel, keine Haltung.
 - Regel (alle Models, besonders Sarah/Leonie): Brav und clever = AI. Menschlich wirkt eine Creatorin, die etwas Freches über die Situation sagt, das sie sich „eigentlich nicht trauen dürfte“ (`this position isn't really for taking pics`), und dann kurz und lässig fragt (`next one without my bra?`). Selbstironie über das Foto selbst ist ein starkes Mittel.
 
+- Nachtrag 3y (Nutzer: „finde alles langweilig“): Auch `this position isn't really for taking pics 😏` + `next one without my bra? ❤️‍🔥` war langweilig – Bemerkung über Pose/BH + Produktfrage reicht nicht. Was fehlte: Tempo und Druck in der Szene, der Fan bekommt etwas zu tun, und beide Antworten führen in etwas Heißes. Neu: `u've got 5 seconds to get on this bed 😏` + `or am i starting without u? ❤️‍🔥`.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).

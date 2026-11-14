@@ -62,7 +62,8 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Sarah
 | Story | Mechanik | Format |
 |---|---|---|
-| Vierfüßlerstand Bett, rotes Set – aktuell `this position isn't really for taking pics` + `next one without my bra?` (offen) | INDIRECT/REVEAL | Text + Sticker |
+| Vierfüßlerstand Bett, rotes Set – aktuell `u've got 5 seconds to get on this bed` + `or am i starting without u?` (offen) | JOIN/CHOICE | Text + Sticker |
+| Vierfüßlerstand Bett, rotes Set – `this position isn't really for taking pics` + `next one without my bra?` (verworfen: „finde alles langweilig“) | INDIRECT/REVEAL | Text + Sticker |
 | Vierfüßlerstand Bett, rotes Set – `on all fours and one strap's already down...` + `let me guess, the other one too?` (verworfen: „safe wie ai“) | REVEAL | Text + Sticker |
 | SAR-007 Kimono Bett – `this robe isn't covering much of my ass... should i just slip out of it for u?` (freigegeben; Vorversionen zu AI-like / `ok` abgelehnt) | REVEAL | Q-Sticker |
 | Couch/Strumpfhose (Reuse) – `kneeling on the couch for u... want to see my ass without these tights?` (verworfen: Schwachstellen, s. Lessons 3s) | REVEAL | Q-Sticker |
