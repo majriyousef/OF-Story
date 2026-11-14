@@ -123,10 +123,10 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 ### LIN-007 — Nasses weißes Top auf der Terrasse
 
 - **Bild:** Original-Dateiname fehlt (weißes geripptes Top mit Knopfleiste, unten nass, draußen bei Sonne)
-- **Text:** `got my white top wet... my boobs are basically saying hi 😅`
-- **Question-Sticker:** `wanna watch me peel it off? 💦`
+- **Question-Sticker:** `got my white top wet and my boobs are basically saying hi... wanna watch me peel it off? 💦`
+- **Normaler Text:** keiner
 - **Chatter-Hinweis:** Auf „yes“ die Bilder mit ausgezogenem nassem Top als PPV.
-- **Freigabe:** Nutzer (finale Liste, 14.11.2026)
+- **Freigabe:** Nutzer (finale Liste, 14.11.2026); als reiner Question-Sticker für Formatabwechslung
 
 ## Sarah
 
