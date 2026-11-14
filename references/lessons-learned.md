@@ -265,6 +265,11 @@ Regeln (alle Models): Bei transparenter Kleidung die Transparenz selbst zum Grun
 
 - Nachtrag 3y (Nutzer: „finde es noch maximal schwach“ zu `gonna take my bra off or what?`): Ausziehen allein ist kein Trigger. „Trigger“ heißt beim Nutzer ein ausgesprochener Sex-Bezug ohne derbes Verb – wie `take me to bed naked`, `my ass says otherwise`, `already wet`, `spanks`. Bewährte Form für Sarah: Ausziehen **oder** sie direkt nehmen (`rip these stockings off me... or take me with them on?`, André „Yes“).
 
+## 3z. Jenny Bauchlage – „maximal ai“ (14.11.2026)
+
+- Abgelehnt: `lying here with my feet up and no panties on 🧦` + `wanna climb on top and see for urself? 🩷` – vollständiger Satz, der Pose + Kleidung aufzählt (Bildbeschreibung), dazu eine gebaute Zwei-Teile-Frage.
+- Regel (alle Models): Echte Story-Texte sind oft kürzer als gedacht – ein Fragment mit dem Trigger (`no panties today`) und eine Mini-Frage (`wanna see?`). Nicht beschreiben, was man im Bild sieht (Füße hoch, liegen); nur sagen, was man **nicht** sieht oder was sie will.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
@@ -317,3 +322,4 @@ Niemals langweilig, generisch oder bot-artig. Floskeln wie `dirty mind`, `wanna 
 30. Schiebt die Story dem Fan eine Vergangenheit unter („look what u did“, „u made me…“)? → raus, Rolle nur für jetzt/als Nächstes.
 31. Wirkt die Story brav oder „clever“? Dann fehlt Haltung – frecher, direkter, wie eine Frau, die sich etwas traut.
 32. Passt die Handlung des Fans zu seiner Position im Bild (vor/hinter/über ihr)? Er greift nach dem, was vor ihm ist.
+33. Beschreibt der Text, was man ohnehin im Bild sieht (Pose, Liegen, Füße)? → streichen; nur das Unsichtbare oder ihren Wunsch sagen, so kurz wie eine echte Nachricht.

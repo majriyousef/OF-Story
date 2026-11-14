@@ -49,7 +49,8 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Jenny
 | Story | Mechanik | Format |
 |---|---|---|
-| Bauchlage Bett, graue Socken, pinker BH – `lying here with my feet up and no panties on` + `wanna climb on top and see for urself?` (offen) | FANTASIE/JOIN | Text + Sticker |
+| Bauchlage Bett, graue Socken – aktuell `no panties today` + `wanna see?` (offen) | REVEAL | Text + Sticker |
+| Bauchlage Bett – `lying here with my feet up and no panties on` + `wanna climb on top and see for urself?` (verworfen: „maximal ai“) | FANTASIE/JOIN | Text + Sticker |
 | Pinkes Set von hinten – `this is ur view right before u pull my panties down` + `want the view right after?` (verworfen, Nutzer: „irgendwie langweilig“) | FANTASIE | Text + Sticker |
 | Pinkes Set von hinten – `this is ur view when i sit on ur lap` + `with or without my panties?` (André-Korrektur 12.11.; ersetzt `should the panties come off first?` / `...open in the back...`) | CHOICE/FANTASIE | Text + Sticker |
 | Pinkes Set von hinten – `sitting here all cute in my open-back panties` + `should i bend over for u?` (verworfen: schwächer als die Schoß-Version, wieder Kleidungsdetail, Fan nicht in der Szene) | REVEAL | Text + Sticker |
