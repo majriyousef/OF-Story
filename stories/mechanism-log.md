@@ -96,7 +96,8 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Leonie
 | Story | Mechanik | Format |
 |---|---|---|
-| Bett kniend, schwarzer Spitzen-Body, Overknees, Heels (Neustart, alle Vorversionen gelöscht) – nur Sticker `can u come pull this bodysuit aside for me?` (offen) | JOIN/REVEAL | Q-Sticker |
+| Bett kniend, schwarzer Spitzen-Body, Overknees, Heels – aktuell `looking back to see if u're coming to bed` + `want me naked when u get here?` (offen) | FANTASIE/REVEAL | Text + Sticker |
+| Bett kniend, Spitzen-Body – nur Sticker `can u come pull this bodysuit aside for me?` (keine Rückmeldung, Bild erneut geschickt) | JOIN/REVEAL | Q-Sticker |
 | LEO-002 Sessel – `curled up in my chair, legs closed... for now. should i open them for u?` | REVEAL | Q-Sticker |
 | Laptop – `laptop's open but i'm clearly not working... wanna open my bra instead?` (selbst verworfen: Pointe wie Perlen-BH, Parallelismus) | REVEAL | Q-Sticker |
 | Perlen-BH – `can't decide if this pearl bra stays on` + `with or without? you tell me` | CHOICE | Text + Sticker |
