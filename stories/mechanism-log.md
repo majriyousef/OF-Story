@@ -62,7 +62,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Sarah
 | Story | Mechanik | Format |
 |---|---|---|
-| Vierfüßlerstand Bett, rotes Set, Träger von der Schulter – `one strap's already down...` + `let me guess, the other one too?` (offen) | REVEAL | Text + Sticker |
+| Vierfüßlerstand Bett, rotes Set, Träger von der Schulter – `on all fours and one strap's already down...` + `let me guess, the other one too?` (offen; Pose ergänzt, vorher nur Träger-Detail) | REVEAL | Text + Sticker |
 | SAR-007 Kimono Bett – `this robe isn't covering much of my ass... should i just slip out of it for u?` (freigegeben; Vorversionen zu AI-like / `ok` abgelehnt) | REVEAL | Q-Sticker |
 | Couch/Strumpfhose (Reuse) – `kneeling on the couch for u... want to see my ass without these tights?` (verworfen: Schwachstellen, s. Lessons 3s) | REVEAL | Q-Sticker |
 | Couch/Strumpfhose (Reuse) – `these tights are see-through anyway... u pulling them down or should i?` (verworfen: komplett neuer Ansatz verlangt) | CHOICE | Q-Sticker |
