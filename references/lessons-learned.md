@@ -286,6 +286,12 @@ Gegenmaßnahme: Skill Schritt 0 „Grundmuster zuerst“ – eine Bemerkung + ei
 
 - Nachtrag 3za: `wanna get behind me?` wirkte erneut „ai like“ (Jenny Bauchlage). Bei „behind me“ als nackte Aufforderung reagiert der Nutzer empfindlich; ein weiches, konkretes Wort mit Produkt (`want a peek from behind?`) wirkt menschlicher. Auf eine Ja/Nein-Rückfrage („wäre X besser?“) nicht automatisch umbauen, sondern ehrlich abwägen und die bestehende Version verteidigen, wenn sie stärker ist.
 
+## 3zb. Das „Fragment... Frage?“-Muster ist selbst ein AI-Signal (14.11.2026)
+
+- Nutzer: „auch ai“ zu `kicked my panties off but kept the socks... want a peek from behind? 🫣`.
+- Ursache: Fast jede Story der letzten Tage hatte dieselbe Bauform – Fragment, drei Punkte, Frage (`X... want/wanna/should Y?`). Diese Wiederholung wirkt wie eine Schablone, egal wie gut die Wörter sind.
+- Regel (alle Models): Satzbau aktiv wechseln. Bevorzugt ein einzelner, normaler Satz wie eine echte Nachricht (`can u tell i'm not wearing panties? 🫣`), ohne Ellipse; Ellipsen höchstens in jeder dritten Story.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
@@ -339,3 +345,4 @@ Niemals langweilig, generisch oder bot-artig. Floskeln wie `dirty mind`, `wanna 
 31. Wirkt die Story brav oder „clever“? Dann fehlt Haltung – frecher, direkter, wie eine Frau, die sich etwas traut.
 32. Passt die Handlung des Fans zu seiner Position im Bild (vor/hinter/über ihr)? Er greift nach dem, was vor ihm ist.
 33. Beschreibt der Text, was man ohnehin im Bild sieht (Pose, Liegen, Füße)? → streichen; nur das Unsichtbare oder ihren Wunsch sagen, so kurz wie eine echte Nachricht.
+34. Hat die Story wieder die Bauform „Fragment... Frage?“? Wenn die letzten Storys sie auch hatten → einen normalen, einzelnen Satz bauen.
