@@ -62,7 +62,8 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Sarah
 | Story | Mechanik | Format |
 |---|---|---|
-| SAR-008 Trigger-Vorschlag 2 – `pov: u just walked into my bedroom` + `already in position... gonna pull my panties down or what?` (wartet auf Okay; „thong“ korrigiert – im Bild nur der seitliche Bund sichtbar) | ROLEPLAY/JOIN | Text + Sticker |
+| SAR-008 Trigger-Vorschlag 3 – `pov: u just walked into my bedroom` + `gonna pull my panties down or what?` (wartet auf Okay) | ROLEPLAY/JOIN | Text + Sticker |
+| SAR-008 Trigger-Vorschlag 2 (Nutzer: `already in position` ist AI) – `pov: u just walked into my bedroom` + `already in position... gonna pull my panties down or what?` (wartet auf Okay; „thong“ korrigiert – im Bild nur der seitliche Bund sichtbar) | ROLEPLAY/JOIN | Text + Sticker |
 | SAR-008 Trigger-Vorschlag 1 – `pov: u just walked into my bedroom` + `already in position... what are u taking off me first?` (Nutzer: wirkt AI, zwei Gedanken gestapelt) | ROLEPLAY/CHOICE | Text + Sticker |
 | SAR-008 final – `pov: u just walked into my bedroom` + `what are u taking off me first?` (Nutzer: „perfekt“; Zusatz `and one strap's already down` als „ai“ abgelehnt) (Nutzer: „komplett neuer Ansatz alles langweilig“; Träger-Logik komplett raus) | ROLEPLAY/CHOICE | Text + Sticker |
 | SAR-008 weiblicher – `my strap already gave up on me` + `the other one's next, isn't it?` (verworfen: langweilig) | REVEAL | Text + Sticker |

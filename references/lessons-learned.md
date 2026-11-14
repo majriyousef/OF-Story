@@ -259,6 +259,8 @@ Regeln (alle Models): Bei transparenter Kleidung die Transparenz selbst zum Grun
 
 - Nachtrag 3y (Nutzer: „ist auf dem bild ein thong“): Nein, sichtbar ist nur ein dünner roter Bund an der Hüfte; ob String oder Slip, sieht man nicht. Regel: Kleidungsart nur nennen, wenn der entscheidende Teil sichtbar ist; sonst das neutrale Wort (`panties`). Vor dem Senden den Ausschnitt der genannten Kleidung wirklich öffnen.
 
+- Nachtrag 3y (Nutzer: „already in position... der part ist ai“): Vorgeschaltete Zustands-Fragmente (`already in position...`, `one strap's already down...`) wirken bei Sarah wie AI-Füllung. Der Trigger gehört in die Handlung selbst (`gonna pull my panties down or what?`); der POV-Text reicht als Mini-Story.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
