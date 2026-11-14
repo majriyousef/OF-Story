@@ -62,7 +62,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Sarah
 | Story | Mechanik | Format |
 |---|---|---|
-| Rotes Set Bett – aktuell `pov: u just walked into my bedroom` + `what are u taking off me first?` (Nutzer: „komplett neuer Ansatz alles langweilig“; Träger-Logik komplett raus) | ROLEPLAY/CHOICE | Text + Sticker |
+| SAR-008 final – `pov: u just walked into my bedroom and one strap's already down` + `what are u taking off me first?` (Nutzer: „perfekt, dazu noch der trigger“) (Nutzer: „komplett neuer Ansatz alles langweilig“; Träger-Logik komplett raus) | ROLEPLAY/CHOICE | Text + Sticker |
 | SAR-008 weiblicher – `my strap already gave up on me` + `the other one's next, isn't it?` (verworfen: langweilig) | REVEAL | Text + Sticker |
 | SAR-008 Vierfüßlerstand Bett, rotes Set – `one strap's already down...` + `let me guess, the other one too?` (freigegeben: Nutzer fand die erste Version am besten; spätere Varianten mit Pose, `this position…`, `5 seconds…` nicht genommen) | REVEAL | Text + Sticker |
 | SAR-007 Kimono Bett – `this robe isn't covering much of my ass... should i just slip out of it for u?` (freigegeben; Vorversionen zu AI-like / `ok` abgelehnt) | REVEAL | Q-Sticker |

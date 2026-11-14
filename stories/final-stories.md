@@ -178,10 +178,10 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 ### SAR-008 — Vierfüßlerstand auf dem Bett, rotes Set, Träger von der Schulter
 
 - **Bild:** Original-Dateiname fehlt (rote Haare, rotes Spitzen-Set, ein BH-Träger auf dem Oberarm)
-- **Text:** `one strap's already down...`
-- **Question-Sticker:** `let me guess, the other one too? ❤️‍🔥`
-- **Chatter-Hinweis:** Auf „yes“ die Bilder aus diesem Set ohne BH als PPV senden.
-- **Freigabe:** Nutzer („finde die erste version am besten“, 14.11.2026)
+- **Text:** `pov: u just walked into my bedroom and one strap's already down 😏`
+- **Question-Sticker:** `what are u taking off me first? ❤️‍🔥`
+- **Chatter-Hinweis:** „bra“ → PPV ohne BH; „thong“ → PPV von hinten ohne String; „everything“ → beides als Bundle.
+- **Freigabe:** Nutzer („perfekt, dazu noch der trigger“, 14.11.2026); ersetzt `one strap's already down...` + `let me guess, the other one too?`
 
 ## Leni
 

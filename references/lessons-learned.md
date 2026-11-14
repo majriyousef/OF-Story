@@ -251,6 +251,8 @@ Regeln (alle Models): Bei transparenter Kleidung die Transparenz selbst zum Grun
 
 - Nachtrag 3y (Nutzer: „komplett neuer ansatz alles langweilig“): Auch die weibliche Umformulierung der Träger-Idee war langweilig. Wenn alles langweilig ist, liegt es am Aufhänger, nicht an den Wörtern: Kleidungsdetail (Träger) raus, stattdessen eine Fantasie-Szene mit Rolle für den Fan (`pov: u just walked into my bedroom`) und eine Frage, bei der er handelt (`what are u taking off me first?`).
 
+- Freigegeben (SAR-008): `pov: u just walked into my bedroom and one strap's already down 😏` + `what are u taking off me first? ❤️‍🔥` – Fantasie-Szene mit Fan-Rolle + sichtbarer Trigger aus dem Bild + Frage, bei der er handelt und jede Antwort ein Produkt ist. Vorlage.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
