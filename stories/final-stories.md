@@ -266,13 +266,13 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - **Chatter-Hinweis:** Auf „yes“ Bild aus dem Set mit geöffneten Beinen auf dem Sessel.
 - **Team-Feedback:** gut, so beibehalten (23.10.2026)
 
-### LEO-003 — Kniend im Bett, schwarzer Spitzen-Body, Teddy mit Höschen
+### LEO-003 — Kniend im Bett, schwarzer Spitzen-Body, Overknees, nude Plateau-Heels
 
-- **Bild:** Original-Dateiname fehlt (Watermark leonie.sanders; schwarzer Body, Overknees, nude Plateau-Heels, Teddy auf dem Nachttisch mit pinkem Satin-Höschen auf dem Kopf)
-- **Text:** `my teddy's wearing my panties tonight 🧸`
-- **Question-Sticker:** `so guess what i'm not wearing under this bodysuit? 😇`
-- **Chatter-Hinweis:** Auf „panties“ o. Ä. mit „correct 😇“ antworten und PPV mit zur Seite geschobenem oder ausgezogenem Body senden.
-- **Freigabe:** Nutzer („pantys passt“, 14.11.2026)
+- **Bild:** Original-Dateiname fehlt (Watermark leonie.sanders)
+- **Text:** `i know u want this outfit off 😇`
+- **Question-Sticker:** `can i at least keep the heels on? 👠`
+- **Chatter-Hinweis:** Auf „yes“/„no“ das PPV ohne Body senden – mit Heels bei „yes“, ohne bei „no“.
+- **Hinweis:** Erste LEO-003-Fassung (`my teddy's wearing my panties tonight`) verworfen – auf dem Teddy liegen Schlafmasken, kein Höschen (Team-Feedback 15.11.2026).
 
 ## Nicht als Endfassung geführt
 

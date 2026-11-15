@@ -96,7 +96,8 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Leonie
 | Story | Mechanik | Format |
 |---|---|---|
-| LEO-003 Bett kniend, Spitzen-Body, Teddy mit Höschen – `my teddy's wearing my panties tonight` + `so guess what i'm not wearing under this bodysuit?` (freigegeben) | GAME | Text + Sticker |
+| LEO-003 neu – `i know u want this outfit off` + `can i at least keep the heels on?` (Team-Feedback: Outfit + Schuhe anlassen; wartet auf Okay) | CHOICE | Text + Sticker |
+| Teddy-Version `my teddy's wearing my panties tonight` (verworfen: es sind Schlafmasken) | GAME | Text + Sticker |
 | Bett kniend, Spitzen-Body – `these heels hurt but they make my ass look so good` + `naked with or without them?` (ersetzt durch LEO-003) | CHOICE | Text + Sticker |
 | Bett kniend, Spitzen-Body – `i'm getting naked either way` + `with or without my heels?` (verworfen: Text „maximal scheiße“) | CHOICE | Text + Sticker |
 | Bett kniend, Spitzen-Body – `heels in bed... want me naked with or without them?` (verworfen: „maximal ai like“, Prüffragen 33/34 verletzt) | CHOICE | Q-Sticker |

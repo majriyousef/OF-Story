@@ -318,6 +318,8 @@ Nutzer: „pantys passt, analysiere mal warum du das nicht direkt so hinbekommen
 4. **Einzigartigkeit nicht priorisiert:** Heels/Body/Pose stehen unter vielen Bildern; „Teddy trägt mein Höschen“ kann nur unter diesem Bild stehen (Generik-Test).
 Regeln (alle Models): Immer auch Hintergrund und Requisiten zoomen. Nach zwei Ablehnungen zuerst das ganze Bild neu scannen und ungenutzte Details auflisten, bevor neu formuliert wird. Bei mehreren Kandidaten gewinnt der Hook, der nur unter diesem Bild stehen kann.
 
+- Korrektur zu 3zd (Team-Feedback 15.11.2026: „sind schlafmasken bei dem teddy haha, würde was anderes nehmen, eher einfach auf das outfit eingehen und ob sie die schuhe anlassen darf“): Das Teddy-Detail war falsch gedeutet. Ein unscharfes Detail bleibt **unsicher** und wird nicht Hook, auch wenn die Idee witzig ist – erst vom Nutzer am Originalbild bestätigen lassen. Einfach und richtig schlägt clever und falsch.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).

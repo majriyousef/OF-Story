@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "language": "en",
   "notes": "Final/current versions reconstructed from the project conversation. Rejected drafts are intentionally excluded.",
   "stories": [
@@ -346,13 +346,13 @@
     {
       "id": "LEO-003",
       "model": "Leonie",
-      "source_image": "MISSING-leonie-black-bodysuit-teddy",
+      "source_image": "MISSING-leonie-black-bodysuit-heels-bed",
       "placement": "not specified (user preference)",
       "format": "text_and_question",
-      "text": "my teddy's wearing my panties tonight 🧸",
-      "question": "so guess what i'm not wearing under this bodysuit? 😇",
-      "chatter_note": "On \"panties\" reply \"correct\" and send PPV with bodysuit pulled aside or off.",
-      "status": "final"
+      "text": "i know u want this outfit off 😇",
+      "question": "can i at least keep the heels on? 👠",
+      "chatter_note": "Send PPV without the bodysuit: with heels on \"yes\", without on \"no\".",
+      "status": "proposed"
     }
   ]
 }
