@@ -320,6 +320,12 @@ Regeln (alle Models): Immer auch Hintergrund und Requisiten zoomen. Nach zwei Ab
 
 - Korrektur zu 3zd (Team-Feedback 15.11.2026: „sind schlafmasken bei dem teddy haha, würde was anderes nehmen, eher einfach auf das outfit eingehen und ob sie die schuhe anlassen darf“): Das Teddy-Detail war falsch gedeutet. Ein unscharfes Detail bleibt **unsicher** und wird nicht Hook, auch wenn die Idee witzig ist – erst vom Nutzer am Originalbild bestätigen lassen. Einfach und richtig schlägt clever und falsch.
 
+## 3ze. Leonie rotes Set – Format und Hook verfehlt (19.11.2026)
+
+- Nutzer: „absolut nicht an unserem Feedback, Checkliste nicht eingehalten … brauchen keinen Text … nicht immer Text + Question-Sticker … Question-Sticker ist auch scheiße … irgendwas mit der Farbe Rot (rote Lippen, roter BH, roter Tanga)“.
+- Fehler: (1) Wieder Text + Sticker, obwohl Formatvariation Pflicht ist – vor dem Bauen nicht geprüft. (2) Text `can't sleep, too horny` war generisch (passt unter jedes Bettbild). (3) Kleines Detail (Schleife) statt des dominanten, sofort sichtbaren Bildthemas gewählt.
+- Regel (alle Models): Vor jedem Entwurf zuerst das Format festlegen (nur Sticker / nur Text / beides) anhand der letzten Storys und des Batches. Den dominanten visuellen Eindruck suchen (hier: alles Rot – Lippen, BH, Höschen) – er schlägt Einzeldetails.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
@@ -377,3 +383,4 @@ Niemals langweilig, generisch oder bot-artig. Floskeln wie `dirty mind`, `wanna 
 35. Sagt der Text, wie es ihr geht oder was ihr fehlt (Stimmung/Bedürfnis, aus dem Gesichtsausdruck)? Ein cleverer Kommentar über Kleidung reicht nicht.
 36. Habe ich Hintergrund/Requisiten wirklich gezoomt? Gibt es ein ungenutztes Detail, das nur zu diesem Bild passt (z. B. Teddy mit Höschen)?
 37. Nach zwei Ablehnungen: Bild neu scannen, bevor neu formuliert wird.
+38. Format zuerst festgelegt (nicht automatisch Text + Sticker)? Welcher visuelle Gesamteindruck dominiert das Bild (Farbe, Licht, Stimmung)?

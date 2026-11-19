@@ -96,7 +96,8 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Leonie
 | Story | Mechanik | Format |
 |---|---|---|
-| Bett auf dem Rücken, rotes Set mit Schleife an der Hüfte, Overknees – `can't sleep, too horny` + `wanna come untie this bow for me?` (offen) | CONFESS/JOIN | Text + Sticker |
+| Bett auf dem Rücken, rotes Set, rote Lippen – aktuell nur Sticker `wore red for u, so which part comes off first?` (Nutzer: kein Text, Rot-Thema) | CHOICE | Q-Sticker |
+| Bett auf dem Rücken, rotes Set – `can't sleep, too horny` + `wanna come untie this bow for me?` (verworfen: „maximal scheiße“, Format/Checkliste ignoriert) | CONFESS/JOIN | Text + Sticker |
 | LEO-003 neu – `i know u want this outfit off` + `can i at least keep the heels on?` (Team-Feedback: Outfit + Schuhe anlassen; wartet auf Okay) | CHOICE | Text + Sticker |
 | Teddy-Version `my teddy's wearing my panties tonight` (verworfen: es sind Schlafmasken) | GAME | Text + Sticker |
 | Bett kniend, Spitzen-Body – `these heels hurt but they make my ass look so good` + `naked with or without them?` (ersetzt durch LEO-003) | CHOICE | Text + Sticker |
