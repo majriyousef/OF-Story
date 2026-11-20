@@ -348,6 +348,8 @@ Regeln (alle Models): Immer auch Hintergrund und Requisiten zoomen. Nach zwei Ab
 
 - Sarah rote Spitze (Nutzer, 20.11.2026: „einfach simpel direkt effektiv, ohne den roten Emoji, was mit Hände weg tun und mit seiner Fantasie spielen – boobs, soft, nipples“): Bei Sarah darf das verdeckte Körperteil genannt werden – genau das, was unter den Händen liegt (`want my hands off my nipples? 😏`). Er sieht die Finger und weiß jetzt, was darunter ist; das Bild im Kopf ist konkreter als `out of ur way`. Jenny bleibt bei Andeutung (3zf). Roten Gesichts-Emoji 🥵 vermeiden.
 
+- Nachtrag (Nutzer: „nein, ist scheiße, versteht keiner – frag auch erst, wie du bauen würdest“ zu `want my hands off my nipples? 😏`): `hands off` ist eine feste Wendung („Finger weg!“) und liest sich verdreht. Regel (alle Models): Feste Wendungen nie mit anderer Bedeutung verwenden (`hands off`, `out of hand`). Nach einer Ablehnung **erst den Bauplan** (Hook, Fantasie, Produkt, Format) kurz zur Wahl stellen und die Richtung bestätigen lassen, dann formulieren.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).

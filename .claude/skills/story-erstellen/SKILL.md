@@ -157,6 +157,8 @@ Format aus `CLAUDE.md` – **ohne Platzierung**, nur `Text:` und/oder `Question-
 
 ## 10. Nach jeder Rückmeldung
 
+- Nach einer Ablehnung (`scheiße`, `neu`, `nicht stark genug`): **zuerst den Bauplan** (Hook, Fantasie, Produkt, Format) als kurze Auswahl vorlegen und die Richtung bestätigen lassen, erst dann formulieren (Nutzer, 20.11.2026: „frag auch erst, wie du bauen würdest“).
+
 - Feedback sofort mit Originalwortlaut in `references/` speichern; abgelehnte Formulierungen als Negativbeispiel, bestätigte als Vorlage in `lessons-learned.md`.
 - `stories/mechanism-log.md` aktualisieren (auch verworfene Versionen mit Vermerk).
 - Freigaben sofort archivieren (`stories/final-stories.md`, `data/stories.json`, Chatter-Hinweis).
