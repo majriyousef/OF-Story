@@ -31,6 +31,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Leni
 | Story | Mechanik | Format |
 |---|---|---|
+| Spiegel nackt von hinten, Esszimmer, Hand am eigenen Po – `nobody's here to grab my ass so i'm doing it myself` + `wanna see what else needs grabbing?` (offen) | JOIN/REVEAL | Text + Sticker |
 | Spiegel vornübergebeugt, Zunge raus – `sticking my tongue out at u in the mirror` + `want me to lose the thong next?` (offen) | REVEAL | Text + Sticker |
 | Werkbank pink (IMG_3013.HEIC), allgemein – `u wouldn't believe what i've done at this workbench... wanna see?` (Nutzer: Tape-Version sehr explizit, lieber allgemein) | CONFESS/SELL | Q-Sticker |
 | Werkbank pink (IMG_3013.HEIC), Tape – vorher `my bestie used my toy on me right here at the workbench... wanna watch what she did to me?` (Vorversionen: ohne Freundin; `want the tape?` → Nutzer: weiblicher) | CONFESS/SELL | Q-Sticker |
