@@ -65,7 +65,8 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Sarah
 | Story | Mechanik | Format |
 |---|---|---|
-| Bett sitzend, rote Spitze, Hände auf den Brüsten, Kamera von oben – Vorschlag `sitting at the perfect height for u 🫦` + `want my hands out of ur way? 🥵` (Nutzer: „besser als vorher und mit seiner Fantasie spielen“; Sticker unverändert, Text spielt mit Höhe = Tittenfick/Blowjob ohne es zu benennen) | FANTASIE/REVEAL | Text + Sticker |
+| Bett sitzend, rote Spitze, Hände auf den Brüsten, Kamera von oben – Neustart: `how bad do u want me to let go? 🫦` (offen; Nutzer: „vergiss alles … mach die story neu“) | GAME/REVEAL | Q-Sticker |
+| Bett sitzend, rote Spitze – `sitting at the perfect height for u` + `want my hands out of ur way?` (verworfen, Nutzer: „vergiss alles … neu“) | FANTASIE/REVEAL | Text + Sticker |
 | SAR-008 Vorschlag 5 – `pov: u just walked into my bedroom` + `take my bra off first... or just take me like this?` (wartet auf Okay) | ROLEPLAY/CHOICE | Text + Sticker |
 | SAR-008 Vorschlag 4 – `pov: u just walked into my bedroom` + `gonna take my bra off or what?` (Nutzer: „maximal schwach“) | ROLEPLAY/JOIN | Text + Sticker |
 | SAR-008 Vorschlag 3 – `pov: u just walked into my bedroom` + `gonna pull my panties down or what?` (eigener Fehler: er ist vor ihr, das Höschen ist hinten und kaum sichtbar) | ROLEPLAY/JOIN | Text + Sticker |
