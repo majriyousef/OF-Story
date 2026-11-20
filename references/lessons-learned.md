@@ -346,6 +346,8 @@ Regeln (alle Models): Immer auch Hintergrund und Requisiten zoomen. Nach zwei Ab
 
 - Sarah rote Spitze (Nutzer, 20.11.2026: „du sollst das Ergebnis immer erst ändern, wenn es besser als vorher ist – alles scheiße“): Auf „besser als vorher“ habe ich dreimal hintereinander neue Versionen geliefert (`perfect height`, `how bad … let go`, `… stopping u rn`), ohne jede gegen die bestehende (`want my hands out of ur way? 🥵`) zu messen. Keine war besser. Regel (alle Models): Bei „mach besser“ jede neue Version **Punkt für Punkt gegen die bestehende** vergleichen (Hook, Fantasie, Trigger, Selling, Ton). Nur wenn sie in mindestens einem Punkt klar gewinnt und in keinem verliert, wird sie ausgegeben. Sonst ausdrücklich sagen: „Die bestehende Version bleibt, weil …“ – das ist ein gültiges Ergebnis, kein Versagen.
 
+- Sarah rote Spitze (Nutzer, 20.11.2026: „einfach simpel direkt effektiv, ohne den roten Emoji, was mit Hände weg tun und mit seiner Fantasie spielen – boobs, soft, nipples“): Bei Sarah darf das verdeckte Körperteil genannt werden – genau das, was unter den Händen liegt (`want my hands off my nipples? 😏`). Er sieht die Finger und weiß jetzt, was darunter ist; das Bild im Kopf ist konkreter als `out of ur way`. Jenny bleibt bei Andeutung (3zf). Roten Gesichts-Emoji 🥵 vermeiden.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
