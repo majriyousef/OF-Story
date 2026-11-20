@@ -74,6 +74,14 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - **Chatter-Hinweis:** Auf „yes“ das Pussy-Bild als PPV, z. B. „just a little peek 🫣“. Abends posten.
 - **Freigabe:** Nutzer (finale Liste, 14.11.2026)
 
+### JEN-010 — Oben ohne im Bett, Knie vor den Brüsten, blaues LED-Licht
+
+- **Bild:** `55.jpg` (Upload, Original-Dateiname fehlt; Selfie von unten, Herzkette, blaues Kopfteil)
+- **Question-Sticker:** `should i let my knees fall open for u? 🫣`
+- **Normaler Text:** keiner
+- **Chatter-Hinweis:** Auf „yes“ das PPV mit geöffneten Knien (Brüste und Pussy sichtbar), z. B. „just for u 🫣“. Abends posten (LED-Licht).
+- **Freigabe:** Nutzer („finde den ersten gut … nicht direkt pussy/tits sagen, spiel mit seiner Fantasie“)
+
 ## Lina
 
 ### LIN-001 — Brüste auf dem Tisch, Kaffee

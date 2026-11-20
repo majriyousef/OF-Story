@@ -50,7 +50,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Jenny
 | Story | Mechanik | Format |
 |---|---|---|
-| Bett, blaues LED-Licht, Knie vor den Brüsten, Herzkette, Selfie von unten – Vorschlag `my boobs are barely hiding behind my knees... should i just let them fall open? 🫣` (offen; Nutzer fragte „trigger gut?“ zu `should i let my knees fall open for u?` → Trigger nur angedeutet, Körperwort ergänzt) | REVEAL | Q-Sticker |
+| JEN-010 Bett, blaues LED-Licht, Knie vor den Brüsten, Herzkette – `should i let my knees fall open for u? 🫣` (Nutzer: „finde den ersten gut“; `my boobs are barely hiding behind my knees... should i just let them fall open?` verworfen: Körperwort verengt die Fantasie) | REVEAL | Q-Sticker |
 | Bauchlage Bett, Kussmund, graue Socken (Neustart, alle Vorversionen gelöscht) – `goodnight kiss from the girl with no panties on` + `want a sneak peek before i fall asleep? 🐱` (Wort „pussy“ durch das im Archiv etablierte 🐱 ersetzt – Jenny-Ton, Regel 3h; Nutzer meinte sneak peek = Bild ihrer Pussy; `sneak in and grab my ass` war ein Missverständnis; Nutzer: Sticker anders → `wanna check before i fall asleep?` „gut, aber Trigger fehlt“ → Trigger ergänzt) | CONFESS/REVEAL | Text + Sticker |
 | Pinkes Set von hinten – `this is ur view right before u pull my panties down` + `want the view right after?` (verworfen, Nutzer: „irgendwie langweilig“) | FANTASIE | Text + Sticker |
 | Pinkes Set von hinten – `this is ur view when i sit on ur lap` + `with or without my panties?` (André-Korrektur 12.11.; ersetzt `should the panties come off first?` / `...open in the back...`) | CHOICE/FANTASIE | Text + Sticker |

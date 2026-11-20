@@ -336,6 +336,12 @@ Regeln (alle Models): Immer auch Hintergrund und Requisiten zoomen. Nach zwei Ab
 
 - Sarah rote Spitze (Nutzer: „eher wie davor, nur geiler verpacken“): „Geiler“ heißt nicht Zusatz-Trigger davorhängen (`my nipples are so hard rn, …`), sondern dieselbe kurze Frage mit heißerer Perspektive: aus „sehen“ wird „er ist schon da und will ran“ (`want my hands out of ur way?`).
 
+## 3zf. Trigger über seine Fantasie statt Körperwort (Jenny Knie, 20.11.2026)
+
+- Nutzer zu `should i let my knees fall open for u? 🫣` vs. `my boobs are barely hiding behind my knees... should i just let them fall open?`: „bedenke, Pussy kann man auch sehen, wenn Knie öffnen; finde den ersten gut, aber nicht direkt pussy/tits sagen, spiel mit seiner Fantasie; erst ändern, wenn prime und besser als vorher“.
+- Lehre: Ein Trigger muss nicht immer ein Körperwort sein. Beschreibt die Handlung eindeutig, dass er gleich alles sieht (Knie auseinander → Brüste **und** Pussy), entsteht der Trigger in seinem Kopf. Ein ergänztes Körperwort (`my boobs`) **verengt** die Fantasie dann auf einen Teil und ist schwächer.
+- Regel (alle Models): Vor dem Ergänzen eines Körperworts prüfen, ob die Handlung schon mehr verspricht als das Wort. Bei Jenny lieber andeuten als benennen (`pussy`/`tits` nie direkt). Auf „trigger gut?“ zuerst die Fantasie der bestehenden Version durchdenken, nicht reflexartig ein Wort anhängen.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
@@ -394,3 +400,4 @@ Niemals langweilig, generisch oder bot-artig. Floskeln wie `dirty mind`, `wanna 
 36. Habe ich Hintergrund/Requisiten wirklich gezoomt? Gibt es ein ungenutztes Detail, das nur zu diesem Bild passt (z. B. Teddy mit Höschen)?
 37. Nach zwei Ablehnungen: Bild neu scannen, bevor neu formuliert wird.
 38. Format zuerst festgelegt (nicht automatisch Text + Sticker)? Welcher visuelle Gesamteindruck dominiert das Bild (Farbe, Licht, Stimmung)?
+39. Verengt ein ergänztes Körperwort die Fantasie, die die Handlung schon auslöst (Knie öffnen = alles sichtbar)? Dann weglassen.
