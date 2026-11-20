@@ -328,6 +328,8 @@ Regeln (alle Models): Immer auch Hintergrund und Requisiten zoomen. Nach zwei Ab
 
 - Nachtrag 3ze: Selbst verworfen `wore red for u, so which part comes off first?` – passt mit anderer Farbe unter jedes Set-Bild, „…first?“ steht schon in mehreren aktuellen Storys, und das stärkste Rot (glänzende Lippen) blieb ungenutzt. Besser: zwei konkrete rote Dinge aus dem Bild zur Wahl stellen, beide mit heißer Folge (`matched my lipstick to my lingerie, so which one do u wanna ruin?`).
 
+- Nachtrag 3ze (Nutzer: „trigger nicht wirklich geil, mach einfach direkt ohne ai ton“): `ruin` war zu vage. Der direkteste Trigger kommt aus dem stärksten Körperdetail mit eindeutiger Folge für ihn (rote Lippen → `want my red lipstick all over u?`). Ein Satz, keine Wahl, keine Erklärung.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).

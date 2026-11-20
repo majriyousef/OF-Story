@@ -96,7 +96,8 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Leonie
 | Story | Mechanik | Format |
 |---|---|---|
-| Bett auf dem Rücken, rotes Set, rote Lippen – aktuell nur Sticker `matched my lipstick to my lingerie, so which one do u wanna ruin?` (offen) | CHOICE | Q-Sticker |
+| Bett auf dem Rücken, rotes Set, rote Lippen – aktuell nur Sticker `want my red lipstick all over u?` (Nutzer: Trigger direkter, ohne AI-Ton) | JOIN/FANTASIE | Q-Sticker |
+| Bett auf dem Rücken – `matched my lipstick to my lingerie, so which one do u wanna ruin?` (Nutzer: „trigger nicht wirklich geil“) | CHOICE | Q-Sticker |
 | Bett auf dem Rücken, rotes Set – `wore red for u, so which part comes off first?` (selbst verworfen: generisch, „first“ überstrapaziert, Lippen ungenutzt) | CHOICE | Q-Sticker |
 | Bett auf dem Rücken, rotes Set – `can't sleep, too horny` + `wanna come untie this bow for me?` (verworfen: „maximal scheiße“, Format/Checkliste ignoriert) | CONFESS/JOIN | Text + Sticker |
 | LEO-003 neu – `i know u want this outfit off` + `can i at least keep the heels on?` (Team-Feedback: Outfit + Schuhe anlassen; wartet auf Okay) | CHOICE | Text + Sticker |
