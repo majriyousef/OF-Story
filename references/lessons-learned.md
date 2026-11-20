@@ -332,6 +332,8 @@ Regeln (alle Models): Immer auch Hintergrund und Requisiten zoomen. Nach zwei Ab
 
 - Nachtrag 3ze (Nutzer: „ja besser, jetzt noch ohne ai, mehr wie eine frau“): `want my red lipstick all over u?` → `can i leave my lipstick all over u?`. Weiblicher durch (1) kein Farbadjektiv für Sichtbares („red“ ist Bildunterschrift), (2) Frauen-Verb `leave my lipstick` (Kussspuren), (3) ihr eigenes Verlangen als Bitte statt „want …?“.
 
+- Sarah rote Spitze (Nutzer: „ergibt wenig sinn ohne trigger“ zu `too big for my hands?`): Eine Kompliment-Frage ohne Rolle für ihn hat keinen Trigger und keine klare Antwort. „Simpel“ heißt kurz, nicht leer: Der Fan muss in der Frage vorkommen (`wanna try urs?`).
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
