@@ -65,6 +65,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Sarah
 | Story | Mechanik | Format |
 |---|---|---|
+| Bett sitzend, rote Spitze, Hände auf den Brüsten (53.jpg / bearbeitet 56.jpg) – `my boobs feel so soft rn... should i take my hands away? 😏` (offen; Bauplan „Gefühl + Hände weg“ vom Nutzer gewählt) | REVEAL/FANTASIE | Q-Sticker |
 | Bett sitzend, rote Spitze, Hände auf den Brüsten (53.jpg / bearbeitet 56.jpg) – `want my hands off my nipples? 😏` (verworfen, Nutzer: „scheiße, versteht keiner“ – `hands off` liest sich wie „Finger weg“) | REVEAL | Q-Sticker |
 | Bett sitzend, rote Spitze – `want my hands out of ur way? 🥵` (bleibt Stand bis zur neuen Freigabe; Nutzer will ohne roten Emoji, einfacher, mehr Fantasie) | REVEAL/JOIN | Q-Sticker |
 | Bett sitzend, rote Spitze – `my hands are the only thing stopping u rn 🫦` (verworfen: schlechter als `want my hands out of ur way?`) | INDIRECT | Text |
