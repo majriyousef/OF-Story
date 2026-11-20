@@ -326,6 +326,8 @@ Regeln (alle Models): Immer auch Hintergrund und Requisiten zoomen. Nach zwei Ab
 - Fehler: (1) Wieder Text + Sticker, obwohl Formatvariation Pflicht ist – vor dem Bauen nicht geprüft. (2) Text `can't sleep, too horny` war generisch (passt unter jedes Bettbild). (3) Kleines Detail (Schleife) statt des dominanten, sofort sichtbaren Bildthemas gewählt.
 - Regel (alle Models): Vor jedem Entwurf zuerst das Format festlegen (nur Sticker / nur Text / beides) anhand der letzten Storys und des Batches. Den dominanten visuellen Eindruck suchen (hier: alles Rot – Lippen, BH, Höschen) – er schlägt Einzeldetails.
 
+- Nachtrag 3ze: Selbst verworfen `wore red for u, so which part comes off first?` – passt mit anderer Farbe unter jedes Set-Bild, „…first?“ steht schon in mehreren aktuellen Storys, und das stärkste Rot (glänzende Lippen) blieb ungenutzt. Besser: zwei konkrete rote Dinge aus dem Bild zur Wahl stellen, beide mit heißer Folge (`matched my lipstick to my lingerie, so which one do u wanna ruin?`).
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
