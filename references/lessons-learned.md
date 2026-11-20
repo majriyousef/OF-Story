@@ -342,6 +342,8 @@ Regeln (alle Models): Immer auch Hintergrund und Requisiten zoomen. Nach zwei Ab
 - Lehre: Ein Trigger muss nicht immer ein Körperwort sein. Beschreibt die Handlung eindeutig, dass er gleich alles sieht (Knie auseinander → Brüste **und** Pussy), entsteht der Trigger in seinem Kopf. Ein ergänztes Körperwort (`my boobs`) **verengt** die Fantasie dann auf einen Teil und ist schwächer.
 - Regel (alle Models): Vor dem Ergänzen eines Körperworts prüfen, ob die Handlung schon mehr verspricht als das Wort. Bei Jenny lieber andeuten als benennen (`pussy`/`tits` nie direkt). Auf „trigger gut?“ zuerst die Fantasie der bestehenden Version durchdenken, nicht reflexartig ein Wort anhängen.
 
+- Sarah rote Spitze (Nutzer, 20.11.2026: „ist nicht stark genug, kein how bad, Hände einführen, mit seiner Fantasie spielen“ zu `how bad do u want me to let go? 🫦`): `how bad do u want` wirkt schwach und floskelhaft; `let go` ohne genanntes Bilddetail lässt den Hook offen. Regel: Das sichtbare Detail (Hände) im Satz nennen und offenlassen, **was** er dann tun würde – die Lücke füllt seine Fantasie (`my hands are the only thing stopping u rn`).
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
