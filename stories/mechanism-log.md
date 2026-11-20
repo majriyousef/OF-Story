@@ -65,7 +65,8 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Sarah
 | Story | Mechanik | Format |
 |---|---|---|
-| Bett sitzend, rote Spitze, Hände auf den Brüsten, Kamera von oben – `my hands are the only thing stopping u rn 🫦` (offen; Nutzer: „kein how bad, Hände einführen, mit seiner Fantasie spielen“) | INDIRECT | Text |
+| Bett sitzend, rote Spitze, Hände auf den Brüsten, Kamera von oben – bleibt `want my hands out of ur way? 🥵` (keine der neuen Versionen war besser; Nutzer: „erst ändern wenn besser als vorher, alles scheiße“) | REVEAL/JOIN | Q-Sticker |
+| Bett sitzend, rote Spitze – `my hands are the only thing stopping u rn 🫦` (verworfen: schlechter als `want my hands out of ur way?`) | INDIRECT | Text |
 | Bett sitzend, rote Spitze – `how bad do u want me to let go? 🫦` (verworfen: „nicht stark genug, kein how bad“) | GAME/REVEAL | Q-Sticker |
 | Bett sitzend, rote Spitze – `sitting at the perfect height for u` + `want my hands out of ur way?` (verworfen, Nutzer: „vergiss alles … neu“) | FANTASIE/REVEAL | Text + Sticker |
 | SAR-008 Vorschlag 5 – `pov: u just walked into my bedroom` + `take my bra off first... or just take me like this?` (wartet auf Okay) | ROLEPLAY/CHOICE | Text + Sticker |
