@@ -334,6 +334,8 @@ Regeln (alle Models): Immer auch Hintergrund und Requisiten zoomen. Nach zwei Ab
 
 - Sarah rote Spitze (Nutzer: „ergibt wenig sinn ohne trigger“ zu `too big for my hands?`): Eine Kompliment-Frage ohne Rolle für ihn hat keinen Trigger und keine klare Antwort. „Simpel“ heißt kurz, nicht leer: Der Fan muss in der Frage vorkommen (`wanna try urs?`).
 
+- Sarah rote Spitze (Nutzer: „eher wie davor, nur geiler verpacken“): „Geiler“ heißt nicht Zusatz-Trigger davorhängen (`my nipples are so hard rn, …`), sondern dieselbe kurze Frage mit heißerer Perspektive: aus „sehen“ wird „er ist schon da und will ran“ (`want my hands out of ur way?`).
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
