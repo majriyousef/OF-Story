@@ -68,7 +68,8 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 | SAR-008 Vorschlag 3 – `pov: u just walked into my bedroom` + `gonna pull my panties down or what?` (eigener Fehler: er ist vor ihr, das Höschen ist hinten und kaum sichtbar) | ROLEPLAY/JOIN | Text + Sticker |
 | SAR-008 Trigger-Vorschlag 2 (Nutzer: `already in position` ist AI) – `pov: u just walked into my bedroom` + `already in position... gonna pull my panties down or what?` (wartet auf Okay; „thong“ korrigiert – im Bild nur der seitliche Bund sichtbar) | ROLEPLAY/JOIN | Text + Sticker |
 | SAR-008 Trigger-Vorschlag 1 – `pov: u just walked into my bedroom` + `already in position... what are u taking off me first?` (Nutzer: wirkt AI, zwei Gedanken gestapelt) | ROLEPLAY/CHOICE | Text + Sticker |
-| Bett sitzend, rote Spitzen-Body, Brüste raus, Hände drauf (Creatorin ohne Angabe, per Feder-Tattoo als Sarah erkannt) – aktuell nur Sticker `my hands are way too small for these, wanna try urs?` (offen) | JOIN | Q-Sticker |
+| Bett sitzend, rote Spitzen-Body, Brüste raus, Hände drauf (Creatorin ohne Angabe, per Feder-Tattoo als Sarah erkannt) – aktuell nur Sticker `wanna see them without my hands in the way?` (Nutzer-Vorgabe: ob er sie ohne Hände sehen will) | REVEAL | Q-Sticker |
+| Bett sitzend, rote Spitze – `my hands are way too small for these, wanna try urs?` (ersetzt) | JOIN | Q-Sticker |
 | Bett sitzend, rote Spitze – `too big for my hands?` (verworfen: „ergibt wenig sinn ohne trigger“) | GAME | Q-Sticker |
 | Bett sitzend, rote Spitze – `my boobs are already out, wanna move my hands for me?` (ersetzt) | JOIN/REVEAL | Q-Sticker |
 | SAR-008 final – `pov: u just walked into my bedroom` + `what are u taking off me first?` (Nutzer: „perfekt“; Zusatz `and one strap's already down` als „ai“ abgelehnt) (Nutzer: „komplett neuer Ansatz alles langweilig“; Träger-Logik komplett raus) | ROLEPLAY/CHOICE | Text + Sticker |
