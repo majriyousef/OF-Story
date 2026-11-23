@@ -51,6 +51,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Jenny
 | Story | Mechanik | Format |
 |---|---|---|
+| Upload 62: Spiegel-Selfie am Boden, Beine gespreizt, schwarze Lederstiefel, weißes Set – `wanna push my panties to the side? 🫦` (offen; Nutzer-Idee Stiefel an/aus vs. Höschen zur Seite → Stiefel-Wahl verworfen, wiederholt JEN-007) | JOIN | Q-Sticker |
 | Upload 58: Cowboyhut, zieht BH-Träger runter – `one more pull and my boobs are out... want me to? 🤠` (aktuell; Nutzer: „davor war besser“) | REVEAL | Q-Sticker |
 | Upload 58: `one more pull and ur cowgirl's topless... want me to? 🤠` (verworfen: konstruierter, schwächerer Trigger als „my boobs are out“) | REVEAL/FANTASIE | Q-Sticker |
 | Upload 58: `can i ride u with this hat on? 🤠` (verworfen: Nutzer „vergiss alles, was wir bei Jenny gemacht haben“) | FANTASIE | Q-Sticker |
