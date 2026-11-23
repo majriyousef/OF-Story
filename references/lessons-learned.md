@@ -350,6 +350,14 @@ Regeln (alle Models): Immer auch Hintergrund und Requisiten zoomen. Nach zwei Ab
 
 - Nachtrag (Nutzer: „nein, ist scheiße, versteht keiner – frag auch erst, wie du bauen würdest“ zu `want my hands off my nipples? 😏`): `hands off` ist eine feste Wendung („Finger weg!“) und liest sich verdreht. Regel (alle Models): Feste Wendungen nie mit anderer Bedeutung verwenden (`hands off`, `out of hand`). Nach einer Ablehnung **erst den Bauplan** (Hook, Fantasie, Produkt, Format) kurz zur Wahl stellen und die Richtung bestätigen lassen, dann formulieren.
 
+## 3zg. Batch 23.11.2026 – Fantasie zu indirekt, zu wenig direkt
+
+Nutzer-Feedback (Originalwortlaut): „Leonie story direkter, sehr langweilig. Lina story sehr gut, aber keine Flamme-Emoji. Leni story: still warm check ich nicht, Question-Sticker sehr gut, würde Text einfach entfernen. Sarah story sehr sehr langweilig, ohne Trigger, einfach direkter: willst du mich ohne Robe sehen → Jenny auch sehr langweilig.“
+- Abgelehnt: `gonna search me, officer? 🚨` (Rolle ohne klares Produkt), `want me in just the hat, cowboy? 🤠` (Accessoire-Nackt-Muster, langweilig), `open my robe slow or fast? 😏` (Tempo-Wahl ohne Trigger), Text `still warm` (zu kryptisch, Fan muss rätseln).
+- Bestätigt: `i'm dripping in here 🫠` + `can u help me out of this bikini?` (Lina); `wanna see where my panties just were? 🍑` allein (Leni); Richtung `wanna see me without this robe?` (Sarah).
+- Lehre (alle Models): Mit der Fantasie spielen heißt, das Heiße **nicht auszusprechen**, aber der Satz selbst muss **sofort und direkt** verständlich sein und klar auf das Produkt zeigen. Rätsel-Texte (`still warm`), Rollen ohne Produkt (`search me`) und Wahlfragen ohne Körper-/Nackt-Bezug (`slow or fast`) sind zu indirekt. Im Zweifel die einfachste direkte Wunschfrage (`wanna see me without X?`).
+- Kein 🔥 (Flamme) verwenden; ebenso kein 🥵.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).

@@ -136,6 +136,14 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - **Chatter-Hinweis:** Auf „yes“ die Bilder mit ausgezogenem nassem Top als PPV.
 - **Freigabe:** Nutzer (finale Liste, 14.11.2026); als reiner Question-Sticker für Formatabwechslung
 
+### LIN-008 — Sauna, winziger schwarzer Glanz-Bikini
+
+- **Bild:** Upload 59 (Original-Dateiname fehlt; Sauna, Holzwand, verschwitzte Haut, Selfie von oben)
+- **Text:** `i'm dripping in here 🫠`
+- **Question-Sticker:** `can u help me out of this bikini? 👙`
+- **Chatter-Hinweis:** Auf „yes“ das PPV ohne Bikini in der Sauna.
+- **Freigabe:** Nutzer („sehr gut, aber keine Flamme-Emoji“, 23.11.2026)
+
 ## Sarah
 
 ### SAR-001 — Butterfly von hinten
@@ -255,6 +263,14 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 - **Question-Sticker:** `want me to lose the thong next? 🖤`
 - **Chatter-Hinweis:** Auf „yes“ das PPV von hinten ohne String.
 - **Freigabe:** Nutzer (finale Liste, 14.11.2026)
+
+### LEN-008 — Bauchlage nackt, Höschen in der Hand
+
+- **Bild:** Upload 60 (Original-Dateiname fehlt; Sofa, Füße hoch, weinrotes Höschen am Gesicht, Zirbenkissen)
+- **Question-Sticker:** `wanna see where my panties just were? 🍑`
+- **Normaler Text:** keiner (`still warm` entfernt)
+- **Chatter-Hinweis:** Auf „yes“ das PPV von hinten, Beine leicht offen.
+- **Freigabe:** Nutzer („Question-Sticker sehr gut, Text entfernen“, 23.11.2026)
 
 ## Leonie
 

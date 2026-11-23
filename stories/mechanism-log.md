@@ -31,7 +31,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Leni
 | Story | Mechanik | Format |
 |---|---|---|
-| Upload 60: Bauchlage nackt, Füße hoch, hält ihr Höschen ans Gesicht – `still warm 🤭` + `wanna see where my panties just were? 🍑` (offen) | REVEAL/CONFESS | Text + Sticker |
+| LEN-008 Upload 60: Bauchlage nackt, Höschen am Gesicht – nur `wanna see where my panties just were? 🍑` (freigegeben; Text `still warm` entfernt: „check ich nicht“) | REVEAL | Q-Sticker |
 | Spiegel nackt von hinten, Esszimmer, Hand am eigenen Po – `nobody's here to grab my ass so i'm doing it myself` + `wanna see what else needs grabbing?` (offen) | JOIN/REVEAL | Text + Sticker |
 | Spiegel vornübergebeugt, Zunge raus – `sticking my tongue out at u in the mirror` + `want me to lose the thong next?` (offen) | REVEAL | Text + Sticker |
 | Werkbank pink (IMG_3013.HEIC), allgemein – `u wouldn't believe what i've done at this workbench... wanna see?` (Nutzer: Tape-Version sehr explizit, lieber allgemein) | CONFESS/SELL | Q-Sticker |
@@ -51,7 +51,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Jenny
 | Story | Mechanik | Format |
 |---|---|---|
-| Upload 58: Cowboyhut, rotes Spitzen-Bustier, zieht Träger runter – `want me in just the hat, cowboy? 🤠` (offen) | ROLEPLAY/REVEAL | Q-Sticker |
+| Upload 58: Cowboyhut, rotes Spitzen-Bustier, zieht Träger runter – `want me in just the hat, cowboy? 🤠` (verworfen, Nutzer: „sehr langweilig“) | ROLEPLAY/REVEAL | Q-Sticker |
 | JEN-010 Bett, blaues LED-Licht, Knie vor den Brüsten, Herzkette – `should i let my knees fall open for u? 🫣` (Nutzer: „finde den ersten gut“; `my boobs are barely hiding behind my knees... should i just let them fall open?` verworfen: Körperwort verengt die Fantasie) | REVEAL | Q-Sticker |
 | Bauchlage Bett, Kussmund, graue Socken (Neustart, alle Vorversionen gelöscht) – `goodnight kiss from the girl with no panties on` + `want a sneak peek before i fall asleep? 🐱` (Wort „pussy“ durch das im Archiv etablierte 🐱 ersetzt – Jenny-Ton, Regel 3h; Nutzer meinte sneak peek = Bild ihrer Pussy; `sneak in and grab my ass` war ein Missverständnis; Nutzer: Sticker anders → `wanna check before i fall asleep?` „gut, aber Trigger fehlt“ → Trigger ergänzt) | CONFESS/REVEAL | Text + Sticker |
 | Pinkes Set von hinten – `this is ur view right before u pull my panties down` + `want the view right after?` (verworfen, Nutzer: „irgendwie langweilig“) | FANTASIE | Text + Sticker |
@@ -67,7 +67,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Sarah
 | Story | Mechanik | Format |
 |---|---|---|
-| Upload 61: roséfarbener Satin-Kimono (wie SAR-007) geschlossen, Hand am Saum – `open my robe slow or fast? 😏` (offen; Nutzer-Denkanstoß „öffnen“) | CHOICE | Q-Sticker |
+| Upload 61: Satin-Kimono geschlossen – `wanna see me without this robe? 😏` (Nutzer-Vorgabe „einfach direkter: willst du mich ohne Robe sehen“; `open my robe slow or fast?` verworfen: „sehr sehr langweilig, ohne Trigger“) | REVEAL | Q-Sticker |
 | Bett sitzend, rote Spitze, Hände auf den Brüsten (53.jpg / bearbeitet 56.jpg) – `my boobs feel so soft... should i take my hands away for u? 😏` (offen; Bauplan „Gefühl + Hände weg“ vom Nutzer gewählt; Nutzer: „for you und ohne rn“) | REVEAL/FANTASIE | Q-Sticker |
 | Bett sitzend, rote Spitze, Hände auf den Brüsten (53.jpg / bearbeitet 56.jpg) – `want my hands off my nipples? 😏` (verworfen, Nutzer: „scheiße, versteht keiner“ – `hands off` liest sich wie „Finger weg“) | REVEAL | Q-Sticker |
 | Bett sitzend, rote Spitze – `want my hands out of ur way? 🥵` (bleibt Stand bis zur neuen Freigabe; Nutzer will ohne roten Emoji, einfacher, mehr Fantasie) | REVEAL/JOIN | Q-Sticker |
@@ -98,7 +98,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Lina
 | Story | Mechanik | Format |
 |---|---|---|
-| Upload 59: Sauna, winziger schwarzer Glanz-Bikini, verschwitzte Haut – `i'm dripping in here 🫠` + `can u help me out of this bikini? 🔥` (offen) | JOIN | Text + Sticker |
+| LIN-008 Upload 59: Sauna, winziger schwarzer Glanz-Bikini, verschwitzte Haut – `i'm dripping in here 🫠` + `can u help me out of this bikini? 👙` (freigegeben: „sehr gut, aber keine Flamme“ → 🔥 ersetzt) | JOIN | Text + Sticker |
 | Nasses weißes Top draußen (Neustart, Vorversionen und LIN-007 gelöscht) – `it's way too hot out here... had to cool off somehow` + `want my boobs out of this wet top?` (offen) | CONFESS/REVEAL | Text + Sticker |
 | Lack-BH Selfie – aktuell `this bra is doing the bare minimum for my boobs... should i just let them out for u?` (offen) | REVEAL | Q-Sticker |
 | Lack-BH Selfie – `this bra covers like 10% of my boobs... want the other 90%?` (verworfen: Logik verdreht, 90 % sind schon sichtbar) | REVEAL | Q-Sticker |
@@ -112,7 +112,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Leonie
 | Story | Mechanik | Format |
 |---|---|---|
-| Upload 57: Handschellen, schwarzer BH, Schlangen-Slip, Kniestrümpfe, kniend auf dem Bett – `gonna search me, officer? 🚨` (offen; Nutzer-Denkanstoß Officer-Fantasie) | ROLEPLAY | Q-Sticker |
+| Upload 57: Handschellen, schwarzer BH, Schlangen-Slip, Kniestrümpfe – `gonna search me, officer? 🚨` (verworfen, Nutzer: „direkter, sehr langweilig“) | ROLEPLAY | Q-Sticker |
 | Bett auf dem Rücken, rotes Set, rote Lippen – aktuell nur Sticker `can i leave my lipstick all over u?` (Nutzer: „ja besser“, noch weiblicher; vorher `want my red lipstick all over u?`) | JOIN/FANTASIE | Q-Sticker |
 | Bett auf dem Rücken – `matched my lipstick to my lingerie, so which one do u wanna ruin?` (Nutzer: „trigger nicht wirklich geil“) | CHOICE | Q-Sticker |
 | Bett auf dem Rücken, rotes Set – `wore red for u, so which part comes off first?` (selbst verworfen: generisch, „first“ überstrapaziert, Lippen ungenutzt) | CHOICE | Q-Sticker |
