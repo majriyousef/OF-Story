@@ -51,6 +51,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Jenny
 | Story | Mechanik | Format |
 |---|---|---|
+| Upload 58: Cowboyhut, Bustier halb runter – `gonna pull my bra down the rest of the way? 🤠` (offen; Bauplan „er zieht es ganz runter“ vom Nutzer gewählt) | JOIN/REVEAL | Q-Sticker |
 | Upload 58: Cowboyhut, rotes Spitzen-Bustier, zieht Träger runter – `want me in just the hat, cowboy? 🤠` (verworfen, Nutzer: „sehr langweilig“) | ROLEPLAY/REVEAL | Q-Sticker |
 | JEN-010 Bett, blaues LED-Licht, Knie vor den Brüsten, Herzkette – `should i let my knees fall open for u? 🫣` (Nutzer: „finde den ersten gut“; `my boobs are barely hiding behind my knees... should i just let them fall open?` verworfen: Körperwort verengt die Fantasie) | REVEAL | Q-Sticker |
 | Bauchlage Bett, Kussmund, graue Socken (Neustart, alle Vorversionen gelöscht) – `goodnight kiss from the girl with no panties on` + `want a sneak peek before i fall asleep? 🐱` (Wort „pussy“ durch das im Archiv etablierte 🐱 ersetzt – Jenny-Ton, Regel 3h; Nutzer meinte sneak peek = Bild ihrer Pussy; `sneak in and grab my ass` war ein Missverständnis; Nutzer: Sticker anders → `wanna check before i fall asleep?` „gut, aber Trigger fehlt“ → Trigger ergänzt) | CONFESS/REVEAL | Text + Sticker |
@@ -112,6 +113,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Leonie
 | Story | Mechanik | Format |
 |---|---|---|
+| Upload 57: Handschellen – `can't undress myself with these cuffs on... will u do it for me? 🥺` (offen; Bauplan „er zieht sie aus“ vom Nutzer gewählt) | JOIN/ROLEPLAY | Q-Sticker |
 | Upload 57: Handschellen, schwarzer BH, Schlangen-Slip, Kniestrümpfe – `gonna search me, officer? 🚨` (verworfen, Nutzer: „direkter, sehr langweilig“) | ROLEPLAY | Q-Sticker |
 | Bett auf dem Rücken, rotes Set, rote Lippen – aktuell nur Sticker `can i leave my lipstick all over u?` (Nutzer: „ja besser“, noch weiblicher; vorher `want my red lipstick all over u?`) | JOIN/FANTASIE | Q-Sticker |
 | Bett auf dem Rücken – `matched my lipstick to my lingerie, so which one do u wanna ruin?` (Nutzer: „trigger nicht wirklich geil“) | CHOICE | Q-Sticker |
