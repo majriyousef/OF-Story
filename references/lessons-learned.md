@@ -364,6 +364,7 @@ Nutzer-Feedback (Originalwortlaut): „Leonie story direkter, sehr langweilig. L
   - Jenny `gonna pull my bra down the rest of the way? 🤠`: abgelehnt – Ausziehen allein ist kein Trigger (3z), `the rest of the way` ist umständlich, und der dominante Bildeindruck (Cowboyhut) steckt nur im Emoji.
 
 - Nachtrag 3zg (Nutzer: „wo ist das cowgirl?“ zu `one more pull and my boobs are out... want me to? 🤠`): Den dominanten Bildeindruck (Cowboyhut → Cowgirl) nur ins Emoji zu packen reicht nicht – ich hatte das in der Analyse selbst als „Kernaussage: ein Cowgirl zieht sich aus“ benannt und dann als „überladen“ weggelassen. Regel (alle Models): Was in der Kernaussage steht, gehört in den Satz. Eleganteste Form: als Selbstbezeichnung mit Bezug zu ihm (`ur cowgirl`) – das gibt ihm zugleich die Rolle (Cowboy) und spielt mit seiner Fantasie.
+- Korrektur (Nutzer: „davor war besser ne“): `ur cowgirl's topless` war konstruierter und schwächer als `my boobs are out`. Die Frage „wo ist das cowgirl?“ war ein Hinweis, kein Auftrag zum Umbau – ich habe wieder überkorrigiert (3za). Regel: Auf eine Frage zum Bild (`wo ist X?`) zuerst ehrlich abwägen und sagen, ob X den Satz wirklich stärker macht. Ein sichtbarer Hut im Bild plus 🤠 reicht, wenn das Einbauen den natürlichsten, direktesten Trigger (`my boobs are out`) verwässert.
 
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
