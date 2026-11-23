@@ -31,7 +31,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Leni
 | Story | Mechanik | Format |
 |---|---|---|
-| LEN-008 Upload 60: Bauchlage nackt, Höschen am Gesicht – nur `wanna see where my panties just were? 🍑` (freigegeben; Text `still warm` entfernt: „check ich nicht“) | REVEAL | Q-Sticker |
+| LEN-008 Upload 60: Bauchlage nackt, Wäschestück am Gesicht – nur `wanna see where my panties just were? 🍑` (freigegeben; Text `still warm` entfernt: „check ich nicht“) – **Prüfung 23.11.: Wäschestück wirkt im Zoom eher wie ein BH (gepolsterte Körbchen, Unterbrustband mit Logo); falls bestätigt → `wanna see where my bra just was? 🫣`** | REVEAL | Q-Sticker |
 | Spiegel nackt von hinten, Esszimmer, Hand am eigenen Po – `nobody's here to grab my ass so i'm doing it myself` + `wanna see what else needs grabbing?` (offen) | JOIN/REVEAL | Text + Sticker |
 | Spiegel vornübergebeugt, Zunge raus – `sticking my tongue out at u in the mirror` + `want me to lose the thong next?` (offen) | REVEAL | Text + Sticker |
 | Werkbank pink (IMG_3013.HEIC), allgemein – `u wouldn't believe what i've done at this workbench... wanna see?` (Nutzer: Tape-Version sehr explizit, lieber allgemein) | CONFESS/SELL | Q-Sticker |
