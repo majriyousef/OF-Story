@@ -358,6 +358,11 @@ Nutzer-Feedback (Originalwortlaut): „Leonie story direkter, sehr langweilig. L
 - Lehre (alle Models): Mit der Fantasie spielen heißt, das Heiße **nicht auszusprechen**, aber der Satz selbst muss **sofort und direkt** verständlich sein und klar auf das Produkt zeigen. Rätsel-Texte (`still warm`), Rollen ohne Produkt (`search me`) und Wahlfragen ohne Körper-/Nackt-Bezug (`slow or fast`) sind zu indirekt. Im Zweifel die einfachste direkte Wunschfrage (`wanna see me without X?`).
 - Kein 🔥 (Flamme) verwenden; ebenso kein 🥵.
 
+- Nachtrag 3zg (Nutzer, 23.11.2026: „Jenny gefällt mir nicht … Leonie gefällt mir das Emoji nicht, passt nicht wirklich … Sarah gut, muss aber ein bisschen mehr wie eine Frau klingen und nicht wie ein Teenie-Girl“):
+  - Sarah ist reif: kein Teenie-Slang (`wanna`, `u`, `gonna`), sondern ausgeschriebene, ruhige Sprache einer erwachsenen Frau (`do you want to see me without my robe?`). Texting-Slang bleibt für Jenny, Leni, Leonie.
+  - Emoji muss zum Ton passen: 🥺 (Bettelgesicht) wirkt kindlich und passt nicht zu gefesselt-nasty; ein Emoji aus dem Bild (⛓️) oder mit Haltung wählen.
+  - Jenny `gonna pull my bra down the rest of the way? 🤠`: abgelehnt – Ausziehen allein ist kein Trigger (3z), `the rest of the way` ist umständlich, und der dominante Bildeindruck (Cowboyhut) steckt nur im Emoji.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
