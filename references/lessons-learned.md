@@ -363,6 +363,8 @@ Nutzer-Feedback (Originalwortlaut): „Leonie story direkter, sehr langweilig. L
   - Emoji muss zum Ton passen: 🥺 (Bettelgesicht) wirkt kindlich und passt nicht zu gefesselt-nasty; ein Emoji aus dem Bild (⛓️) oder mit Haltung wählen.
   - Jenny `gonna pull my bra down the rest of the way? 🤠`: abgelehnt – Ausziehen allein ist kein Trigger (3z), `the rest of the way` ist umständlich, und der dominante Bildeindruck (Cowboyhut) steckt nur im Emoji.
 
+- Nachtrag 3zg (Nutzer: „wo ist das cowgirl?“ zu `one more pull and my boobs are out... want me to? 🤠`): Den dominanten Bildeindruck (Cowboyhut → Cowgirl) nur ins Emoji zu packen reicht nicht – ich hatte das in der Analyse selbst als „Kernaussage: ein Cowgirl zieht sich aus“ benannt und dann als „überladen“ weggelassen. Regel (alle Models): Was in der Kernaussage steht, gehört in den Satz. Eleganteste Form: als Selbstbezeichnung mit Bezug zu ihm (`ur cowgirl`) – das gibt ihm zugleich die Rolle (Cowboy) und spielt mit seiner Fantasie.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).
