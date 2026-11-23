@@ -51,7 +51,8 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Jenny
 | Story | Mechanik | Format |
 |---|---|---|
-| Upload 58: Cowboyhut, roter Spitzen-BH – `can i ride u with this hat on? 🤠` (offen; Bauplan „Cowgirl-Fantasie“ vom Nutzer gewählt) | FANTASIE | Q-Sticker |
+| Upload 58: Cowboyhut, zieht BH-Träger runter, Neustart – `one more pull and my boobs are out... want me to? 🤠` (offen; Nutzer: „vergiss alles … Bild neu anschauen“) | REVEAL | Q-Sticker |
+| Upload 58: `can i ride u with this hat on? 🤠` (verworfen: Nutzer „vergiss alles, was wir bei Jenny gemacht haben“) | FANTASIE | Q-Sticker |
 | Upload 58: Cowboyhut, Bustier halb runter – `gonna pull my bra down the rest of the way? 🤠` (verworfen, Nutzer: „gefällt mir nicht“) | JOIN/REVEAL | Q-Sticker |
 | Upload 58: Cowboyhut, rotes Spitzen-Bustier, zieht Träger runter – `want me in just the hat, cowboy? 🤠` (verworfen, Nutzer: „sehr langweilig“) | ROLEPLAY/REVEAL | Q-Sticker |
 | JEN-010 Bett, blaues LED-Licht, Knie vor den Brüsten, Herzkette – `should i let my knees fall open for u? 🫣` (Nutzer: „finde den ersten gut“; `my boobs are barely hiding behind my knees... should i just let them fall open?` verworfen: Körperwort verengt die Fantasie) | REVEAL | Q-Sticker |
