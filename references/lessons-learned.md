@@ -368,6 +368,8 @@ Nutzer-Feedback (Originalwortlaut): „Leonie story direkter, sehr langweilig. L
 
 - Jenny Stiefel/Höschen (Nutzer, 23.11.2026: „hä nein, ob sie das machen soll“): Ich habe den Fan die Handlung ausführen lassen (`wanna push/move my panties to the side?`). Gemeint war: **sie** macht es, **er** entscheidet (`should i move my panties to the side for u?`). Lehre (alle Models): Für Selling ist die Handlung der Creatorin das Produkt (sie macht es im PPV); der Fan gibt nur das Ja. Bei einer Nutzer-Idee („Dingens zur Seite schieben“) klären, wer handelt – im Zweifel sie.
 
+- Lina Sauna (Team-Feedback über den Nutzer, 27.11.2026: „würde eher fragen, ob er Lust hätte, in die Sauna zu kommen“ → „ne, denke er meint ohne dripping, sondern Question-Sticker mit Sauna“): Bei einem Ort mit starker eigener Fantasie (Sauna, Dusche, Pool) wirkt die direkte Einladung an den Ort stärker als ein Zustands-Text (`i'm dripping in here`). Den Ort im Sticker nennen, die Einladung persönlich halten und das Produkt als kleinen Zusatz andeuten (`bikini's optional`). Ich hatte die Rückmeldung zuerst als Zusatz zum alten Text gelesen – bei Feedback von Dritten prüfen, ob die ganze Story oder nur der Sticker gemeint ist.
+
 ## 4. Variation vor dem Entwurf prüfen, nicht danach
 
 - Archiv der Creatorin auf Format **und Pointe** prüfen. Beispiel: „one tiny clasp holding these two together“ wiederholte LIN-002 („barely holding this look together“).

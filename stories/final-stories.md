@@ -139,10 +139,10 @@ Gespeichert ist pro Bild die letzte produktionsfähige Fassung aus dem gemeinsam
 ### LIN-008 — Sauna, winziger schwarzer Glanz-Bikini
 
 - **Bild:** Upload 59 (Original-Dateiname fehlt; Sauna, Holzwand, verschwitzte Haut, Selfie von oben)
-- **Text:** `i'm dripping in here 🫠`
-- **Question-Sticker:** `wanna come sweat with me? 😉`
-- **Chatter-Hinweis:** Auf „yes“: „bikini comes off as soon as u're in 😏“ + PPV ohne Bikini in der Sauna.
-- **Freigabe:** Nutzer („sehr gut, aber keine Flamme-Emoji“, 23.11.2026); Sticker geändert auf Nutzerwunsch („eher fragen, ob er Lust hätte, in die Sauna zu kommen“, 27.11.2026), vorher `can u help me out of this bikini? 👙`
+- **Question-Sticker:** `wanna join me in the sauna? bikini's optional 😉`
+- **Normaler Text:** keiner
+- **Chatter-Hinweis:** Auf „yes“: „then mine's coming off first 😏“ + PPV ohne Bikini in der Sauna.
+- **Freigabe:** Nutzer/Team-Feedback (27.11.2026: „eher fragen, ob er Lust hätte, in die Sauna zu kommen … ohne dripping, Question-Sticker mit Sauna“); Vorversionen `i'm dripping in here 🫠` + `can u help me out of this bikini? 👙` / `wanna come sweat with me? 😉`
 
 ## Sarah
 

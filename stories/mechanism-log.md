@@ -103,7 +103,7 @@ Pflicht vor jeder neuen Story: Die letzten **3 Storys derselben Creatorin** prü
 ### Lina
 | Story | Mechanik | Format |
 |---|---|---|
-| LIN-008 Upload 59: Sauna, winziger schwarzer Glanz-Bikini, verschwitzte Haut – `i'm dripping in here 🫠` + `wanna come sweat with me? 😉` (Nutzer: „eher fragen, ob er Lust hätte, in die Sauna zu kommen“; vorher `can u help me out of this bikini? 👙`) | JOIN | Text + Sticker |
+| LIN-008 Upload 59: Sauna, winziger schwarzer Glanz-Bikini – nur `wanna join me in the sauna? bikini's optional 😉` (Team-Feedback via Nutzer: „ohne dripping, Question-Sticker mit Sauna, fragen ob er Lust hätte zu kommen“; vorher `i'm dripping in here` + `can u help me out of this bikini?` / `wanna come sweat with me?`) | JOIN | Q-Sticker |
 | Nasses weißes Top draußen (Neustart, Vorversionen und LIN-007 gelöscht) – `it's way too hot out here... had to cool off somehow` + `want my boobs out of this wet top?` (offen) | CONFESS/REVEAL | Text + Sticker |
 | Lack-BH Selfie – aktuell `this bra is doing the bare minimum for my boobs... should i just let them out for u?` (offen) | REVEAL | Q-Sticker |
 | Lack-BH Selfie – `this bra covers like 10% of my boobs... want the other 90%?` (verworfen: Logik verdreht, 90 % sind schon sichtbar) | REVEAL | Q-Sticker |
